@@ -1,0 +1,186 @@
+# P03-B006 — кланы, заголовки слухов, звания и подписи обмена.
+words:clan/0|Натси
+words:clan/1|Патруль стражи
+words:clan/2|Банда Сирила
+words:clan/3|Рыцари Спрома
+words:clan/4|Клан Белмия
+words:clan/5|Клан Баниса
+words:clan/6|Банда Гаджа
+words:clan/7|Следопыты
+words:clan/8|Клан Марбл
+words:clan/9|Звери Кудика
+words:clan/10|Б[[1B01]]родя[[1B01]]чие[[1D02]]на[[1B01]]яды
+words:clan/11|Клан Клац
+words:clan/12|Клан Дип
+words:clan/13|Банда Коринга
+words:clan/14|Клан Шало
+words:clan/15|Призраки Эйсена
+words:clan/16|Драконы Роды
+words:clan/17|Муравьиные львы
+words:clan/18|Трибиты
+words:clan/19|Духи-проказники
+words:clan/20|Латунные[[1D03]]дра[[1B01]]гуны
+words:clan/21|Дикие монстры
+words:clan/22|Банда Гертай
+words:clan/23|Банда Рамбл
+words:clan/24|Секта Зоары
+words:clan/25|Заблудшие монстры
+words:clan/26|Бандиты Туболы
+words:clan/27|Клан Гончих
+words:clan/28|По[[1B01]]сланники[[1D02]]яг[[1B01]]д[[1B01]]а
+words:clan/29|Кровожадные
+words:clan/30|Фракция Донеда
+words:clan/31|Розыск!
+words:clan/32|Сбе[[1B01]]жавшие[[1D03]]зве[[1B01]]ри
+words:clan/33|Клан Ворона
+words:clan/34|Драконы Роды
+words:clan/35|Жёлтая сила
+words:clan/36|Синие гении
+words:clan/37|Бурые кролики
+words:clan/38|Белые купо
+words:clan/39|Мифриловый отряд
+words:clan/40|Писатель Спрома
+words:clan/41|Контрабандисты
+words:clan/42|Сопротивление
+words:clan/44|Клинкогрыз
+words:clan/45|Браконьеры
+words:clan/46|Снежная фея
+words:clan/47|Безумный ткач
+words:clan/48|Почтальон
+words:clan/49|Клан Бахам
+words:clan/122|Люди-ящеры!?
+words:clan/123|Ли-Грим
+words:clan/124|Королева Ремеди
+words:clan/125|Лледнар
+words:clan/126|Матеус
+words:clan/127|Эксодус
+words:rumor/7|Законы:[[1D03]]история
+words:rumor/8|Нечестные законы!
+words:rumor/9|Войны кланов
+words:rumor/10|Без[[1B01]]умные[[1D01]]монстры
+words:rumor/11|Фамфрит
+words:rumor/12|Кристаллы
+words:rumor/13|Суровые законы
+words:rumor/14|Тайная лавка
+words:rumor/15|Ультима
+words:rumor/16|Адраммелех
+words:rumor/17|Ягды
+words:rumor/18|Товары для обмена
+words:rumor/19|Листок розыска
+words:rumor/20|Новые часы
+words:rumor/21|Большой обыск
+words:rumor/22|Эксодус
+words:rumor/23|Судьи без спутников
+words:rumor/24|Матеус
+words:rumor/25|День приёма
+words:rumor/26|Взлёт цен
+words:rumor/27|Отпуск[[1D01]]королевы
+words:rumor/28|Новое[[1D03]]приключение
+words:rumor/29|Клан Борзой
+words:rumor/30|Грязная тайна
+words:rumor/31|Вор разоблачён
+words:rumor/32|Область свободна!
+words:rumor/33|Наши герои!
+words:rumor/34|План Борзоя
+words:rumor/35|Конец Борзоя
+words:rumor/36|Гукко побеждён
+words:rumor/37|Чужеземный корабль
+words:rumor/38|Преступный синдикат
+words:rumor/39|Красные крылья
+words:rumor/40|Монополия!
+words:rumor/41|Фалгабёрд
+words:rumor/42|Камень[[1D01]]духов
+words:rumor/43|Мудрецы
+words:rumor/44|Наконец-то мир
+words:rumor/45|Конец Гриссома
+words:rumor/46|Странный менестрель
+words:rumor/47|Чужеземные[[1D03]]твари
+words:rumor/48|Герои
+words:rumor/49|Гук[[1B01]]ко:[[1D01]]возвращение
+words:rumor/50|Ура!
+words:rumor/52|Освободители
+words:rumor/53|Турнир
+words:rumor/54|Турниры
+words:rumor/55|Лига кланов
+words:rumor/56|Снежный перевал
+words:rumor/57|Браконьерство
+words:rumor/58|Найдены руины
+words:rumor/59|Нечестные[[1D01]]судьи?
+words:rumor/60|Пустые карты
+words:rumor/61|!Умения
+words:rumor/62|!Типы умений
+words:rumor/63|!Смена профессии
+words:rumor/64|!Высшие профессии
+words:rumor/65|!Превращения
+words:rumor/66|!Условия
+words:rumor/67|!Комбо
+words:rumor/68|!Освобождение
+words:rumor/69|!Тотемы
+words:rumor/71|!Законы
+words:rumor/72|!Ранги законов
+words:rumor/73|!Заключение
+words:rumor/75|!Карты законов
+words:rumor/77|!Переговоры
+words:rumor/79|!Поиск[[1D04]]кладов
+words:rumor/81|!Заявки
+words:rumor/83|!Квестовые предметы
+words:rumor/85|!Уровень клана
+words:rumor/86|!Уровни навыков
+words:rumor/87|!Земли клана
+words:rumor/89|!Связь
+words:rumor/91|!Товары для обмена
+words:title/1|Неудачник 
+words:title/2|Жулик 
+words:title/3|Скряга 
+words:title/4|Ф[[1B01]]ракция[[1D02]]Б[[1B02]]аха[[1B01]]ма 
+words:title/5|Исследователь 
+words:title/6|Мастер 
+words:title/7|Несравненный 
+words:title/8|Супер 
+words:title/9|Рискоборец 
+words:title/10|Джамаг 
+words:title/11|Мейстер 
+words:title/12|Ловкорукий 
+words:title/13|Божий глаз 
+words:title/14|Трюфельный нос 
+words:title/15|Переговорщик 
+words:title/16|Убийца драконов 
+words:title/17|Авантюрист 
+words:title/18|Один из 10 000 
+words:title/19|Эксперт 
+words:title/20|Мастер войны 
+words:title/21|Гамаг 
+words:title/22|Мастер-кузнец 
+words:title/23|Золотая рука 
+words:title/24|Верный глаз 
+words:title/25|Соломенный нос 
+words:title/26|Советник 
+words:title/27|Убийца медведей 
+words:title/28|Путешественник 
+words:title/29|Один из 1000 
+words:title/30|Продвинутый 
+words:title/31|Командир 
+words:title/32|Рамаг 
+words:title/33|Кузнец 
+words:title/34|Серебряная рука 
+words:title/35|Ясный глаз 
+words:title/36|Грибной нос 
+words:title/37|Всезнайка 
+words:title/38|Пастух 
+words:title/39|Оруженосец 
+words:title/40|Один из 100 
+words:title/41|Новичок 
+words:title/42|Воин 
+words:title/43|Амаг 
+words:title/44|Ремесленник 
+words:title/45|Медная рука 
+words:title/46|Косой глаз 
+words:title/47|Тростниковый нос 
+words:title/48|Сказочник 
+words:title/49|Крысолов 
+words:title/50|Мечтатель 
+words:title/51|Один из 10 
+words:uitm/0|Оценка
+words:uitm/1|Ранг
+words:uitm/2|Карты
+words:uitm/3|Ранг

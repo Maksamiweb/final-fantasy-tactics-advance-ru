@@ -1,0 +1,626 @@
+{
+  "source_sha256": "43fc8204c6dceee58828aebc7af0c72eb807e99f35ad641c8bb0a4fa8b6edc19",
+  "scope": "Manually reviewed character names for 124 original source-font glyphs, using raster and Japanese context. No original bitmap bytes or full source-text dump included.",
+  "glyphs": [
+    {
+      "glyph_index": 291,
+      "unicode": "点",
+      "original_128_bytes_sha256": "0938fbc460a63dd8658f601c13d34fee6d3772d4a7909d82988cb1de884e04d7"
+    },
+    {
+      "glyph_index": 292,
+      "unicode": "集",
+      "original_128_bytes_sha256": "6499f4bbb89d986156f71cb5c7d383b57ced8686cddd94b8d0780a2aa18fbf9b"
+    },
+    {
+      "glyph_index": 293,
+      "unicode": "中",
+      "original_128_bytes_sha256": "654231595f28b9c50dc403e4cb50b242df8a2cfd60d3ffaf2a83726f5d510117"
+    },
+    {
+      "glyph_index": 297,
+      "unicode": "撃",
+      "original_128_bytes_sha256": "2aa3f09cf17743df2ac987b4813e9605259eb80f9d04410a13a34d76a6912fce"
+    },
+    {
+      "glyph_index": 306,
+      "unicode": "子",
+      "original_128_bytes_sha256": "74c5344ce4ce3f176f928b4ceb83d8fbcf9b3de81956c3f15c7c4d02567f6e39"
+    },
+    {
+      "glyph_index": 309,
+      "unicode": "上",
+      "original_128_bytes_sha256": "7106c76b383d18d70f0e4511b1fe08b8b46b71640d76c276b7c9b69f2e63ea25"
+    },
+    {
+      "glyph_index": 310,
+      "unicode": "下",
+      "original_128_bytes_sha256": "42010c3562c42d49a91244b60cb554884ce7f787d9a4e3c398aeccd50c85f0c5"
+    },
+    {
+      "glyph_index": 313,
+      "unicode": "反",
+      "original_128_bytes_sha256": "df19370ffdfb36f0ca668ccda3be8d130bb803a0f6bb1d58161ed7caf01e33eb"
+    },
+    {
+      "glyph_index": 314,
+      "unicode": "方",
+      "original_128_bytes_sha256": "64746d7fe36f47d7aa7af3cddf531ad57464fa8c27a7ce3944bdcc0ec5cbfcb8"
+    },
+    {
+      "glyph_index": 315,
+      "unicode": "心",
+      "original_128_bytes_sha256": "24cc89f1f21602a6cd8072df8594c45f2d8701c03bf232504450553dd29376af"
+    },
+    {
+      "glyph_index": 319,
+      "unicode": "出",
+      "original_128_bytes_sha256": "683f6c7a412cd9f4307d42e0c7f7805c1a8c749ec3385753cf60bf720e30f330"
+    },
+    {
+      "glyph_index": 321,
+      "unicode": "必",
+      "original_128_bytes_sha256": "dda85877b722dd1e4b9bb8c83123932877b1c6c22d846b5220bf9ec0ac6a05e0"
+    },
+    {
+      "glyph_index": 322,
+      "unicode": "世",
+      "original_128_bytes_sha256": "8b4a613042ec3b370bca0f84dfebfebd8f1759625a8077a726f62afdd1057748"
+    },
+    {
+      "glyph_index": 329,
+      "unicode": "行",
+      "original_128_bytes_sha256": "27841c5c9e36fa1bf9365802097fb3cd71a3f0fc04233d500ab42fa8c4c89542"
+    },
+    {
+      "glyph_index": 332,
+      "unicode": "団",
+      "original_128_bytes_sha256": "7d127ec3045ac7152d26db9ab04fb1dba1849ede3f75c6c6185771f09dd724c8"
+    },
+    {
+      "glyph_index": 334,
+      "unicode": "何",
+      "original_128_bytes_sha256": "683adc6616490dff3cccd4aca6826f52b0ec36199dae3dba45291753578d0f33"
+    },
+    {
+      "glyph_index": 335,
+      "unicode": "来",
+      "original_128_bytes_sha256": "92d7146141bdc224c443b684acab94baeaf33d50f2e5e59a4afb3d27186cb50e"
+    },
+    {
+      "glyph_index": 336,
+      "unicode": "見",
+      "original_128_bytes_sha256": "d0c47a46a34a56ef9379bff35cac53f1a446a0ba106d1e5c9d53820897015c55"
+    },
+    {
+      "glyph_index": 340,
+      "unicode": "言",
+      "original_128_bytes_sha256": "f48a4a704381d784b3e199e3a446bf219ec74307892a90524a0b73ef763e3549"
+    },
+    {
+      "glyph_index": 341,
+      "unicode": "近",
+      "original_128_bytes_sha256": "4a71cde32c0cb2be806feb995624723b6906bd9f94e94251e42a3490bed7d795"
+    },
+    {
+      "glyph_index": 347,
+      "unicode": "者",
+      "original_128_bytes_sha256": "8820121f07f6dc4a8d297fe69d6fe86b070600c69add1d5c5d2bac196466b9ec"
+    },
+    {
+      "glyph_index": 351,
+      "unicode": "界",
+      "original_128_bytes_sha256": "642afd25e2bb6a4f53a6b532b40f9e6c446aa7ee149399d7f33641077a4645d8"
+    },
+    {
+      "glyph_index": 367,
+      "unicode": "教",
+      "original_128_bytes_sha256": "5d67f02247bf7d075ddc5f7fc281943ffa1d13d7fe73f8167cb87a51cc58d088"
+    },
+    {
+      "glyph_index": 369,
+      "unicode": "達",
+      "original_128_bytes_sha256": "590777c81334e52bded7c9bb582976ce480b6e6ced0551290e9a3b01c23cdfcf"
+    },
+    {
+      "glyph_index": 371,
+      "unicode": "貴",
+      "original_128_bytes_sha256": "1a2d53742ac383d121e03fc3ff1a87f85cabfda571095694fcc3d741e59de00e"
+    },
+    {
+      "glyph_index": 379,
+      "unicode": "様",
+      "original_128_bytes_sha256": "e0870d081bdadbdf06caddbf9720c40863368a33e76291fd161ffe185369d4e2"
+    },
+    {
+      "glyph_index": 384,
+      "unicode": "頼",
+      "original_128_bytes_sha256": "30e1fda977eb9a934c853f96cecc9412fc4f588b4355c39ca85406e87015ee1d"
+    },
+    {
+      "glyph_index": 386,
+      "unicode": "力",
+      "original_128_bytes_sha256": "298feeab6727db2bc65ad5e4b91ead1f1bc72273ecd9f29644b073223e02b175"
+    },
+    {
+      "glyph_index": 410,
+      "unicode": "叩",
+      "original_128_bytes_sha256": "7d452d36a747725b5aa108fd86aa058f8340fb33500c18300034943e3584609b"
+    },
+    {
+      "glyph_index": 414,
+      "unicode": "払",
+      "original_128_bytes_sha256": "d65f1c0a78fef46306efb896ba6fdd003b085c6da958913df85fc0a768d677e7"
+    },
+    {
+      "glyph_index": 421,
+      "unicode": "事",
+      "original_128_bytes_sha256": "93eff966008aa54b24be7a88d2189ede005edd1d57fc183850d73d017f1f0d40"
+    },
+    {
+      "glyph_index": 425,
+      "unicode": "人",
+      "original_128_bytes_sha256": "71d356392e62f03f5f468b6a159f1fa9466ebf6b14c85aba792f882e62e6a63c"
+    },
+    {
+      "glyph_index": 426,
+      "unicode": "前",
+      "original_128_bytes_sha256": "bb52de2d333eb64120433f7cf88ee7f1dd1597fc14c3f784dcc05adcd13d9c25"
+    },
+    {
+      "glyph_index": 432,
+      "unicode": "負",
+      "original_128_bytes_sha256": "3c52d44aaf64ccbde83d2afb423809326b4bede6a269e6c0131a9a1450ad155f"
+    },
+    {
+      "glyph_index": 439,
+      "unicode": "家",
+      "original_128_bytes_sha256": "3fbb6355159c72f46e190abe68b87cecabf81533f5c9b4495de390f03ad39afb"
+    },
+    {
+      "glyph_index": 441,
+      "unicode": "学",
+      "original_128_bytes_sha256": "b0fe55b83efe4059cda61259844ad0437f18ebc3d1a2611fba6d33df6fab3963"
+    },
+    {
+      "glyph_index": 451,
+      "unicode": "最",
+      "original_128_bytes_sha256": "68a3ef10512debaa329971b8c105c58e020c841cc62c037faecd5c9ad3445825"
+    },
+    {
+      "glyph_index": 453,
+      "unicode": "思",
+      "original_128_bytes_sha256": "e6593c44dfac58c8ec287c51e2f3cccd2094febbd75537ccc7b1df8e2be788e6"
+    },
+    {
+      "glyph_index": 467,
+      "unicode": "待",
+      "original_128_bytes_sha256": "7e050a3198fe18179cfd6455515ac1d66036795357ba0c5bc64902fb683d60e1"
+    },
+    {
+      "glyph_index": 472,
+      "unicode": "日",
+      "original_128_bytes_sha256": "0b600ba12cb4225caf097e426205a5b1f271e8cafa5649d9b7b5dd5ffb3257f8"
+    },
+    {
+      "glyph_index": 473,
+      "unicode": "別",
+      "original_128_bytes_sha256": "18d8430cda92ded7ce4c651cdd5e6dafd60dbf96dad107c9dfebdc234570d669"
+    },
+    {
+      "glyph_index": 498,
+      "unicode": "悪",
+      "original_128_bytes_sha256": "092078190ef72abb2f52542e5cb15b48dff5651fcdbfd4a5b3e7a0b8a11a5693"
+    },
+    {
+      "glyph_index": 525,
+      "unicode": "依",
+      "original_128_bytes_sha256": "400fda316b76d5ce48e4b0fd32c1df9ccb62396d076d690d1c573615b2859416"
+    },
+    {
+      "glyph_index": 533,
+      "unicode": "意",
+      "original_128_bytes_sha256": "e24e7ee4d3f50075ffa567b4c3ff44517e1a240b46851152ec20a307366b1c74"
+    },
+    {
+      "glyph_index": 545,
+      "unicode": "違",
+      "original_128_bytes_sha256": "705651ba4294bf214bddeb2dada1dd56dd3d32a5e5a01dfb59f64c428bccedea"
+    },
+    {
+      "glyph_index": 629,
+      "unicode": "援",
+      "original_128_bytes_sha256": "0516fb980563a1c934a1be92d4fbca52fa4813262a566a3b57f5e4388971799c"
+    },
+    {
+      "glyph_index": 681,
+      "unicode": "嫁",
+      "original_128_bytes_sha256": "c67f856cecfeb582f805221387ed498f9b025408afee469c4042aa567c705e7a"
+    },
+    {
+      "glyph_index": 687,
+      "unicode": "歌",
+      "original_128_bytes_sha256": "1010edc5eb414b6bd222197069dc59cc7b21b2173ccff4f268bb064adee3aa2a"
+    },
+    {
+      "glyph_index": 694,
+      "unicode": "花",
+      "original_128_bytes_sha256": "e631bd7d166d0150897a819f16040c30726926557c3f5effab6d6aa61043e281"
+    },
+    {
+      "glyph_index": 719,
+      "unicode": "会",
+      "original_128_bytes_sha256": "3c76761d5f74f4ae4c6892e595da1d27cca5dbc899f1b39daeba5431dc9dd0d4"
+    },
+    {
+      "glyph_index": 745,
+      "unicode": "外",
+      "original_128_bytes_sha256": "acb22ad26c0e53ce382e2b9f56fda2169993848c83e08e810d0674a28bea131f"
+    },
+    {
+      "glyph_index": 817,
+      "unicode": "寒",
+      "original_128_bytes_sha256": "4e5b0c35b4960377ed54bca0f71d1bee7c17f6063d53a60faf166e4fe3eb4ca7"
+    },
+    {
+      "glyph_index": 830,
+      "unicode": "感",
+      "original_128_bytes_sha256": "ba64e47e4fc554e07f2116c9bfcfe570bbd916b4a0f87563f6434f370dc81e85"
+    },
+    {
+      "glyph_index": 858,
+      "unicode": "間",
+      "original_128_bytes_sha256": "f959c2acaec0802f522482fdba7239d0e125a51b97acfdc97eea3686cf31de83"
+    },
+    {
+      "glyph_index": 879,
+      "unicode": "危",
+      "original_128_bytes_sha256": "4692136df871b75dbf75e1fcb9b78418723ec98acffa476a868f52914f962044"
+    },
+    {
+      "glyph_index": 898,
+      "unicode": "帰",
+      "original_128_bytes_sha256": "5630dd24b5905c93f4d110146ca8ba281b9597f82dbe3a182f68e8c0ec36eb99"
+    },
+    {
+      "glyph_index": 900,
+      "unicode": "気",
+      "original_128_bytes_sha256": "2e4bcf88b28d74f77bd711cfd659b4697ec2c9de8230a8d91d3f94be8d01b9f6"
+    },
+    {
+      "glyph_index": 920,
+      "unicode": "技",
+      "original_128_bytes_sha256": "6bc78625788036da7059691f74ac90e6128d241490606edb00eb857d65f56688"
+    },
+    {
+      "glyph_index": 954,
+      "unicode": "急",
+      "original_128_bytes_sha256": "8393e5d38c7ec57917a2b132e4a5186bacc9336ec5b61d791c5308f30da0eee6"
+    },
+    {
+      "glyph_index": 955,
+      "unicode": "救",
+      "original_128_bytes_sha256": "bcea6da6e945bbe1b8f489da1952296b91d2a71439752d4d012c95da6ee1b2d0"
+    },
+    {
+      "glyph_index": 972,
+      "unicode": "拠",
+      "original_128_bytes_sha256": "91606c15c0dc6fe83417bf0c9c152bd5ca16d9a787b2f02e3f321c9e35fd3905"
+    },
+    {
+      "glyph_index": 989,
+      "unicode": "協",
+      "original_128_bytes_sha256": "32145460a4c1e9ef02d2f5ed54f9328e854e1450f5d852c9e1d731ff834e5b18"
+    },
+    {
+      "glyph_index": 996,
+      "unicode": "強",
+      "original_128_bytes_sha256": "34650843649ca7ce67b53f20908335c773d0f2929dbe2c92ed06b002c98f10f3"
+    },
+    {
+      "glyph_index": 1170,
+      "unicode": "元",
+      "original_128_bytes_sha256": "70e5bae10443c1d2a78f631b888e56ba28ec6d833535dcc3b528ea4cf9799402"
+    },
+    {
+      "glyph_index": 1275,
+      "unicode": "考",
+      "original_128_bytes_sha256": "608375c47a32be216df0844666d876d165d3daf589ef8b1b735bb6df42ad1b9d"
+    },
+    {
+      "glyph_index": 1320,
+      "unicode": "今",
+      "original_128_bytes_sha256": "82870bc17113086e3100ade6f407e71ba3793624dea355b56cd269b6afb3f258"
+    },
+    {
+      "glyph_index": 1321,
+      "unicode": "困",
+      "original_128_bytes_sha256": "3f296806932d711a7f041dcd6fbdf3dd32db5fd24dd751dca21dd2f801fbb8f0"
+    },
+    {
+      "glyph_index": 1329,
+      "unicode": "根",
+      "original_128_bytes_sha256": "e7dc6ec2ffc36590396000a92c36841bc9be0550a5359420730b13b6d85535cf"
+    },
+    {
+      "glyph_index": 1342,
+      "unicode": "査",
+      "original_128_bytes_sha256": "b1905d4f77d09a0343f37cb1f3ac15f49821bd0bd61175b5c8514b9d7ad1e7bb"
+    },
+    {
+      "glyph_index": 1412,
+      "unicode": "殺",
+      "original_128_bytes_sha256": "01bb938cdaecca848d1af2db7cf2d93a0920ef56e6e987e47c050dbd864b0ec8"
+    },
+    {
+      "glyph_index": 1421,
+      "unicode": "三",
+      "original_128_bytes_sha256": "6dc248af7e7946999eab6fc519a64121786c6880deec4026b626d557872fec83"
+    },
+    {
+      "glyph_index": 1437,
+      "unicode": "仕",
+      "original_128_bytes_sha256": "9368f8212cf1f54bce530fe0b5f0208dcd8ff5dbbbe379cf9385e61752644c14"
+    },
+    {
+      "glyph_index": 1442,
+      "unicode": "史",
+      "original_128_bytes_sha256": "074bfb736bfc2a62f55b2f6752ef205bc41972926dda8a5196affdd4940388f3"
+    },
+    {
+      "glyph_index": 1445,
+      "unicode": "姉",
+      "original_128_bytes_sha256": "71638582406a88dfda83c0a958ccacbd8be93db32d9b4e254edef226929ec4cc"
+    },
+    {
+      "glyph_index": 1448,
+      "unicode": "師",
+      "original_128_bytes_sha256": "e2a4f63dad6b441c1097e760fb235446fb04e2eca659001195ded13f6c9aa9c0"
+    },
+    {
+      "glyph_index": 1459,
+      "unicode": "私",
+      "original_128_bytes_sha256": "3f3ce8bc3dc0cbcf1b14cd2324589d178511ffde4818d6f71b8134284921019c"
+    },
+    {
+      "glyph_index": 1461,
+      "unicode": "紙",
+      "original_128_bytes_sha256": "6920167ddaeeb3aacbb4c87780cf3633735df422685ba1c2f1fa42efafb351cd"
+    },
+    {
+      "glyph_index": 1484,
+      "unicode": "治",
+      "original_128_bytes_sha256": "2be73b2f11586cd17b4b3b0cc39e40478625e6abd261f5ca7777d6e1ac766bc7"
+    },
+    {
+      "glyph_index": 1491,
+      "unicode": "自",
+      "original_128_bytes_sha256": "27d49d425a6424d86a444301fa3307e80da1befb616686c200a61ad830cf82a1"
+    },
+    {
+      "glyph_index": 1546,
+      "unicode": "守",
+      "original_128_bytes_sha256": "bb5e241fedfedf1025382beb0a73b321d890eeb8d9add36cf3cbd9ff7669e17b"
+    },
+    {
+      "glyph_index": 1547,
+      "unicode": "手",
+      "original_128_bytes_sha256": "bdd55712014bb107d87fc85f3aed60a46200cb4c8a9842f615614f42b30a0ca6"
+    },
+    {
+      "glyph_index": 1552,
+      "unicode": "種",
+      "original_128_bytes_sha256": "920e2054b0a526dddc7732a1563883776de2b2a31dd25ec08a45f951043996f3"
+    },
+    {
+      "glyph_index": 1560,
+      "unicode": "授",
+      "original_128_bytes_sha256": "29a0582d9d2ae15afabbae523156cc0a1cfa15617d6215d7987fbc9a5168c846"
+    },
+    {
+      "glyph_index": 1576,
+      "unicode": "終",
+      "original_128_bytes_sha256": "7c552e220824d2b5e500d16718515f8aa933818adffc540d404b864cb2e62603"
+    },
+    {
+      "glyph_index": 1639,
+      "unicode": "助",
+      "original_128_bytes_sha256": "cc12efb57ffe4b35697ce441919a21f69d6d2166707e89903405c29ce7a3a30b"
+    },
+    {
+      "glyph_index": 1641,
+      "unicode": "女",
+      "original_128_bytes_sha256": "8e6e60d1e50d11172bb62c7cacd421f0ef30c70dac1a12dd47633a94ff9d162b"
+    },
+    {
+      "glyph_index": 1648,
+      "unicode": "勝",
+      "original_128_bytes_sha256": "abb8d4de3c10563591aa93c46174d1a1295def8761e387f44c8a916187a6f4e0"
+    },
+    {
+      "glyph_index": 1653,
+      "unicode": "商",
+      "original_128_bytes_sha256": "af07519697145d91a5f28b4e87e5d99a6b303a7f7e1a06e4f733a9ca9f492a83"
+    },
+    {
+      "glyph_index": 1660,
+      "unicode": "小",
+      "original_128_bytes_sha256": "3d43e4eceb7b1f659b4c0f8afe9ab5f97755f0aa8c34c247a7f9d464945e50c8"
+    },
+    {
+      "glyph_index": 1684,
+      "unicode": "照",
+      "original_128_bytes_sha256": "f0f9a34125ebdaa88d04555d9f51d0d457788f7d20e8ae82beefdcbac326bd12"
+    },
+    {
+      "glyph_index": 1710,
+      "unicode": "丈",
+      "original_128_bytes_sha256": "5d328dbe047867254c63862eb8931f6150003a774f6b5cb582410265c1e5dc37"
+    },
+    {
+      "glyph_index": 1754,
+      "unicode": "森",
+      "original_128_bytes_sha256": "eded061132f3e4e2d654b050866eb43df7aeea9d19f914620fd513f77026f773"
+    },
+    {
+      "glyph_index": 1766,
+      "unicode": "親",
+      "original_128_bytes_sha256": "223b2c16bf3d25ace58c6b36f4ca10d968e98d461452c51b362b3080be942937"
+    },
+    {
+      "glyph_index": 1828,
+      "unicode": "性",
+      "original_128_bytes_sha256": "48f78596f62720588e775c2a9a3dbebf70f5e379fc8b2b7c94fc0cb3c5b91fd9"
+    },
+    {
+      "glyph_index": 1839,
+      "unicode": "生",
+      "original_128_bytes_sha256": "950bba316aef8947ec0df482ab5305b104e3670280d14867941562ed65cbc0ef"
+    },
+    {
+      "glyph_index": 1877,
+      "unicode": "雪",
+      "original_128_bytes_sha256": "aafc88e655aa7bb697ccc3ee7552e9d214f6015f47f16d3c90a8f42c7f2d6df6"
+    },
+    {
+      "glyph_index": 1882,
+      "unicode": "先",
+      "original_128_bytes_sha256": "0e6b16e07782fe87b5d9574a739486491932d3b18ad91b0e0970f771a9032b8d"
+    },
+    {
+      "glyph_index": 1929,
+      "unicode": "狙",
+      "original_128_bytes_sha256": "e9ced3a2d89202982c604649a9ad4e5168e5555cdeb08b9e9c5c9b312db3f764"
+    },
+    {
+      "glyph_index": 1962,
+      "unicode": "翼",
+      "original_128_bytes_sha256": "524f8b9b9a7fa59c44fcaf29b100dd0e3422004e885d46f1ac626f9f978dae64"
+    },
+    {
+      "glyph_index": 2029,
+      "unicode": "体",
+      "original_128_bytes_sha256": "ff4ce9096bd677fe0dc54029f30ac583c6b6ab887aa2faac774a9b3b618b3f3d"
+    },
+    {
+      "glyph_index": 2045,
+      "unicode": "退",
+      "original_128_bytes_sha256": "23ebb109f2ca05c19c7c77cba7f41b1065f62b17be67e17fc8bfddce62aa4372"
+    },
+    {
+      "glyph_index": 2049,
+      "unicode": "大",
+      "original_128_bytes_sha256": "4598bd2c65266274feab1545923f878377788f1c652c57cb1c575257dd768bf2"
+    },
+    {
+      "glyph_index": 2052,
+      "unicode": "題",
+      "original_128_bytes_sha256": "932287a32c3a67217851f63c8580f2b5ce68eca7da0b4a8e31af1028d9a918ae"
+    },
+    {
+      "glyph_index": 2144,
+      "unicode": "虫",
+      "original_128_bytes_sha256": "8df2cc6f59b7b19d487e0c690847701a7fa20c47c1db51f408d3b89266dbc360"
+    },
+    {
+      "glyph_index": 2168,
+      "unicode": "町",
+      "original_128_bytes_sha256": "1d46ca7c382ab6aad6ffa0fa436890215e726dabc1629176c50ff76d8fb8264a"
+    },
+    {
+      "glyph_index": 2173,
+      "unicode": "調",
+      "original_128_bytes_sha256": "27d93f00fb34cf45d3a72bbf658ee2855a6d44e0b9b76da85c12a51b927bf26d"
+    },
+    {
+      "glyph_index": 2193,
+      "unicode": "追",
+      "original_128_bytes_sha256": "97e60559726cd8073218f25ee4cb37c5e2bce9969c59e198bf763812f1d2d271"
+    },
+    {
+      "glyph_index": 2289,
+      "unicode": "度",
+      "original_128_bytes_sha256": "b8aaaaa9a29a96091226bf47053b7d754b53f6121cd84104a4b7e959739c9d7d"
+    },
+    {
+      "glyph_index": 2293,
+      "unicode": "党",
+      "original_128_bytes_sha256": "6e679a009deb27764a63ffdea378c2071a7ebdfc5156f2d9ac5d817bf7f021fd"
+    },
+    {
+      "glyph_index": 2295,
+      "unicode": "凍",
+      "original_128_bytes_sha256": "8de29d3ed120489ef87bfc12b85dc542e49412f8b5c5cde26a5a281a9c476cac"
+    },
+    {
+      "glyph_index": 2407,
+      "unicode": "入",
+      "original_128_bytes_sha256": "36133a5f81b4294e2ce7a768f049089d8c9d63ae1648ca71bee51419efdc08a7"
+    },
+    {
+      "glyph_index": 2462,
+      "unicode": "背",
+      "original_128_bytes_sha256": "fd12fa6d9a34dad9f5ee4536b504b94785d6c7f89a419e166ae31933fabe2adc"
+    },
+    {
+      "glyph_index": 2465,
+      "unicode": "配",
+      "original_128_bytes_sha256": "0da032a4350a588a944fec4e016d12a4d9e138513ec8eb852e1e2efa8a5c60c2"
+    },
+    {
+      "glyph_index": 2474,
+      "unicode": "売",
+      "original_128_bytes_sha256": "bbe831d693d93c07296827b6e4a8a9c56fbed901b4663693d5608890830cfdaf"
+    },
+    {
+      "glyph_index": 2556,
+      "unicode": "彼",
+      "original_128_bytes_sha256": "c02b0168dc135ff42306321c0e7e439c31e0fb6e667a56924d374337a33c3d05"
+    },
+    {
+      "glyph_index": 2598,
+      "unicode": "姫",
+      "original_128_bytes_sha256": "e701068a1c5753c171c96db95c0c6ad78135396a04ed63338bcb55272aefa305"
+    },
+    {
+      "glyph_index": 2632,
+      "unicode": "夫",
+      "original_128_bytes_sha256": "d8890e9fd77cb442537bd7b786a1b970b279d11b02366a7c8ba8802ec0cc050f"
+    },
+    {
+      "glyph_index": 2661,
+      "unicode": "風",
+      "original_128_bytes_sha256": "8b9517413a2c98cd009985556f75d5dc3a0be6d221fccd73804cfcd8bfbc300e"
+    },
+    {
+      "glyph_index": 2724,
+      "unicode": "捕",
+      "original_128_bytes_sha256": "c3130139cc6796fa73908738ebb87c26498593fc11cfb5d4ea2a9d7d250753a9"
+    },
+    {
+      "glyph_index": 2815,
+      "unicode": "妹",
+      "original_128_bytes_sha256": "b8d9ed5cf159975001b210e7cf1f338bf1e24fd142c0f0b26adbd45cda086c3d"
+    },
+    {
+      "glyph_index": 2890,
+      "unicode": "戻",
+      "original_128_bytes_sha256": "7fcc69e49fb58c49eaa0170c28e3d90dbaec29329454539e66baa038dbfa7453"
+    },
+    {
+      "glyph_index": 2922,
+      "unicode": "友",
+      "original_128_bytes_sha256": "aa6ad4d7339d7645afaf09b22043e9bec3c5c59a75c42671aab565932a08b06a"
+    },
+    {
+      "glyph_index": 3054,
+      "unicode": "類",
+      "original_128_bytes_sha256": "2d51690ae1ed9fa3051f34cf61283418ac527006d8bb4b5e38d86fcd74c2cbc6"
+    },
+    {
+      "glyph_index": 3112,
+      "unicode": "話",
+      "original_128_bytes_sha256": "3669499a41f286d3cebf8b7ce7345cea1f4fcb99611f29ad650992d8325b8194"
+    }
+  ]
+}

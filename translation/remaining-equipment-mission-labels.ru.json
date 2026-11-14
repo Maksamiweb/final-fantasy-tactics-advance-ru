@@ -1,0 +1,1429 @@
+{
+  "batch": "P03-P04-B002",
+  "entries": [
+    {
+      "id": "words:content/177",
+      "ru": "Алмазный[[1D05]]меч"
+    },
+    {
+      "id": "words:content/202",
+      "ru": "Кинжал[[1D03]]рондель"
+    },
+    {
+      "id": "words:content/236",
+      "ru": "Небесное[[1B02]][[1B01]][[1D03]]облако"
+    },
+    {
+      "id": "words:content/257",
+      "ru": "Страж[[1D04]]снов"
+    },
+    {
+      "id": "words:content/306",
+      "ru": "Лук[[1B02]][[1B01]][[1D04]]клятвы Макса"
+    },
+    {
+      "id": "words:content/307",
+      "ru": "Се[[1B01]]дь[[1B01]]мое[[1D02]]н[[1B01]]е[[1B01]]бо"
+    },
+    {
+      "id": "words:content/319",
+      "ru": "Ус [[1B01]][[1D03]]дракона[[1B01]]"
+    },
+    {
+      "id": "words:content/342",
+      "ru": "К[[1B01]]ай[[1B01]]зерские[[1D03]]кастеты"
+    },
+    {
+      "id": "words:content/400",
+      "ru": "Шапка с пером"
+    },
+    {
+      "id": "words:content/401",
+      "ru": "Обруч"
+    },
+    {
+      "id": "words:content/402",
+      "ru": "Зелёный берет"
+    },
+    {
+      "id": "words:content/403",
+      "ru": "Налобная повязка"
+    },
+    {
+      "id": "words:content/404",
+      "ru": "Шляпа чародея"
+    },
+    {
+      "id": "words:content/405",
+      "ru": "Золотая заколка"
+    },
+    {
+      "id": "words:content/406",
+      "ru": "Шапка вора"
+    },
+    {
+      "id": "words:content/407",
+      "ru": "Чёрная шляпа"
+    },
+    {
+      "id": "words:content/408",
+      "ru": "Белая шляпа"
+    },
+    {
+      "id": "words:content/409",
+      "ru": "Шляпа акации"
+    },
+    {
+      "id": "words:content/410",
+      "ru": "Тиара"
+    },
+    {
+      "id": "words:content/411",
+      "ru": "Кираса"
+    },
+    {
+      "id": "words:content/412",
+      "ru": "Бронзовый доспех"
+    },
+    {
+      "id": "words:content/413",
+      "ru": "Железный доспех"
+    },
+    {
+      "id": "words:content/414",
+      "ru": "Латы"
+    },
+    {
+      "id": "words:content/415",
+      "ru": "Золотой доспех"
+    },
+    {
+      "id": "words:content/416",
+      "ru": "Алмазный доспех"
+    },
+    {
+      "id": "words:content/417",
+      "ru": "Опаловый доспех"
+    },
+    {
+      "id": "words:content/418",
+      "ru": "Карабинерские латы"
+    },
+    {
+      "id": "words:content/419",
+      "ru": "Зеркальные латы"
+    },
+    {
+      "id": "words:content/420",
+      "ru": "Драконьи латы"
+    },
+    {
+      "id": "words:content/421",
+      "ru": "Доспех Гэндзи"
+    },
+    {
+      "id": "words:content/422",
+      "ru": "Максимилиан"
+    },
+    {
+      "id": "words:content/423",
+      "ru": "Адамантовый доспех"
+    },
+    {
+      "id": "words:content/424",
+      "ru": "Материтовый доспех"
+    },
+    {
+      "id": "words:content/425",
+      "ru": "Пейтраль"
+    },
+    {
+      "id": "words:content/426",
+      "ru": "Кожаная одежда"
+    },
+    {
+      "id": "words:content/427",
+      "ru": "Кольчужные латы"
+    },
+    {
+      "id": "words:content/428",
+      "ru": "Адамантовый жилет"
+    },
+    {
+      "id": "words:content/429",
+      "ru": "Жилет выживания"
+    },
+    {
+      "id": "words:content/430",
+      "ru": "Бригантина"
+    },
+    {
+      "id": "words:content/431",
+      "ru": "Кимоно дзюдо"
+    },
+    {
+      "id": "words:content/432",
+      "ru": "Пояс силы"
+    },
+    {
+      "id": "words:content/433",
+      "ru": "Одеяние Геи"
+    },
+    {
+      "id": "words:content/434",
+      "ru": "Доспех Минервы"
+    },
+    {
+      "id": "words:content/435",
+      "ru": "Одеяние ниндзя"
+    },
+    {
+      "id": "words:content/436",
+      "ru": "Тёмное одеяние"
+    },
+    {
+      "id": "words:content/437",
+      "ru": "Вигар"
+    },
+    {
+      "id": "words:content/438",
+      "ru": "Жилет миражей"
+    },
+    {
+      "id": "words:content/439",
+      "ru": "Резиновый костюм"
+    },
+    {
+      "id": "words:content/440",
+      "ru": "Костяной доспех"
+    },
+    {
+      "id": "words:content/441",
+      "ru": "Единственный"
+    },
+    {
+      "id": "words:content/442",
+      "ru": "Комплект Бринта"
+    },
+    {
+      "id": "words:content/443",
+      "ru": "Комплект Гальмии"
+    },
+    {
+      "id": "words:content/444",
+      "ru": "Куртка судьи"
+    },
+    {
+      "id": "words:content/445",
+      "ru": "Храмовая одежда"
+    },
+    {
+      "id": "words:content/446",
+      "ru": "Пеньковая роба"
+    },
+    {
+      "id": "words:content/447",
+      "ru": "Шёлковая роба"
+    },
+    {
+      "id": "words:content/448",
+      "ru": "Роба мага"
+    },
+    {
+      "id": "words:content/449",
+      "ru": "Роба омелы"
+    },
+    {
+      "id": "words:content/450",
+      "ru": "Роба пламени"
+    },
+    {
+      "id": "words:content/451",
+      "ru": "Роба грома"
+    },
+    {
+      "id": "words:content/452",
+      "ru": "Роба метели"
+    },
+    {
+      "id": "words:content/453",
+      "ru": "Белая роба"
+    },
+    {
+      "id": "words:content/454",
+      "ru": "Чёрная роба"
+    },
+    {
+      "id": "words:content/455",
+      "ru": "Роба света"
+    },
+    {
+      "id": "words:content/456",
+      "ru": "Царственная роба"
+    },
+    {
+      "id": "words:content/457",
+      "ru": "Серебряное пальто"
+    },
+    {
+      "id": "words:content/458",
+      "ru": "Красная роба"
+    },
+    {
+      "id": "words:content/459",
+      "ru": "Роба мудреца"
+    },
+    {
+      "id": "words:content/460",
+      "ru": "Магическая роба"
+    },
+    {
+      "id": "words:content/461",
+      "ru": "Плащ жнеца"
+    },
+    {
+      "id": "words:content/462",
+      "ru": "Боевые сапоги"
+    },
+    {
+      "id": "words:content/463",
+      "ru": "Шипастые сапоги"
+    },
+    {
+      "id": "words:content/464",
+      "ru": "Сапоги спринтера"
+    },
+    {
+      "id": "words:content/465",
+      "ru": "Красные сапоги"
+    },
+    {
+      "id": "words:content/466",
+      "ru": "Сапоги с перьями"
+    },
+    {
+      "id": "words:content/467",
+      "ru": "Герминас"
+    },
+    {
+      "id": "words:content/468",
+      "ru": "Обувь Гальмии"
+    },
+    {
+      "id": "words:content/469",
+      "ru": "Туфли феи"
+    },
+    {
+      "id": "words:content/470",
+      "ru": "Калигула"
+    },
+    {
+      "id": "words:content/471",
+      "ru": "Таби ниндзя"
+    },
+    {
+      "id": "words:content/472",
+      "ru": "Латные перчатки"
+    },
+    {
+      "id": "words:content/473",
+      "ru": "Нарукавники вора"
+    },
+    {
+      "id": "words:content/474",
+      "ru": "Наручи"
+    },
+    {
+      "id": "words:content/475",
+      "ru": "Наручи Гэндзи"
+    },
+    {
+      "id": "words:content/476",
+      "ru": "Огненные рукавицы"
+    },
+    {
+      "id": "words:content/477",
+      "ru": "Костяные наручи"
+    },
+    {
+      "id": "words:content/478",
+      "ru": "Кольцо удачи"
+    },
+    {
+      "id": "words:content/479",
+      "ru": "Магическое кольцо"
+    },
+    {
+      "id": "words:content/480",
+      "ru": "Кольцо ангела"
+    },
+    {
+      "id": "words:content/481",
+      "ru": "Скарабей"
+    },
+    {
+      "id": "words:content/482",
+      "ru": "Рубиновая серьга"
+    },
+    {
+      "id": "words:content/483",
+      "ru": "Звёздный браслет"
+    },
+    {
+      "id": "words:content/484",
+      "ru": "Самоцвет Минву"
+    },
+    {
+      "id": "words:content/485",
+      "ru": "Зелье"
+    },
+    {
+      "id": "words:content/486",
+      "ru": "Зелье+"
+    },
+    {
+      "id": "words:content/487",
+      "ru": "Х-зелье"
+    },
+    {
+      "id": "words:content/488",
+      "ru": "Эфир"
+    },
+    {
+      "id": "words:content/489",
+      "ru": "Эликсир"
+    },
+    {
+      "id": "words:content/490",
+      "ru": "Противоядие"
+    },
+    {
+      "id": "words:content/491",
+      "ru": "Глазные капли"
+    },
+    {
+      "id": "words:content/492",
+      "ru": "Эхо-экран"
+    },
+    {
+      "id": "words:content/493",
+      "ru": "Поцелуй девы"
+    },
+    {
+      "id": "words:content/494",
+      "ru": "Золотая игла"
+    },
+    {
+      "id": "words:content/495",
+      "ru": "Святая вода"
+    },
+    {
+      "id": "words:content/496",
+      "ru": "Бинт"
+    },
+    {
+      "id": "words:content/497",
+      "ru": "Панацея"
+    },
+    {
+      "id": "words:content/498",
+      "ru": "Пух феникса"
+    },
+    {
+      "id": "words:content/499",
+      "ru": "Кубок магов"
+    },
+    {
+      "id": "words:content/500",
+      "ru": "Кубок бойцов"
+    },
+    {
+      "id": "words:content/501",
+      "ru": "Спортивный кубок"
+    },
+    {
+      "id": "words:content/502",
+      "ru": "Кубок Элды"
+    },
+    {
+      "id": "words:content/503",
+      "ru": "Печать Огмы"
+    },
+    {
+      "id": "words:content/504",
+      "ru": "Золотой сосуд"
+    },
+    {
+      "id": "words:content/505",
+      "ru": "Медаль магии"
+    },
+    {
+      "id": "words:content/506",
+      "ru": "Древняя медаль"
+    },
+    {
+      "id": "words:content/507",
+      "ru": "Медаль побережья"
+    },
+    {
+      "id": "words:content/508",
+      "ru": "Медаль стражи"
+    },
+    {
+      "id": "words:content/509",
+      "ru": "Значок дружбы"
+    },
+    {
+      "id": "words:content/510",
+      "ru": "Герой доблести"
+    },
+    {
+      "id": "words:content/511",
+      "ru": "Значок"
+    },
+    {
+      "id": "words:content/512",
+      "ru": "Радугит"
+    },
+    {
+      "id": "words:content/513",
+      "ru": "Тройной клык"
+    },
+    {
+      "id": "words:content/514",
+      "ru": "Кошачьи слёзы"
+    },
+    {
+      "id": "words:content/515",
+      "ru": "Румянец дамы"
+    },
+    {
+      "id": "words:content/516",
+      "ru": "Камень грома"
+    },
+    {
+      "id": "words:content/517",
+      "ru": "Камень бури"
+    },
+    {
+      "id": "words:content/518",
+      "ru": "Эстерот"
+    },
+    {
+      "id": "words:content/519",
+      "ru": "Глаз аримана"
+    },
+    {
+      "id": "words:content/520",
+      "ru": "Драконий камень"
+    },
+    {
+      "id": "words:content/521",
+      "ru": "Топазовый браслет"
+    },
+    {
+      "id": "words:content/522",
+      "ru": "Зодиакальная руда"
+    },
+    {
+      "id": "words:content/523",
+      "ru": "Сильврил"
+    },
+    {
+      "id": "words:content/524",
+      "ru": "Материт"
+    },
+    {
+      "id": "words:content/525",
+      "ru": "Листоун"
+    },
+    {
+      "id": "words:content/526",
+      "ru": "Адамантит"
+    },
+    {
+      "id": "words:content/527",
+      "ru": "Камень духов"
+    },
+    {
+      "id": "words:content/528",
+      "ru": "Янтарь"
+    },
+    {
+      "id": "words:content/529",
+      "ru": "Адамантовый сплав"
+    },
+    {
+      "id": "words:content/530",
+      "ru": "Мисидийский сплав"
+    },
+    {
+      "id": "words:content/531",
+      "ru": "Круситовый сплав"
+    },
+    {
+      "id": "words:content/532",
+      "ru": "Магнетит"
+    },
+    {
+      "id": "words:content/533",
+      "ru": "Чёрная нить"
+    },
+    {
+      "id": "words:content/534",
+      "ru": "Белая нить"
+    },
+    {
+      "id": "words:content/535",
+      "ru": "Кожа чокобо"
+    },
+    {
+      "id": "words:content/536",
+      "ru": "Волшебная ткань"
+    },
+    {
+      "id": "words:content/537",
+      "ru": "Волшебный хлопок"
+    },
+    {
+      "id": "words:content/538",
+      "ru": "Кровавая шаль"
+    },
+    {
+      "id": "words:content/539",
+      "ru": "Крыло аримана"
+    },
+    {
+      "id": "words:content/540",
+      "ru": "Крыло феи"
+    },
+    {
+      "id": "words:content/541",
+      "ru": "Оболочка бомбы"
+    },
+    {
+      "id": "words:content/542",
+      "ru": "Шкура пантеры"
+    },
+    {
+      "id": "words:content/543",
+      "ru": "Тигриная шкура"
+    },
+    {
+      "id": "words:content/544",
+      "ru": "Вяленое мясо"
+    },
+    {
+      "id": "words:content/545",
+      "ru": "Гисальская зелень"
+    },
+    {
+      "id": "words:content/546",
+      "ru": "Яйцо чокобо"
+    },
+    {
+      "id": "words:content/547",
+      "ru": "Златошляпка"
+    },
+    {
+      "id": "words:content/548",
+      "ru": "Живая вода"
+    },
+    {
+      "id": "words:content/549",
+      "ru": "Элдагусто"
+    },
+    {
+      "id": "words:content/550",
+      "ru": "Сирильское мороженое"
+    },
+    {
+      "id": "words:content/551",
+      "ru": "Хлеб чокобо"
+    },
+    {
+      "id": "words:content/552",
+      "ru": "Запеканка чокобо"
+    },
+    {
+      "id": "words:content/553",
+      "ru": "Детский хлеб"
+    },
+    {
+      "id": "words:content/554",
+      "ru": "Хлеб[[1D05]]взрослых"
+    },
+    {
+      "id": "words:content/555",
+      "ru": "Вино мальборо"
+    },
+    {
+      "id": "words:content/556",
+      "ru": "Суп Гедегг"
+    },
+    {
+      "id": "words:content/557",
+      "ru": "Древний текст"
+    },
+    {
+      "id": "words:content/558",
+      "ru": "Волшебный пергамент"
+    },
+    {
+      "id": "words:content/559",
+      "ru": "Значок правосудия"
+    },
+    {
+      "id": "words:content/560",
+      "ru": "Значок дружбы"
+    },
+    {
+      "id": "words:content/561",
+      "ru": "Повесть Рунбы"
+    },
+    {
+      "id": "words:content/562",
+      "ru": "Герой Гаол"
+    },
+    {
+      "id": "words:content/563",
+      "ru": "Том Эдаройи"
+    },
+    {
+      "id": "words:content/564",
+      "ru": "Домашнее задание"
+    },
+    {
+      "id": "words:content/565",
+      "ru": "Энциклопедия"
+    },
+    {
+      "id": "words:content/566",
+      "ru": "Словарь"
+    },
+    {
+      "id": "words:content/567",
+      "ru": "Атлас чудовищ"
+    },
+    {
+      "id": "words:content/568",
+      "ru": "Тайные книги"
+    },
+    {
+      "id": "words:content/569",
+      "ru": "Альбом для рисунков"
+    },
+    {
+      "id": "words:content/570",
+      "ru": "Плюшевый медведь"
+    },
+    {
+      "id": "words:content/571",
+      "ru": "Крысиный хвост"
+    },
+    {
+      "id": "words:content/572",
+      "ru": "Кроличий хвост"
+    },
+    {
+      "id": "words:content/573",
+      "ru": "Древесина данбука"
+    },
+    {
+      "id": "words:content/574",
+      "ru": "Лунная древесина"
+    },
+    {
+      "id": "words:content/575",
+      "ru": "Страдивари"
+    },
+    {
+      "id": "words:content/576",
+      "ru": "Столб часов"
+    },
+    {
+      "id": "words:content/577",
+      "ru": "Перьевая ручка"
+    },
+    {
+      "id": "words:content/578",
+      "ru": "Беруши"
+    },
+    {
+      "id": "words:content/579",
+      "ru": "Кристалл"
+    },
+    {
+      "id": "words:content/580",
+      "ru": "Старая статуя"
+    },
+    {
+      "id": "words:content/581",
+      "ru": "Значок «Соседи»"
+    },
+    {
+      "id": "words:content/582",
+      "ru": "Трихорд"
+    },
+    {
+      "id": "words:content/583",
+      "ru": "Ржавый меч"
+    },
+    {
+      "id": "words:content/584",
+      "ru": "Сломанный меч"
+    },
+    {
+      "id": "words:content/585",
+      "ru": "Погнутый меч"
+    },
+    {
+      "id": "words:content/586",
+      "ru": "Ржавое копьё"
+    },
+    {
+      "id": "words:content/587",
+      "ru": "Печать огня"
+    },
+    {
+      "id": "words:content/588",
+      "ru": "Печать воды"
+    },
+    {
+      "id": "words:content/589",
+      "ru": "Печать ветра"
+    },
+    {
+      "id": "words:content/590",
+      "ru": "Печать земли"
+    },
+    {
+      "id": "words:content/591",
+      "ru": "Кеффил разума"
+    },
+    {
+      "id": "words:content/592",
+      "ru": "Кеффил тела"
+    },
+    {
+      "id": "words:content/593",
+      "ru": "Значок пера"
+    },
+    {
+      "id": "words:content/594",
+      "ru": "Эмблема"
+    },
+    {
+      "id": "words:content/595",
+      "ru": "Искатель союзников"
+    },
+    {
+      "id": "words:content/596",
+      "ru": "Искатель союзников 2"
+    },
+    {
+      "id": "words:content/597",
+      "ru": "Шкатулка покоя"
+    },
+    {
+      "id": "words:content/598",
+      "ru": "Шулерские кости"
+    },
+    {
+      "id": "words:content/599",
+      "ru": "Змеиный щит"
+    },
+    {
+      "id": "words:content/600",
+      "ru": "Верёвка стазиса"
+    },
+    {
+      "id": "words:content/601",
+      "ru": "Мифриловая кирка"
+    },
+    {
+      "id": "words:content/602",
+      "ru": "Караванный мускус"
+    },
+    {
+      "id": "words:content/603",
+      "ru": "Любовное зелье"
+    },
+    {
+      "id": "words:content/604",
+      "ru": "Лампа тонберри"
+    },
+    {
+      "id": "words:content/605",
+      "ru": "Свиток Стилпула"
+    },
+    {
+      "id": "words:content/606",
+      "ru": "Ваза для цветов"
+    },
+    {
+      "id": "words:content/607",
+      "ru": "Драконья кость"
+    },
+    {
+      "id": "words:content/608",
+      "ru": "Кость зверя"
+    },
+    {
+      "id": "words:content/609",
+      "ru": "Череп"
+    },
+    {
+      "id": "words:content/610",
+      "ru": "Ключ Хелье"
+    },
+    {
+      "id": "words:content/611",
+      "ru": "Часовая шестерня"
+    },
+    {
+      "id": "words:content/612",
+      "ru": "Ружейный механизм"
+    },
+    {
+      "id": "words:content/613",
+      "ru": "Разбрызгиватель"
+    },
+    {
+      "id": "words:content/614",
+      "ru": "Шёлковый цветок"
+    },
+    {
+      "id": "words:content/615",
+      "ru": "Лунный цветок"
+    },
+    {
+      "id": "words:content/616",
+      "ru": "Цветок телак"
+    },
+    {
+      "id": "words:content/617",
+      "ru": "Синяя роза"
+    },
+    {
+      "id": "words:content/618",
+      "ru": "Белые цветы"
+    },
+    {
+      "id": "words:content/619",
+      "ru": "Кровавое яблоко"
+    },
+    {
+      "id": "words:content/620",
+      "ru": "Плод магии"
+    },
+    {
+      "id": "words:content/621",
+      "ru": "Плод силы"
+    },
+    {
+      "id": "words:content/622",
+      "ru": "Киноварь"
+    },
+    {
+      "id": "words:content/623",
+      "ru": "Краденые гили"
+    },
+    {
+      "id": "words:content/624",
+      "ru": "Древние купюры"
+    },
+    {
+      "id": "words:content/625",
+      "ru": "Древние монеты"
+    },
+    {
+      "id": "words:content/626",
+      "ru": "Навыки"
+    },
+    {
+      "id": "words:content/627",
+      "ru": "Приёмы"
+    },
+    {
+      "id": "words:content/628",
+      "ru": "Цветная магия"
+    },
+    {
+      "id": "words:content/629",
+      "ru": "Рыцарство"
+    },
+    {
+      "id": "words:content/630",
+      "ru": "Молитва"
+    },
+    {
+      "id": "words:content/631",
+      "ru": "Оборона"
+    },
+    {
+      "id": "words:content/632",
+      "ru": "Стихии"
+    },
+    {
+      "id": "words:content/633",
+      "ru": "Охота"
+    },
+    {
+      "id": "words:content/634",
+      "ru": "Натиск"
+    },
+    {
+      "id": "words:content/635",
+      "ru": "Магия времени"
+    },
+    {
+      "id": "words:content/636",
+      "ru": "Прицел"
+    },
+    {
+      "id": "words:content/637",
+      "ru": "Снайперство"
+    },
+    {
+      "id": "words:content/638",
+      "ru": "Стрелковое дело"
+    },
+    {
+      "id": "words:content/639",
+      "ru": "Кража"
+    },
+    {
+      "id": "words:content/640",
+      "ru": "Загнать в угол"
+    },
+    {
+      "id": "words:content/641",
+      "ru": "Управление"
+    },
+    {
+      "id": "words:content/642",
+      "ru": "Превращение"
+    },
+    {
+      "id": "words:content/643",
+      "ru": "Зов"
+    },
+    {
+      "id": "words:content/644",
+      "ru": "Призыв"
+    },
+    {
+      "id": "words:content/645",
+      "ru": "Предметы"
+    },
+    {
+      "id": "words:content/646",
+      "ru": "Огонь"
+    },
+    {
+      "id": "words:content/647",
+      "ru": "Лёд"
+    },
+    {
+      "id": "words:content/648",
+      "ru": "Молния"
+    },
+    {
+      "id": "words:content/649",
+      "ru": "Святость"
+    },
+    {
+      "id": "words:content/650",
+      "ru": "Ветер"
+    },
+    {
+      "id": "words:content/655",
+      "ru": "Комбо"
+    },
+    {
+      "id": "words:content/656",
+      "ru": "Полные HP"
+    },
+    {
+      "id": "words:content/657",
+      "ru": "HP > 1/2"
+    },
+    {
+      "id": "words:content/658",
+      "ru": "Повтор"
+    },
+    {
+      "id": "words:content/659",
+      "ru": "Атака"
+    },
+    {
+      "id": "words:content/660",
+      "ru": "Область"
+    },
+    {
+      "id": "words:content/661",
+      "ru": "Всё поле"
+    },
+    {
+      "id": "words:content/662",
+      "ru": "Мечи"
+    },
+    {
+      "id": "words:content/663",
+      "ru": "Клинки"
+    },
+    {
+      "id": "words:content/664",
+      "ru": "Сабли"
+    },
+    {
+      "id": "words:content/665",
+      "ru": "Рыцарские мечи"
+    },
+    {
+      "id": "words:content/666",
+      "ru": "Двуручные мечи"
+    },
+    {
+      "id": "words:content/667",
+      "ru": "Палаши"
+    },
+    {
+      "id": "words:content/668",
+      "ru": "Ножи"
+    },
+    {
+      "id": "words:content/669",
+      "ru": "Рапиры"
+    },
+    {
+      "id": "words:content/670",
+      "ru": "Катаны"
+    },
+    {
+      "id": "words:content/671",
+      "ru": "Копья"
+    },
+    {
+      "id": "words:content/672",
+      "ru": "Инструменты"
+    },
+    {
+      "id": "words:content/673",
+      "ru": "Кастеты"
+    },
+    {
+      "id": "words:content/674",
+      "ru": "Души"
+    },
+    {
+      "id": "words:content/675",
+      "ru": "Стрельба"
+    },
+    {
+      "id": "words:content/676",
+      "ru": "Тьма"
+    },
+    {
+      "id": "words:content/677",
+      "ru": "Посохи"
+    },
+    {
+      "id": "words:content/678",
+      "ru": "Жезлы"
+    },
+    {
+      "id": "words:content/679",
+      "ru": "Булавы"
+    },
+    {
+      "id": "words:content/680",
+      "ru": "Голые руки"
+    },
+    {
+      "id": "words:content/681",
+      "ru": "Урон > 100"
+    },
+    {
+      "id": "words:content/682",
+      "ru": "Лечение < 50"
+    },
+    {
+      "id": "words:content/683",
+      "ru": "Лечение < 100"
+    },
+    {
+      "id": "words:content/684",
+      "ru": "Лечение > 50"
+    },
+    {
+      "id": "words:content/685",
+      "ru": "Лечение > 100"
+    },
+    {
+      "id": "words:content/686",
+      "ru": "Лечение"
+    },
+    {
+      "id": "words:content/687",
+      "ru": "Окаменение"
+    },
+    {
+      "id": "words:content/688",
+      "ru": "Лягушка"
+    },
+    {
+      "id": "words:content/689",
+      "ru": "Отравление"
+    },
+    {
+      "id": "words:content/690",
+      "ru": "Смятение"
+    },
+    {
+      "id": "words:content/691",
+      "ru": "Берсерк"
+    },
+    {
+      "id": "words:content/692",
+      "ru": "Немота"
+    },
+    {
+      "id": "words:content/693",
+      "ru": "Очарование"
+    },
+    {
+      "id": "words:content/694",
+      "ru": "Сковывание"
+    },
+    {
+      "id": "words:content/695",
+      "ru": "Помрачение"
+    },
+    {
+      "id": "words:content/696",
+      "ru": "Замедление"
+    },
+    {
+      "id": "words:content/697",
+      "ru": "Остановка"
+    },
+    {
+      "id": "words:content/698",
+      "ru": "Недуги"
+    },
+    {
+      "id": "words:content/699",
+      "ru": "Панцирь"
+    },
+    {
+      "id": "words:content/700",
+      "ru": "Защита"
+    },
+    {
+      "id": "words:content/701",
+      "ru": "Ускорение"
+    },
+    {
+      "id": "words:content/702",
+      "ru": "Урон людям"
+    },
+    {
+      "id": "words:content/703",
+      "ru": "Урон бангаа"
+    },
+    {
+      "id": "words:content/704",
+      "ru": "Урон ну моу"
+    },
+    {
+      "id": "words:content/705",
+      "ru": "Урон виера"
+    },
+    {
+      "id": "words:content/706",
+      "ru": "Урон муглам"
+    },
+    {
+      "id": "words:content/707",
+      "ru": "Урон чудовищам"
+    },
+    {
+      "id": "words:content/708",
+      "ru": "Карты законов"
+    },
+    {
+      "id": "words:content/709",
+      "ru": "Прочая магия"
+    },
+    {
+      "id": "words:content/711",
+      "ru": "Антизакон R1"
+    },
+    {
+      "id": "words:content/712",
+      "ru": "Антизакон R2"
+    },
+    {
+      "id": "words:content/713",
+      "ru": "Антизакон R3"
+    },
+    {
+      "id": "words:content/714",
+      "ru": "Антизакон R4"
+    },
+    {
+      "id": "words:content/715",
+      "ru": "Антизакон R5"
+    },
+    {
+      "id": "words:content/716",
+      "ru": "Антизакон R6"
+    },
+    {
+      "id": "words:content/717",
+      "ru": "Всесилие"
+    },
+    {
+      "id": "words:content/718",
+      "ru": "Дво[[1B01]]рец[[1B01]][[1D02]]Бер[[1B01]]вении"
+    },
+    {
+      "id": "words:content/719",
+      "ru": "Сирил"
+    },
+    {
+      "id": "words:content/720",
+      "ru": "Спром"
+    },
+    {
+      "id": "words:content/721",
+      "ru": "Мускаде"
+    },
+    {
+      "id": "words:content/722",
+      "ru": "Кадоан"
+    },
+    {
+      "id": "words:content/723",
+      "ru": "Порт Багуба"
+    },
+    {
+      "id": "words:content/724",
+      "ru": "Лес Нубс"
+    },
+    {
+      "id": "words:content/725",
+      "ru": "Равнины Гизы"
+    },
+    {
+      "id": "words:content/726",
+      "ru": "Пики Кудик"
+    },
+    {
+      "id": "words:content/727",
+      "ru": "Болото Уладон"
+    },
+    {
+      "id": "words:content/728",
+      "ru": "Пески Джерав"
+    },
+    {
+      "id": "words:content/729",
+      "ru": "Перевал Лутия"
+    },
+    {
+      "id": "words:content/730",
+      "ru": "Лес Коринг"
+    },
+    {
+      "id": "words:content/731",
+      "ru": "Река Улей"
+    },
+    {
+      "id": "words:content/732",
+      "ru": "Поле Эйсен"
+    },
+    {
+      "id": "words:content/733",
+      "ru": "Вулкан Рода"
+    },
+    {
+      "id": "words:content/734",
+      "ru": "Пески Элуут"
+    },
+    {
+      "id": "words:content/735",
+      "ru": "Пещера Наргай"
+    },
+    {
+      "id": "words:content/736",
+      "ru": "Лес Салика"
+    },
+    {
+      "id": "words:content/737",
+      "ru": "Дюны Делия"
+    },
+    {
+      "id": "words:content/738",
+      "ru": "Пески Готор"
+    },
+    {
+      "id": "words:content/739",
+      "ru": "Поле Озмон"
+    },
+    {
+      "id": "words:content/740",
+      "ru": "Равнины Дети"
+    },
+    {
+      "id": "words:content/741",
+      "ru": "Ущелье Сиена"
+    },
+    {
+      "id": "words:content/742",
+      "ru": "Лес Матери"
+    },
+    {
+      "id": "words:content/743",
+      "ru": "Пещера Тубола"
+    },
+    {
+      "id": "words:content/744",
+      "ru": "Ягд Дорса"
+    },
+    {
+      "id": "words:content/745",
+      "ru": "Ягд Хелье"
+    },
+    {
+      "id": "words:content/746",
+      "ru": "Ягд Али"
+    },
+    {
+      "id": "words:content/747",
+      "ru": "Янтарная долина"
+    },
+    {
+      "id": "words:content/748",
+      "ru": "Луна короля"
+    },
+    {
+      "id": "words:content/749",
+      "ru": "Луна безумца"
+    },
+    {
+      "id": "words:content/750",
+      "ru": "Луна мудреца"
+    },
+    {
+      "id": "words:content/751",
+      "ru": "Луна охотника"
+    },
+    {
+      "id": "words:content/752",
+      "ru": "Луна барда"
+    }
+  ]
+}

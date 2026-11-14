@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "id": "fx_text/21/259",
+      "ru": "Щит небесных\nрыцарей.[[4F]][[42]]Щит: Святость Иммун.: Зомби/\nСлепота/ Немота[[4F]][[42]]Имм.: Жаба/Яд/Медл.\n[[1D22]]Путы/Недеесп./Приг.[[40]][[42]]",
+      "source_sha256": "cca890d38d28a6ea358ce471bd335fc52cc6d79a14e642eb73a297b597750180",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "dialogue",
+      "font_profile": "compact_ui",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/21/273",
+      "ru": "Красное женское украшение со\nсловами благословения.[[4F]][[42]]Лента Иммун.: Нокаут/\nКамень/ Смятение[[4F]][[42]]Иммун.: Берсерк/Стоп\n[[1D22]]Очарование/Сон[[40]][[42]]",
+      "source_sha256": "39c6e9969f9e78d2a8a41dfaf37eb24bc9718ff3d5afc6a23536477374c28db5",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "dialogue",
+      "previous_ru": "Красное женское\nукрашение со словами\nблагословения.[[4F]][[42]]Лента\nИммун.: Нокаут/\nКамень/ Смятение[[4F]][[42]]Иммун.: Берсерк/\nСтоп/ Очарование/ [[1D22]]Сон[[40]][[42]]",
+      "revision_note": "ED-B005: account for preserved 1D positioning; separate shifted third status line or remove redundant spaces after explicit pixel steps.",
+      "font_profile": "compact_ui",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/21/274",
+      "ru": "Женская заколка с камнями,\nприносящими удачу.[[4F]][[42]]Лента Иммун.: Зомби/\nСлепота/ Немота[[4F]][[42]]Имм.: Жаба/Яд/Медл.\n[[1D22]]Путы/Недеесп./Приг.[[40]][[42]]",
+      "source_sha256": "040a9f9f17f4b50114b56bd297a0d0407e5f7d1c01eb41e56c8d69567a5b114c",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "dialogue",
+      "font_profile": "compact_ui",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/21/356",
+      "ru": "Говорят, это благословенное\nкольцо создали ангелы.[[4F]][[42]]Аксессуар Иммун.: Зомби/\nСлепота/ Немота[[4F]][[42]]Имм.: Жаба/Яд/Медл.\n[[1D22]]Путы/Недеесп./Приг.[[4F]][[42]]Автовоскрешение[[40]][[42]]",
+      "source_sha256": "67ee5d78a171d02fca71e7e7573d3c2420450dcc70c6e6a438667255fea62dcb",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "dialogue",
+      "font_profile": "compact_ui",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "words:content/507",
+      "ru": "Медаль берега",
+      "source_sha256": "73e90b39b662cf54cb499c6397a77b3ea2dfbaa5688f6db501415a660146636c",
+      "runtime_verified": false,
+      "max_width": 86,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "previous_ru": "Медаль побережья",
+      "font_profile": "compact_ui",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/530",
+      "ru": "Сплав Мисидии",
+      "source_sha256": "f0c76a0e8b3620b56c972d4310c85791d283ba07adf6890ba183b5536c06b48c",
+      "runtime_verified": false,
+      "max_width": 86,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "previous_ru": "Мисидийский сплав",
+      "font_profile": "compact_ui",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/545",
+      "ru": "Зелень Гисаля",
+      "source_sha256": "2cd0fd58ab664f1efc622cd2227ed5753c5b59eb17e83e206c08a2ca4a73c801",
+      "runtime_verified": false,
+      "max_width": 86,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "previous_ru": "Гисальская зелень",
+      "font_profile": "compact_ui",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/552",
+      "ru": "Гратен чокобо",
+      "source_sha256": "aaf30715bd63aff6fd972f47c1a3e582f2982ec75a62020b7949508249d6a48d",
+      "runtime_verified": false,
+      "max_width": 86,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "previous_ru": "Запеканка чокобо",
+      "font_profile": "compact_ui",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    }
+  ]
+}

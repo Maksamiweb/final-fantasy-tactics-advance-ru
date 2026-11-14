@@ -1,0 +1,805 @@
+{
+  "batch": "LAW-LABELS-01",
+  "entries": [
+    {
+      "id": "words:content/626",
+      "ru": "Навыки",
+      "source_sha256": "4d1589ddccc40094af638f07b2bc6c8c52a3189b3f17d1d29e4f600eca70ee09",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/627",
+      "ru": "Приёмы",
+      "source_sha256": "03b0c6cce8d9958847f1b5baa9c38b06bc640778e4dfe19e89a2cd34d44b86e1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/628",
+      "ru": "Цвет. маг.",
+      "source_sha256": "28b8e369c75a9221f4f9c83c0d5ac2f1ef495d5092053224ac0f485fb52365ff",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/629",
+      "ru": "Рыцарство",
+      "source_sha256": "a99a8d3780e83afea84179903ce0289977e0312fedec2f6a06f69fda9ed594b6",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/630",
+      "ru": "Молитва",
+      "source_sha256": "240a0a06fa6dc33c65e08094e78c48e337a1cc45235cd285d765db8665318b95",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/631",
+      "ru": "Оборона",
+      "source_sha256": "247789d14ebffdbd6f11e609a959f6ff6cf8f46283ff517577e047c1e04c1ed4",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/632",
+      "ru": "Стихии",
+      "source_sha256": "ef7bfbddc5a40f6d877e21c20778bc80daec86cb9a1f466f2c6817581d0424b3",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/633",
+      "ru": "Охота",
+      "source_sha256": "308da75c8d3e54824333c691bbe9e06a5f50a3e6e61ad9ac37f7e25f00359a76",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/634",
+      "ru": "Натиск",
+      "source_sha256": "89043c7d123c9e61d89d086691e03458fed52393f586e63a026c9f7800962ef6",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/635",
+      "ru": "Магия врем.",
+      "source_sha256": "890ac2a9f97742e9d2370149e92f6feb082063a46c9872a79627e21039a7d761",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/636",
+      "ru": "Прицел",
+      "source_sha256": "ad5ed2a2f33cde912930f9a32f41b48d7ad9969a7ff50ee2b4985dac30143ea1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/637",
+      "ru": "Снайпер.",
+      "source_sha256": "c690fe1be9ad3bcfce81bedc605e5e1b47fbd4e2810cd1f37c58844b21301f41",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/638",
+      "ru": "Стрел. дело",
+      "source_sha256": "2d6dddbd020d572a12b9b4b1ad754dc26c03d65df6f98c896ae3b14c3a4ecad7",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/639",
+      "ru": "Кража",
+      "source_sha256": "d2407d338c1b7711960fa806d85a0141c98ce1de9c785e5eac1d9826533c17e1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/640",
+      "ru": "В угол",
+      "source_sha256": "75efe7e27acd67c2098eea8a919b756b2d258003a880b373148b8ec59bf97db1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/641",
+      "ru": "Контроль",
+      "source_sha256": "d63579bd95619cf44854fc403e81fa36697f505dd55a9a23445df71224e2db27",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/642",
+      "ru": "Превращ.",
+      "source_sha256": "4ecfcf6b5b7fb69d215b4349698a08d428f56205e91b806058ca94cef8570f8b",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/643",
+      "ru": "Зов",
+      "source_sha256": "5942b7623f187c64ed8853eb1134e490515d22832845c48d2ab3fa8b1645cc18",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/644",
+      "ru": "Призыв",
+      "source_sha256": "07ec0426f40a1394dcdec62ce1f960124c363fcdee2f3e36855a65aff53b4453",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/645",
+      "ru": "Предметы",
+      "source_sha256": "5ec2d3543a9669f7c44305c56cbfbbc73202844f12971feb215bf81b1fe40429",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/646",
+      "ru": "Огонь",
+      "source_sha256": "46e5b860456e278d2b9dffdd4f163ad810fa48991d4ffe228cbde0e729b14d1a",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/647",
+      "ru": "Лёд",
+      "source_sha256": "e1c8535041e750dec45ef23f3ab4b98ae94492b72588bce08c819340702db8dc",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/648",
+      "ru": "Молния",
+      "source_sha256": "782c44c2cf640e95cf37bfb834eaf918da0bec89aa1d4d1d82ec76e9f982e5b0",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/649",
+      "ru": "Святость",
+      "source_sha256": "5fc8bd0c9a3aeeb9933ee3f52af69c81cb04da4be788bd9f3a71b233b3239615",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/650",
+      "ru": "Ветер",
+      "source_sha256": "1ffcc730d491881ed8bb8e6317917c56581fc82f385c543b2fde20cf48851148",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/655",
+      "ru": "Комбо",
+      "source_sha256": "62c450caf6f564434ce89e4eba2feb80366ff2950edb906ebea181b16ce2bf21",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/656",
+      "ru": "Полные HP",
+      "source_sha256": "e6cbe91fd6185812fafeab5d7657c8842e73d005f466e5a4a99c5beb8786ffb0",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/657",
+      "ru": "HP > 1/2",
+      "source_sha256": "1059b6c676cb962583ea615c6525e0c301898e5916971fd743edbe927b7800aa",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/658",
+      "ru": "Повтор",
+      "source_sha256": "3c71f65cf998cb213a09172a121e86b21779eae46b02fb49f3da13b610278ec4",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/659",
+      "ru": "Атака",
+      "source_sha256": "736bdb472e0366b44d7fce2bc16ba869340a66562d0aeaf62e50c9268453f95c",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/660",
+      "ru": "Область",
+      "source_sha256": "bab5bc1f1c9a8fcbb92c4a5ed19252f7f2fbb2eb5f4db3ecfb87db0bac58273a",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/661",
+      "ru": "Всё поле",
+      "source_sha256": "c5b65b8a160deba70ea8d1b8992adc396ecb44010381f38a38e92e055d0ae2d7",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/662",
+      "ru": "Мечи",
+      "source_sha256": "ca32c8d60ca3d9f5c2b63db2c13187650951f928eac4cabc94c171ef2f6f94e7",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/663",
+      "ru": "Клинки",
+      "source_sha256": "1764c9af62ffe345d1d97905f5a002333268e54b952743c8a7903c6cb6db1c9e",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/664",
+      "ru": "Сабли",
+      "source_sha256": "1aa0be454bf9a3142b1f9cf8bfdcf2b0138328afb57cdeb6e7ade65b758677f1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/665",
+      "ru": "Рыц. мечи",
+      "source_sha256": "d9704d013105e8dd4595ae624323ce7a208def299a90737540559529299c4eca",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/666",
+      "ru": "Двуручники",
+      "source_sha256": "cb0eeff19eb64f5c479a40893e0b941d67c5a15e9b46e4d9c97c45d4619c280d",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/667",
+      "ru": "Палаши",
+      "source_sha256": "ee93ab1848e1ef9388cb112d41f39c2fcb7af40d96fb5822f2572a93a07e981c",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/668",
+      "ru": "Ножи",
+      "source_sha256": "098dae915b57c7eaa3eb7a22cf62379ab25a1b59b3f9e12df993544b559ec55f",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/669",
+      "ru": "Рапиры",
+      "source_sha256": "54b9114ebb07026958387cacb6249a4d61e64ba47ce46d132aff87aa4fe8afef",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/670",
+      "ru": "Катаны",
+      "source_sha256": "c098d06ee748e6fd27b22c8c1ffd6c9c19fd17a8297363e8ebcf4d0afd0356a1",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/671",
+      "ru": "Копья",
+      "source_sha256": "f00b1f8a17760ab745857473b3332d4cff76ec6f5aae6a1b2e98faaa99daec5c",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/672",
+      "ru": "Инструм.",
+      "source_sha256": "7f9e56f0c7c04e14620459f93cfd594527a02723a8e9ee5be3fd01cde6425aed",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/673",
+      "ru": "Кастеты",
+      "source_sha256": "0e9abc0e509e975ea48f48d1b655fd1e198ca145edf0a5a54984e1b76ea14bf2",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/674",
+      "ru": "Души",
+      "source_sha256": "be6f6ca0aa19c6a91619ec0fb2107692cd80e652bfebed6a1f4d51489f3c5258",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/675",
+      "ru": "Стрельба",
+      "source_sha256": "8d01677a4bc38f592d8c3077a3cc0852c3d12ced097239d0c03f270cffd13f86",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/676",
+      "ru": "Тьма",
+      "source_sha256": "a1cddf6ed7db98d529e2948e8977431af540041071cee42a69000d331f42bc12",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/677",
+      "ru": "Посохи",
+      "source_sha256": "db979e948f2d930e839fcaebb611692bf2587f331abfb78c13f10671c18fa8d3",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/678",
+      "ru": "Жезлы",
+      "source_sha256": "920fd8506886320f401472db4ab0eafc722b65f76ac52a0a01548efcfc115c15",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/679",
+      "ru": "Булавы",
+      "source_sha256": "ef1438500c6edb025b236e04031c4140125a94b7c53d0a10f340e5d1f4b3778f",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/680",
+      "ru": "Без оружия",
+      "source_sha256": "2f43c9caea73d6711e56d4f37e341ded77fec72f5f3893eae9e4e77d3aa61446",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/681",
+      "ru": "Урон>100",
+      "source_sha256": "ab6a47ea407036b8788acc6f45a0da811955c7c9d32305431f39666d67d08b73",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/682",
+      "ru": "Леч. < 50",
+      "source_sha256": "0eff1ef091d52ca80fb4b11308494e7615d9d1c15c2883c9b6a9b6a8a0bdce01",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/683",
+      "ru": "Леч. < 100",
+      "source_sha256": "48dc50dd66bf6d4726da96fbbdd75c7bb92cfe6bd74667e2a541e0683729edfc",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/684",
+      "ru": "Леч. > 50",
+      "source_sha256": "2010dd2c9b3f0bd11aa206b66e8a69a4232000c0fb4050fb0d99fb8252ee233e",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/685",
+      "ru": "Леч. > 100",
+      "source_sha256": "7e23e3311d4376dcfd98d27894cb900d1f678c58e5c7a293924dff103a910c4d",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/686",
+      "ru": "Лечение",
+      "source_sha256": "729001b1db0503840e50218caa1c3d16a80e4dcb574873773e6c607505ec1a2e",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/687",
+      "ru": "Окаменение",
+      "source_sha256": "ef73c560f84f53c407bf8c96433c81822961a9354e30971d23c993d0bcb251a8",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/688",
+      "ru": "Лягушка",
+      "source_sha256": "9acd74d1dacaed69424dd7fdce56869abbcfee65794e4161fec32b57c33ad517",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/689",
+      "ru": "Яд",
+      "source_sha256": "3b8f8b23b473c2f0d8aeca8d34e65468ff26dc09244cca46c3950cce8e629d4f",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/690",
+      "ru": "Смятение",
+      "source_sha256": "ce646bd128457fb06661e3aad1fbd0b39ad5bbd1cf8e448312173b0f49f91289",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/691",
+      "ru": "Берсерк",
+      "source_sha256": "ce74f3c4db26fcd5e70f78eed048e885187fe35a5bb0676748d782ddb3b9e423",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/692",
+      "ru": "Немота",
+      "source_sha256": "aeaf3e7f3a66e7163e810c90f7c8f5520f7b7b2143104e96940b37f4585770bc",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/693",
+      "ru": "Очарование",
+      "source_sha256": "d00d098029a4e44ecc887739ff096f9582828b6cfe0cdca2f22100852cfc5bfb",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/694",
+      "ru": "Путы",
+      "source_sha256": "57a716022ae7a729f3a52e6c8b09e2160e703569c2eeac214dc874e460986e34",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/695",
+      "ru": "Помрач.",
+      "source_sha256": "b37b5e1f820a7c04715162af369f989dae3dea5014d2b3aee1c6e4af2c834936",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/696",
+      "ru": "Замедление",
+      "source_sha256": "f2de9b4d776b2c220deb7a537a77eef23620b92755a44d53f17a46d17fd02791",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/697",
+      "ru": "Стоп",
+      "source_sha256": "131b0c061d5e76cefacaa793393fa1e0fc029b77ab910e0f01b85d938fe053af",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/698",
+      "ru": "Недуги",
+      "source_sha256": "59d43e9f0173b64f5411efe4fdfcd8b624da329b7aff82bdacbe6a1eda28b809",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/699",
+      "ru": "Панцирь",
+      "source_sha256": "54914f4e12b74de7a7bc62a4267e6d25684d06d881530931dbd49349374e0903",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/700",
+      "ru": "Защита",
+      "source_sha256": "c584f7e342be1ff6c3ffc5a90536d48d0d7ddebdb4c3dc9e07d72e3d5daadaf7",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/701",
+      "ru": "Ускорение",
+      "source_sha256": "8ff87a62fb4a7d052cc6079762e9dc7a9273325b3eb4df95e34b3f2af697c4c0",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/702",
+      "ru": "Бить людей",
+      "source_sha256": "f58fc4deaeb45a10eb1e19a610d8dab0c729a19ed512fb9a388161b78297df1d",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/703",
+      "ru": "Бить бангаа",
+      "source_sha256": "322fc5f5af880d48561ffe25ea92952f6fd25ef60950558a5da6792f2d371d45",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/704",
+      "ru": "Бить ну моу",
+      "source_sha256": "04d1a1e617956db61537ae4e177471c45f38e7c1eb6b210f7a8c962807607121",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/705",
+      "ru": "Бить виера",
+      "source_sha256": "9f4cc969cea56cecbdd6cabf413b237c275e093f9c5c633cb9e890cdf5c65b1a",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/706",
+      "ru": "Бить муглов",
+      "source_sha256": "054c1cffef87fa5ef7b31ddaa8e09f8cd362159d29bf326786986990ad2738b8",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/707",
+      "ru": "Бить зверей",
+      "source_sha256": "e0d445a0a53b4caef9e455475b3c6ea23fa253a8c38a16aa6b38c921b703d6b8",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/708",
+      "ru": "Карты зак.",
+      "source_sha256": "3193c67ec7af2bbbf12a3a1ca46dbfce069468658850601051fd0ceb96edf7fe",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    },
+    {
+      "id": "words:content/709",
+      "ru": "Бесцв. маг.",
+      "source_sha256": "336dc13010254f7948f982a07b780d42dee4725d82e1ec88ab370309bec3ae73",
+      "runtime_verified": false,
+      "max_width": 60,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "font_profile": "compact_ui"
+    }
+  ]
+}

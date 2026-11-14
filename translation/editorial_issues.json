@@ -1,0 +1,677 @@
+{
+  "issues": [
+    {
+      "id": "E0001",
+      "record_id": "s_text/16/10",
+      "status": "open",
+      "issue": "Подстановка 41F сохранена в исходном порядке между именем героя и именем клана. Смысл, формат и максимальная ширина неизвестны; текущая оценка 42 px предварительная. Проверить исполняемый обработчик/игровой вывод до финальной сборки."
+    },
+    {
+      "id": "E0002",
+      "record_id": "s_text/16/0",
+      "status": "open",
+      "issue": "Clan Ox временно клан «Бык». Сверить все упоминания и отдельное название клана; не объявлять устоявшимся русским переводом."
+    },
+    {
+      "id": "E0003",
+      "record_id": "s_text/17/45",
+      "status": "open",
+      "issue": "Whitey-locks передано «седой»; при общей редактуре сверить с дразнилками вступления, не заменять белые волосы возрастной сединой в остальном тексте."
+    },
+    {
+      "id": "E0004",
+      "record_ids": [
+        "s_text/19/107",
+        "s_text/19/108",
+        "s_text/19/109",
+        "s_text/19/110",
+        "s_text/19/111",
+        "s_text/19/112",
+        "s_text/19/113",
+        "s_text/19/114",
+        "s_text/19/115"
+      ],
+      "status": "open",
+      "issue": "Японские подписи кат-сцен с нерасшифрованными глифами. Сохранены, не входят в 155 переводов. Выяснить кодировку и достижимость; не считать автоматически неиспользуемыми."
+    },
+    {
+      "id": "E0005",
+      "record_ids": [
+        "s_text/19/46",
+        "s_text/19/48",
+        "s_text/19/71",
+        "s_text/22/9",
+        "s_text/26/44",
+        "s_text/26/49",
+        "s_text/28/1",
+        "s_text/28/19",
+        "s_text/30/7"
+      ],
+      "status": "open",
+      "issue": "В USA Judgemaster собирается из динамического 5117 (Judge) и латинского master. В переводе master убрано, перед динамической строкой добавлено «верховный». Сверить фактическую подстановку и регистр с words:refer/23 при интеграции; структурные функции сохранены."
+    },
+    {
+      "id": "E0006",
+      "record_id": "s_text/19/99",
+      "status": "open",
+      "issue": "Twem временно «Твем», с сохранением динамического имени Лледнар. Написание фамилии сверить при общей терминологической редактуре."
+    },
+    {
+      "id": "E0007",
+      "record_ids": [
+        "s_text/19/6",
+        "s_text/19/29"
+      ],
+      "status": "open",
+      "issue": "Ультима как имя тотемы: совпадает с принятой формой Ultima в словаре, но отдельную сущность/контекст тотемы необходимо учесть. Не переносить автоматически свойства одноимённого заклинания."
+    },
+    {
+      "id": "E0008",
+      "record_ids": [
+        "s_text/22/12"
+      ],
+      "status": "open",
+      "issue": "Omega временно «Омега». Сверить именно способность Лледнара, её название и остальные описания; не подменять одноимённым противником серии."
+    },
+    {
+      "id": "E0009",
+      "record_ids": [
+        "s_text/23/52",
+        "s_text/23/54",
+        "s_text/23/63",
+        "s_text/23/64"
+      ],
+      "status": "open",
+      "issue": "Gift Day — день подарков; Audience Day — день аудиенций. Согласовать названия во всех заданиях, слухах и следующих сценах; пока рабочая пара терминов."
+    },
+    {
+      "id": "E0010",
+      "record_ids": [
+        "s_text/20/1",
+        "s_text/20/5",
+        "s_text/21/4",
+        "s_text/21/7",
+        "s_text/21/9",
+        "s_text/21/11"
+      ],
+      "status": "open",
+      "issue": "Шипение бангаа передано удлинением с через дефис. При общей стилистической редактуре выбрать единый способ передачи во всей игре, сохранить читаемость."
+    },
+    {
+      "id": "E0011",
+      "record_id": "s_text/24/12",
+      "status": "open",
+      "issue": "Murasumthin — намеренно исковерканное название в шутке Донеда, передано «Мура-как-его-там» рядом с «волшебной овощерезкой». Сверить аллюзию на оружие при общей редактуре; не выдавать шутку за точное название предмета."
+    },
+    {
+      "id": "E0012",
+      "record_id": "s_text/26/43",
+      "status": "open",
+      "issue": "Ритуальная формула Омеги переведена с сохранением образов последнего вздоха, клинка, пения и тьмы. Сверить повторы формулы и её фактическое окно/тайминг."
+    },
+    {
+      "id": "E0013",
+      "record_ids": [
+        "s_text/31/23",
+        "s_text/31/24"
+      ],
+      "status": "open",
+      "issue": "Только управляющая функция 42 без видимого текста; не засчитаны как перевод. При итоговой проверке сохранить буквально."
+    },
+    {
+      "id": "E0014",
+      "record_ids": [
+        "s_text/30/15",
+        "s_text/34/7"
+      ],
+      "status": "open",
+      "issue": "Удача (Fortune), Два меча (Double Sword), Удар по разуму (Mindbreak) — рабочие карточки. Перед окончательной интеграцией сверить названия закона/способностей с соответствующими самостоятельными строками."
+    },
+    {
+      "id": "E0015",
+      "record_id": "s_text/47/16",
+      "status": "open",
+      "issue": "JudgeWatch board передано советом «[[5117]]-надзор», поскольку Judge — динамическая подстановка. Нужна естественная окончательная форма названия ведомства и проверка всех ссылок; нынешний вариант структурно корректен, стилистически предварителен."
+    },
+    {
+      "id": "E0016",
+      "record_ids": [
+        "s_text/47/26",
+        "s_text/52/26",
+        "s_text/53/34"
+      ],
+      "status": "open",
+      "issue": "USA строит множественное Judges из динамического Judge и s. Русские фразы перестроены в единственное число с общим значением; проверить реальный регистр/подстановку 5117 и контекст."
+    },
+    {
+      "id": "E0017",
+      "record_ids": [
+        "s_text/44/1",
+        "s_text/44/3",
+        "s_text/49/24"
+      ],
+      "status": "open",
+      "issue": "Swain — Суэйн, Radijiu — Радиджу. Рабочие фамилии, требуют сверки со всеми упоминаниями и серийной терминологией."
+    },
+    {
+      "id": "E0018",
+      "record_ids": [
+        "s_text/49/0",
+        "s_text/49/4"
+      ],
+      "status": "open",
+      "issue": "Alta Oron Sondus Kameela передано «Алта Орон Сондус Камила». Сверить с начальной формулой книги; частично неверное воспоминание alta orran в 49/0 сохранено как «алта орран»."
+    },
+    {
+      "id": "E0019",
+      "scope": "translation/jobs-creatures-equipment.ru.json",
+      "status": "open",
+      "issue": "388 названий — черновики. Фактические окна/символьные пределы не проверены, 211 названий шире предварительных 80 px. Не вставлять в итоговый ROM без выбора кратких форм и проверки инвентаря, магазинов, профессий и статуса."
+    },
+    {
+      "id": "E0020",
+      "scope": "words:content",
+      "record_ids": [
+        "words:content/81",
+        "words:content/82",
+        "words:content/123",
+        "words:content/177",
+        "words:content/202",
+        "words:content/236",
+        "words:content/257",
+        "words:content/306",
+        "words:content/307",
+        "words:content/319",
+        "words:content/342"
+      ],
+      "status": "open",
+      "issue": "Dummy 81/82/123 не переводились. Восемь названий со специальными функциями микроверстки отложены: исследовать коды 1B/1D и сохранить порядок; не удалять ради красивого текста."
+    },
+    {
+      "id": "E0021",
+      "scope": "reports/unresolved-japanese-pages.json",
+      "status": "open",
+      "issue": "36/40/41/43/54/56/57/58/59 — алиасы одной японской страницы (106 записей, общий начальный offset 0x9f0938). 62 — иная японская страница. Декодирование и достижимость не исследованы полностью; исключить любые заявления о готовности."
+    },
+    {
+      "id": "E0022",
+      "record_ids": [
+        "s_text/61/3/191",
+        "s_text/61/3/199",
+        "s_text/61/6/47",
+        "s_text/61/6/55"
+      ],
+      "status": "open",
+      "issue": "Японские подписи モーグリ расположены после 40/42 в квестовых страницах. Сохранены без перевода и не включены в 888. Проверить достижимость и служебное назначение."
+    },
+    {
+      "id": "E0023",
+      "record_ids": [
+        "s_text/61/3/54",
+        "s_text/61/4/73",
+        "s_text/61/4/196",
+        "s_text/61/6/200",
+        "s_text/61/9/14",
+        "s_text/61/9/99"
+      ],
+      "status": "open",
+      "issue": "Коды 1D03/1D04 сохранены в исходном порядке. В длинных строках добавлены обычные пробелы для переносов. Исполняемые эффекты микроверстки не моделируются измерителем; проверить реальные межсловные интервалы и ширину в эмуляторе."
+    },
+    {
+      "id": "E0024",
+      "scope": "s_text/61/3–10",
+      "status": "open",
+      "issue": "Новые подстановки 51xx (Kanan, Lodion, Gerland, Lini, Leanan и другие) ещё могут иметь английские значения. Теги сохранены; именительный падеж и бюджет 42px предварительны. Перевести и проверить соответствующие words:refer отдельно."
+    },
+    {
+      "id": "E0025",
+      "scope": "translation/quests-*.ru.json",
+      "status": "open",
+      "issue": "Квестовые варианты для людей, бангаа, ну моу, виера и муглов сохранены отдельно. Сверить пол говорящего, шипение и имена с фактическим выбором участника. Повествовательные сокращения не должны менять механику заданий."
+    },
+    {
+      "id": "E0026",
+      "record_ids": [
+        "fx_text/9/4",
+        "fx_text/9/8",
+        "fx_text/9/12"
+      ],
+      "status": "open",
+      "issue": "Координатные шаблоны статистики: сохранены строки, порядок числовых полей, 1D/4B и цвета. Автоперенос запрещён; реальные границы/числа/имена проверить в игре."
+    },
+    {
+      "id": "E0027",
+      "scope": "translation/unit-status-labels.ru.json",
+      "status": "open",
+      "issue": "29 подписей измерены. Предварительные бюджеты по роли 156/96/28px пройдены, но реальные размеры и все потребители не доказаны. Шесть строк шире диагностических 80px, которые не являются пределом окна."
+    },
+    {
+      "id": "E0028",
+      "scope": "status windows graphics",
+      "status": "open",
+      "issue": "Графические и дополнительные шрифтовые подписи окон статуса не инвентаризированы полностью. Поиск ASCII/одного кодирования не доказывает графическую природу. Нужно достигнуть свободного статусного экрана, определить все ресурсы/потребители и проверить визуально. Не заявлять готовность всех окон. В 0.8 из свежего состояния открыт экран статуса Ритц: имя/профессия русские, Move/Jump/Weapon Atk/EQUIP и другие заголовки английские. Тип и адреса этих ресурсов ещё не установлены; графическую природу не считать доказанной."
+    },
+    {
+      "id": "E0029",
+      "scope": "fx_text/22",
+      "status": "open",
+      "issue": "118 описаний переведены; числа и порядок требований 24 профессий проверены. Сокращения в квадратных скобках переведены как видимый текст. Сверить аббревиатуры, А-умения, пол и реальное окно помощи при интеграции."
+    },
+    {
+      "id": "E0030",
+      "record_ids": [
+        "fx_text/17/212",
+        "fx_text/17/39"
+      ],
+      "status": "resolved_text_and_resource_roundtrip",
+      "issue": "Две конструкции Remedi+es переведены целыми глаголами. Точечное исключение для fx_text/17/39 и /212 ограничено исходными SHA-256, суффиксом es и явным literalize_word_fragment. Имя words:refer/5 сохранено. Остальные функции менять нельзя. Сборщик и проверка используют один защитный метод; 6 тестов защиты и реальное кодирование/декодирование двух буферов прошли. ROM/игровая интеграция отложены. Включены в 0.8; полный ROM roundtrip прошёл, фактический вызов способностей в бою не проверен."
+    },
+    {
+      "id": "E0031",
+      "scope": "fx_text/17",
+      "status": "open",
+      "issue": "366 описаний — draft. Проверить реальные окна справки, регистр А/Р-умений, числовые эффекты, расчёт последней цифры уровня/дней для 320/323 и сокращения ступеней сопротивления 150. Механика сохранена по английскому тексту, не подтверждена исполнением. Две словесные подстановки закрыты на текстовом уровне в P05-B022."
+    },
+    {
+      "id": "E0032",
+      "scope": "fx_text/8 and pages:condi/11-13",
+      "status": "open",
+      "issue": "Большая справка проверена по предварительным 156px/7 строк, а не по игровому окну. Сохранены все 4F/42, микрокоды и два неизвестных исходных глифа 0x1E6 в 8/88. Бюджеты, интервалы и вид глифа проверить в игре."
+    },
+    {
+      "id": "E0033",
+      "scope": "long help encoded resource cap",
+      "status": "resolved_for_test_build_native_extent",
+      "record_ids": [
+        "fx_text/8/60",
+        "fx_text/8/64",
+        "fx_text/8/65",
+        "fx_text/8/68",
+        "fx_text/8/70",
+        "fx_text/8/86",
+        "fx_text/8/8",
+        "fx_text/8/11",
+        "fx_text/8/54"
+      ],
+      "issue": "Проверены реальные исходные raw_len: нужные страницы справки занимают 690–970 байт, русские варианты 547–757 и все короче собственных оригиналов. Для fx_text/8 разрешён размер max(512, native_raw_len) именно этой записи; для остальных таблиц 512 сохранён. Все записи прошли полный ROM roundtrip в 0.8. Реальный просмотр всех длинных страниц ещё не выполнен."
+    },
+    {
+      "id": "E0034",
+      "scope": "short help and fixed mission pages",
+      "status": "open",
+      "issue": "431 новая однострочная подсказка/выбор и 8 фиксированных страниц: реальные границы не подтверждены. 42 разделяет варианты ответа; измеряется максимум отдельного варианта, а не сумма. Ширина переменных предварительно 42px, 1B/1D/поля данных моделируются неполно. Проверить long names, числа, цели боя, требования и списки наград."
+    },
+    {
+      "id": "E0035",
+      "record_ids": [
+        "fx_text/1/38"
+      ],
+      "status": "open",
+      "issue": "Источник предупреждает, что loading стирает ранее сохранённую игру. Перевод сохраняет исходное предупреждение. Выяснить контекст вызова (обычная загрузка/обмен/перезапись), прежде чем уточнять формулировку. Поведение не заявлено проверенным."
+    },
+    {
+      "id": "E0036",
+      "scope": "fx_text/23-24 law help",
+      "status": "open",
+      "issue": "550 записей соответствуют 202 точным исходным вариантам. Ранги, причины штрафа/поощрения, исключения для стихийного оружия и инициатор комбо сохранены. У исходника есть разные ранги в пояснении закона и карты (например ветер R4/R5); не исправлялись догадкой. Рабочие названия групп команд и карт сверить с будущими меню."
+    },
+    {
+      "id": "E0037",
+      "scope": "fx_text/11 mission results",
+      "status": "open",
+      "issue": "88 отчётов сохранены по вариантам говорящего. Ритц/Шара — женские формы, Бабус/Эзель/Сид — мужские; динамическое имя обычного бойца не склоняется. Все микрокоды сохранены, но их интервалы и реальные поля названия задания требуют просмотра."
+    },
+    {
+      "id": "E0038",
+      "scope": "0.8 release verifier nested story tables",
+      "status": "resolved_roundtrip",
+      "issue": "Перенос квестовых дочерних страниц 61/3–10 вышел за старую область вложенной таблицы. Парсер проверки использовал прежнюю границу и остановил сборку. Для вложенных таблиц проверяющая схема теперь берёт исходное число детей и точные исходные/перенесённые размеры, проверяет адреса относительно owner table и размер ROM. Проверка не отключалась: все 16195 записей совпали с ожидаемыми токенами, включая неизменённые. Исполняемая логика игры не изменялась."
+    },
+    {
+      "id": "E0039",
+      "scope": "words:content labels",
+      "status": "open",
+      "issue": "744 содержательных названия переведены. 356 новых полных форм измерены: 201 шире диагностических 80px, ни одна не шире 156px статического текста. Реальные узкие меню, краткие варианты и десять записей с 1B/1D требуют проверки. Служебные -, dummy, xxxx и (not used) не переводились и не засчитаны."
+    },
+    {
+      "id": "E0040",
+      "record_ids": [
+        "fx_text/21/40"
+      ],
+      "status": "resolved_text_and_resource_roundtrip",
+      "issue": "В английском названии типа использовано Dark Knight (words:refer/55) + sword, то есть Dark Knightsword. По точному хешу/ID/суффиксу заменено целым русским названием. Обычные упоминания Dark Knight сохраняют подстановку. Общий validate_controls и отдельный тест защищают область исключения; ROM/игровой вывод не проверены."
+    },
+    {
+      "id": "E0041",
+      "scope": "fx_text/21/0-169",
+      "status": "open",
+      "issue": "170 описаний сверены по числу рук, целым числам, дальности девяти луков и флагам/целям поглощения, иммунитета, половинного урона и усиления стихии. Это сверка исходного текста, не исполнение свойств. Рыц./св./р. и статусы сокращены для расчётного окна; увидеть в реальной справке."
+    },
+    {
+      "id": "E0042",
+      "record_ids": [
+        "fx_text/8/41",
+        "fx_text/8/42"
+      ],
+      "status": "revision_pending_integration",
+      "issue": "Два прежних сообщения называли Spiritstone «камнем духа», хотя словарь и квестовые сцены используют «камень духов». Manuscript и ED-B001 согласованы. ROM/снимок 0.8 оставлены неизменными; подготовка следующей версии применяет замену без повторного подсчёта ID."
+    },
+    {
+      "id": "E0043",
+      "record_ids": [
+        "words:content/484"
+      ],
+      "status": "open",
+      "issue": "Mindu Gem переведён как «Самоцвет Минву»: рабочая интерпретация отсылки к FFII. Официальная карточка FFII подтверждает имя Минву, но не тождество Mindu из FFTA и не официальное название предмета. Карточка предмета остаётся proposal/review."
+    },
+    {
+      "id": "E0044",
+      "scope": "s_text/61 coverage",
+      "status": "open_classification",
+      "issue": "Все найденные английские реплики страницы 61 покрыты, включая оставшиеся /2, /11, /12, /16. Это не полнота всех заданий: 376 заявок pages:quest не переведены, японские подписи/пустые/служебные записи не объявляются автоматически неиспользуемыми."
+    },
+    {
+      "id": "E0045",
+      "scope": "fx_text/21/170–374; fx_text/20; fx_text/26",
+      "status": "open_visual_review",
+      "issue": "265 новых описаний проходят расчёт 156px/3 строки и проверку функций. Микрокод 1D22 сохранён, перенос перед ним изменён ради трёх строк; фактическое позиционирование не проверено. Надписи свойств и статусы сокращены. Нужна игровая проверка всех типов окон."
+    },
+    {
+      "id": "E0046",
+      "record_ids": [
+        "fx_text/21/233",
+        "fx_text/21/259",
+        "fx_text/21/274",
+        "fx_text/21/356",
+        "fx_text/21/357",
+        "fx_text/21/360"
+      ],
+      "status": "open_gameplay_semantics",
+      "issue": "Dark эффекта 48 интерпретирован как Слепота, в отличие от иммунитета стихии Тьма (37). Disarm интерпретирован как Disable по совпадающим эффектам 46/45 и групповому 58. Вывод по таблице предметов и текстам; исполнение сопротивлений в бою не проверено. Прежний /21/102 имеет эффект 37 и правильно остаётся Тьмой."
+    },
+    {
+      "id": "E0047",
+      "scope": "pages:quest/0/2–190 (185 meaningful requests)",
+      "status": "open_visual_layout",
+      "issue": "Заявки проходят расчёт 156px/7 строк. У исходных заявок разное число строк, поэтому 7 не является доказанной вместимостью окна. Подписи, розыскные листы и турнирные блоки содержат 1B/1D; сохранена последовательность функций, но фактические координаты и положение каждой подписи не проверены. До финальной сборки открыть реальные окна, не повышать лимит без доказательств."
+    },
+    {
+      "id": "E0048",
+      "scope": "words:refer; earlier authored dialogue",
+      "status": "open_editorial_and_runtime_review",
+      "issue": "82 новых имени изменят подстановки и в ранее переведённых сценах после следующей сборки. 13 имён шире диагностических 80px. Нужно проверить род, склонение, титулы и ширину всех прежних употреблений. CRN_NONE/DEF/RES6/RES7/NAME071/NAME072 не переводились. Имена транслитерированы как рабочие решения, без заявления об официальности."
+    },
+    {
+      "id": "E0049",
+      "record_ids": [
+        "pages:quest/0/16",
+        "pages:quest/0/102",
+        "words:refer/57"
+      ],
+      "status": "open_contextual_suffix_review",
+      "issue": "В подписи дворца сохранена подстановка Judge без английского окончания s; источник не задаёт отдельной русской формы множественного числа. «Дворец Бервении и Судья» требует редакторской проверки. Gagat+oh передано как база «Гагат» + русское «о» (Гагато), без удаления функции. Текст и контрольная последовательность проверены, исполнение в игре — нет."
+    },
+    {
+      "id": "E0050",
+      "scope": "older contexts affected by words:refer translation",
+      "status": "resolved_static_reflow_runtime_unverified",
+      "record_ids": [
+        "s_text/61/3/145",
+        "s_text/61/3/148",
+        "s_text/61/3/149",
+        "s_text/61/3/193",
+        "s_text/61/4/198",
+        "s_text/61/5/153",
+        "s_text/61/5/154",
+        "s_text/61/6/192",
+        "s_text/61/6/194",
+        "s_text/61/6/195",
+        "s_text/61/6/196",
+        "s_text/61/8/24",
+        "s_text/61/8/172",
+        "s_text/61/8/228",
+        "s_text/61/9/4",
+        "fx_text/16/79",
+        "fx_text/8/44",
+        "fx_text/8/54",
+        "s_text/61/2/217",
+        "s_text/61/2/218",
+        "s_text/61/2/219",
+        "s_text/61/2/221"
+      ],
+      "issue": "Новая проверка подставила полные русские имена words:refer в 90 прежних текстов и нашла расчётные превышения в 22. Это не подтверждённые игровые ошибки: 04-поля всё ещё оценены как 42px, 1B/1D и реальные окна не моделируются. Нельзя считать прежние окна проверенными после замены имён. ID/строки/ширины перечислены в reports/continuation-05-reference-check.json; исправить или проверить перед следующей ROM-сборкой. Новые 185 заявок проходят эту проверку. Уточнение текущего подхода: старый аудитор ошибочно складывал разные 4F/40/42-окна. После исправления осталось 10 расчётных превышений; они устранены ED-B002. Новый отчёт final-english-reference-check.json даёт 0 предупреждений для 93 затронутых текстов. Проверка в игре по-прежнему не выполнена."
+    },
+    {
+      "id": "E0051",
+      "scope": "words:name/0–724",
+      "status": "open_name_field_runtime_review",
+      "issue": "Все 725 имён рядовых бойцов переведены; повторные исходные имена согласованы. Максимальная расчётная ширина 78px. Это не подтверждение символьного лимита, записи в сохранения или совместимости латинской клавиатуры с созданием/переименованием. Рабочие транслитерации хранятся отдельно от канонических персонажей серии."
+    },
+    {
+      "id": "E0052",
+      "scope": "words:quest; words:battle",
+      "status": "open_narrow_menu_review",
+      "issue": "Все 389 содержательных названий заданий и оставшиеся 547 боевых подписей переведены. Новые максимумы 153px и 143px. 542 из 1661 новой подписи шире диагностических 80px. 156px — расчётный бюджет, не доказанная ширина каждого списка/кнопки. 1D-коды сохранены; интервалы и фактические ограничения не проверены."
+    },
+    {
+      "id": "E0053",
+      "record_ids": [
+        "words:quest/317",
+        "words:quest/322",
+        "words:quest/323"
+      ],
+      "status": "open_composed_heading_review",
+      "issue": "Исходные заголовки — фрагменты «Marche’s », «Into », «Where’s ». Переведены как «Марша », «В », «Где » с конечным пробелом. Место/порядок объединения и склонение продолжения не установлены. Эти три ID — авторский черновик, не подтверждённое отображение полного названия."
+    },
+    {
+      "id": "E0054",
+      "record_ids": [
+        "words:battle/199",
+        "words:battle/231",
+        "words:battle/300"
+      ],
+      "status": "resolved_text_scope_runtime_unverified",
+      "issue": "Ultima Sword — атакующая способность «Клинок Ультимы», Nurse — «Уход», Judge — «Суд». Сверены /17/20, /52, /121. Weapon Ultima Sword, NPC Nurse и титул Judge остаются отдельными контекстами. Два accepted-гейта исключают только точные ID способностей; общий терминологический контроль не отключён."
+    },
+    {
+      "id": "E0055",
+      "record_ids": [
+        "words:battle/534",
+        "words:battle/537",
+        "words:battle/538",
+        "words:battle/541"
+      ],
+      "status": "open_late_ability_mapping",
+      "issue": "Для Abate/JP Gift/Yellow Clip/Palaistra использованы рабочие смысловые названия или транслитерация исходных подписей. Не применять прямое соответствие battle ID = fx_text/17 index + 179 после /battle/533: последние описания относятся к превращениям. Назначение поздних команд и привычные названия проверить отдельно; игровые эффекты не менялись."
+    },
+    {
+      "id": "E0056",
+      "scope": "catalog percentage and remaining work",
+      "status": "open_progress_metric_and_reachability_audit",
+      "issue": "Повторный запрос +10 п.п. требует 1620 новых ID. На базе 8449 найдены только 677 оставшихся латинских текстовых кандидатов; все переведены. Процент не повышался за счёт пустых, символических или служебных записей. В оставшихся 7069: 5551 пустая/управляющая запись, 572 заглушки/резерва, 452 кандидата подписей кадров, 483 кандидата японских реплик, 6 японских суффиксов после 40, 1 запись с неопознанным глифом и 4 символьных/динамических шаблона. Классификация лексическая, не доказательство недостижимости. Общий процент 56,35% нельзя трактовать как половину содержательного текста."
+    },
+    {
+      "id": "E0057",
+      "scope": "s_text/36,40,41,43,54,56,57,58,59,62 and Japanese suffixes in /61",
+      "status": "source_font_and_drafts_prepared_call_sites_unknown",
+      "issue": "Не переводились по догадке японские строки с U-глифами. Девять страниц содержат совпадающие блоки 49 реплик и 48 подписей кадров; страница 62 содержит отдельные реплики. Необходимы корректная расшифровка исходных глифов, сверка с локализованными сценами и поиск вызовов. Копии и технические подписи не объявлены ни игровыми, ни недостижимыми без доказательств. Обновление: 124 знака прочитаны по исходному шрифту с контекстом; 49 реплик девяти страниц и все 43 строки /62 подготовлены на русском. Фонт и оригинальный charset не изменялись: дополнена отдельная копия анализатора. Вызовы и достижимость сцен остаются неизвестными."
+    },
+    {
+      "id": "E0058",
+      "scope": "fx_text/25/0–126",
+      "status": "open_quest_item_visual_review",
+      "issue": "Все 127 описаний переведены; 4 значения параметров и 2 исходные строки статистики сохранены для каждого. 16 отдельных свойств усиления/получения AP переданы раздельно, включая удвоение AP. Проверены функции/хеши, а не реальное позиционирование: 1D/1B, символы и колонки требуется открыть в игре."
+    },
+    {
+      "id": "E0059",
+      "scope": "fx_text/6,7,12–15; s_text/0; words:system/clan/rumor/title/uitm",
+      "status": "open_english_closure_runtime_review",
+      "issue": "Переведены сведения о 30 кланах, 13 заведениях, 38 реплик переговоров, 37 прощаний/уходов и 241 подпись. Для сведений принят предварительный бюджет 6 строк, но исходные окна имеют собственную высоту; не объявлять их проверенными. Постфиксы системных сообщений, ранговые титулы с конечными пробелами, начальные пробелы ДА/НЕТ, новые кланские имена и микрокоды требуют проверки в своих виджетах."
+    },
+    {
+      "id": "E0060",
+      "record_ids": [
+        "pages:quest/1/181",
+        "pages:quest/1/195",
+        "words:title/13",
+        "pages:quest/0/29"
+      ],
+      "status": "open_contextual_editorial_review",
+      "issue": "Judge Watch передано подписью «Мау, надзор: Судья» ради сохранения подстановки Judge без неверного склонения. Нужна окончательная редактура/контекстная форма. Godeye как звание — «Божий глаз», а в прежнем розыскном прозвище — «Годай»; контексты согласовать после проверки отображения. Новые источники официальности не заявляются."
+    },
+    {
+      "id": "E0061",
+      "scope": "Japanese source glyph map and decoder",
+      "status": "verified_source_mapping_runtime_unverified",
+      "issue": "124 ранее нерасшифрованных знака прочитаны по диагностическому растру исходного ROM с японским контекстом. Локальные атласы и индивидуальные SHA-256 исходных 128-байтовых глифов в work/japanese-source. Отдельный work/japanese-upstream содержит байтовую копию текущего парсера и дополненный charset; оригинальные файлы work/upstream, ROM и фонт не менялись. Кодирование всех 9126 прежних русских буферов осталось идентичным. Для новых японских переводов проверки выполнять с расширенным charset, не отключая контроль неизвестных глифов."
+    },
+    {
+      "id": "E0062",
+      "scope": "s_text/36,40,41,43,54,56,57,58,59 and /62",
+      "status": "drafts_prepared_reachability_unknown",
+      "issue": "441 ID — это 49 японских реплик в девяти точных копиях, а не 441 уникальная фраза. Авторских уникальных вариантов 48 плюс 43 строки /62. Точность разворачивания защищена совпадением исходного текста и семантического хеша. Пустые строки и 48 подписей кадров на каждой из девяти страниц не включались. Использование этих разделов в USA требует анализа вызовов."
+    },
+    {
+      "id": "E0063",
+      "record_ids": [
+        "s_text/36/17",
+        "s_text/36/36",
+        "s_text/36/37"
+      ],
+      "status": "open_japanese_name_variant_review",
+      "issue": "В исходных японских строках читаются ナーガス三姉妹 (сёстры Нагас), モグらローズクラン (Могра-Роуз) и 花嫁 (невеста). Исходные варианты сохранены, а не автоматически заменены английскими именами другого контекста. Не заявляются официальными русскими названиями. Сверить роли/соответствия локализованных сцен при исследовании вызовов."
+    },
+    {
+      "id": "E0064",
+      "scope": "source pointer aliases and percentage",
+      "status": "verified_alias_counts_runtime_unverified",
+      "issue": "Девять японских путей /36,/40,/41,/43,/54,/56,/57,/58,/59 ссылаются на одни 49 физических записей, а не на девять независимых банков. 441 логический ID — это покрытие ссылок. Всего текущие 1161 новых ID соответствуют 769 исходным смещениям, из которых 762 ранее не были покрыты; семь новых путей /0 согласованы с прежним переводом /60. Конфликтов русского текста по общим исходным смещениям не осталось. Исторический процент по 16195 логическим ID сохранён, но это не мера числа уникальных фраз или игровой готовности."
+    },
+    {
+      "id": "E0065",
+      "scope": "dialogue profanity and possible censored insults",
+      "status": "queued_contextual_editorial_review",
+      "issue": "Пользователь разрешил уместный русский мат при передаче исходной брани и оскорблений, скрытых символами. Проверить такие места по контексту и доступному японскому источнику; силу и голос персонажа сохранять. Сам факт американской цензуры в конкретных репликах FFTA пока не установлен этим изменением. Не менять символические обозначения, коды и обычное раздражение автоматически."
+    },
+    {
+      "id": "E0066",
+      "scope": "Status graphics 0x3b4214 and EQUIP caption",
+      "status": "integrated_0_9_one_normal_status_frame_verified",
+      "issue": "12 русских подписей прошли нативный кодек и отрисовку в диагностическом состоянии 0.8; новый поток 3660 байт при исходных 4000. Статический LZSS-атлас используется шестью найденными указателями, другие окна не проверены. EQUIP формируется отдельно: тайлы 62–65 исходного A7 0x3a94cc пустые, в окне заполнены. Требуются путь заголовка, другие потребители и штатная интеграция при будущей разрешённой сборке. Диагностические состояния не игровые сохранения. Отчёт reports/status-graphics-native.md. В тестовой 0.9 ресурс встроен; после свежего запуска 199 тайлов совпали с подготовленным банком и просмотрен один обычный статус. Другие окна и сохранения не объявляются проверенными."
+    },
+    {
+      "id": "E0067",
+      "scope": "0.9 user shop screenshots; cross-release savestate",
+      "status": "private_candidate_shop_save_reload_passed_pending_release",
+      "issue": "Воспроизведено на копии игрового сохранения Mesen после свежего запуска. Ширина названий: 88px работает, 92px даёт чёрную лавку в контролируемом тесте. compact_ui для 375 предметов + 31 сокращение; покупка, продажа и выход прошли на mGBA. Точная инструкция повреждения не изолирована. Mesen и сохранение после сделки не проверены. Новый выпуск не опубликован. reports/shop-fix.md Расширенный этап: перезапись копии .sav, свежая загрузка 4750 и повторная лавка прошли на mGBA. reports/trade-stage.md."
+    },
+    {
+      "id": "E0068",
+      "scope": "Narrow job carousel / town service labels",
+      "status": "fencer_and_ukrot_native_verified_pending_release",
+      "issue": "ED-B004: Укрот. 45px, Фехт. 38px, два Зверинец 61px. Укрот. помещается в реальной карусели частного кандидата. Остальные формы измерены; соответствующие окна ещё не проверены. Опубликованная 0.9 содержит старые длинные формы. UI-B004: Фехт. просмотрено у виеры, Укрот. у ну моу на итоговой диагностике. reports/jobs-stage.md."
+    },
+    {
+      "id": "E0069",
+      "scope": "words:content/499..625 quest-item names",
+      "status": "127_compact_drafts_18_short_forms_static_passed_runtime_pending",
+      "issue": "UI-B002: все 127 <=88px, максимум 88px. Консервативный бюджет унаследован из лавки; предел и компоновка квестового списка не проверены. Исходные controls сохранены. Пакет не входит в частный кандидат лавки и 0.9. reports/ui-quest-item-font-02.md"
+    },
+    {
+      "id": "E0070",
+      "scope": "text-line header upper-byte metadata",
+      "status": "builder_fixed_native_item_help_second_page_verified_pending_release",
+      "issue": "Mask 0xfc discarded upper header metadata, causing blank second item help page. Preserve all except bits 0/1 using 0xfffc; 0x182a -> 0x1828. Full catalog checks source-relative flags; 2306 translated headers retain upper metadata. Item page native-tested and fresh-game smoke viewed. Other late contexts remain; not in 0.9."
+    },
+    {
+      "id": "E0071",
+      "scope": "fx_text/1 confirmation prompts",
+      "status": "seven_revisions_native_overwrite_sort_verified_pending_release",
+      "issue": "Extra wrapped question line hid Yes/No. Seven prompts shortened, source-relative choice-line guard added. Overwrite/cold reload and sort choices verified; remaining individual callers not tested. UI-B003, reports/trade-stage.md."
+    },
+    {
+      "id": "E0072",
+      "scope": "job/ability slots and label lengths",
+      "status": "592_ui_30_prose_revisions_native_selected_windows_save_reload_passed_pending_release",
+      "issue": "UI-B004 + ED-B006: 594 labels/590 descriptions screened, 24 job prerequisite number profiles match. Native Soldier->Thief, Item secondary slot, ingame save/fresh boot retains both, reverse job and Fencer/Beastmaster frames viewed. 78/88px provisional budgets; all late labels, AP acquisition, advanced unlocks and Mesen remain. English graphic headings unchanged. reports/jobs-stage.md"
+    },
+    {
+      "id": "E0073",
+      "scope": "late story fixed names, addressee and dialogue wraps",
+      "status": "66_editorial_revisions_static_passed_native_suffix_probe_pending_late_playthrough_release",
+      "issue": "ED-B007: 367 late records +1 opening callback reviewed; 66 edits, real widths for 131 fixed references. Optional resolve_fixed_references used only for these revisions. Additive Mewt/Babus suffixes pinned to ROM table; player name excluded. Native text-only early-slot probe shows Mewta; not final-scene playback. All late portraits/animations, long dynamic player names and Mesen remain. reports/story-stage.md"
+    },
+    {
+      "id": "E0074",
+      "scope": "s_text/2..14 early-mid editorial and fixed-name layout",
+      "status": "65_revisions_static_passed_two_actual_first_mission_lines_native_pending_release",
+      "issue": "501 records reviewed; 63 wording +2 wrap-only revisions. Real-name widths revealed 172/158px lines at 10/12 and14/50, now reflowed. Native /3/0–1 viewed after normal mission acceptance; full arc and long player names remain. reports/mid-story-stage.md"
+    },
+    {
+      "id": "E0075",
+      "scope": "pages:condi extra consumers; pages:battle candidates",
+      "status": "condi_native_ordinary_goal_verified_battle_two_native_branch_probes_passed_pending_real_battle",
+      "issue": "Already-translated Win battle remained English because 0x13de0/13e34/13e98 loaded old0x084b83a0 table. All four explicit condition fields now relocate with validated Thumb LDR r1 context; native first mission goal Russian. 21 condition entries not all runtime tested. Read-only equal-pointer inventory also finds pages:battle candidates 0x27484/0x274dc; not yet verified or patched. condition-loader-audit.json, page-consumer-inventory.json. Follow-up: 0x27484/0x274dc confirmed by Thumb LDR r1 at 0x27440/0x274a4, masks3fff/7fff, BL0x13e9c at0x27458/0x274ba. Both relocated; native combat not exercised. reports/battle-loader-audit.json. Follow-up P08-QA: both original LDR/decoder/completion branches return exact Russian laws-changed message and source English control (4cases). Allocator/prefix, rendering and real battle NOT covered. battle-branches-native.json."
+    },
+    {
+      "id": "E0076",
+      "scope": "s_text/15..25 editorial and actual fixed-name widths",
+      "status": "45_revisions_static_passed_pending_native_story_and_release",
+      "issue": "437 records reviewed; 43 wording/2 wrap changes. Fixed-name widths revealed 163px at19/99 and166px at22/15; reflowed. Bounty, Ritz family dialogue, arrest, crystals and Doned reviewed. 122 fixed references resolve, 25 dynamic fields use provisional budgets. reports/late-mid-stage.md"
+    },
+    {
+      "id": "E0077",
+      "scope": "A7 shared UI graphic headings including EQUIP",
+      "status": "30_authored_chunks_32_native_selectors_ordinary_selected_windows_passed_pending_release",
+      "issue": "Archive3d5070 identified by four exact EQUIP tiles in chunk26; native selector table36d6e4 has33records including no-op0 and two-part30. Authored4x6 raster, all30 chunks; both1857c/185b0 literals relocated. Native loader18524/A7decoder5318/VRAM exact32selectors. Ordinary shop, mission, inventory, abilities and equipment viewed; other windows not all reached. final-qa-stage.md"
+    },
+    {
+      "id": "E0078",
+      "scope": "mission graphical RANK/PAGE",
+      "status": "two_labels_native_ordinary_goal_seven_tiles_exact_pending_other_consumers_release",
+      "issue": "LZSS3aeea4 decoded2880/consumed1629. Seven source tiles match ordinary goal VRAM9020..90ff. РАНГ/СТР. payload1591 bytes fits original. Identical fresh replay changes175 VRAM bytes, all within seven tiles. Other bank bytes preserved."
+    },
+    {
+      "id": "E0079",
+      "scope": "player name400 width and coordinate commands",
+      "status": "158_static81px_79_reflows_native9W_opening_verified_pending_release_other_contexts",
+      "issue": "Native keyboard accepts9 wide Latin letters,9px each. Old42px budget allowed77 overwide records. All158 now opt into81px and actual fixed names;79 reflowed, text/control order unchanged. Indent1D/1B counted in opted-in wrap/build. Two fixed-coordinate contexts and other04 fields still not fully native verified."
+    },
+    {
+      "id": "E0080",
+      "scope": "roster CHANGE/SORT/ItemList and No.",
+      "status": "prepared_native_ordinary_roster_bank_exact_pending_release",
+      "issue": "LZSS3bb7f0: СМЕНА/СОРТ./ПРЕДМЕТЫ, canonical bounds preserve button icons/arrow. Status3b4214 source560..59f: authored№, all other status pixels unchanged. Native ordinary roster exact banks."
+    },
+    {
+      "id": "E0081",
+      "scope": "world calendar treasury day LAW/Info",
+      "status": "prepared_native_current_month_and_full_decode_passed_pending_other_contexts_release",
+      "issue": "A7calendar3acd68,30chunks64/5months. Existing glossary terms drawn as two lines in48x16 native sprites. Both35dd0/57c80 literals pinned. Full1920-byte native A7 decode exact. LZSS3ad5f8/3aeea4 treasury/day and3adb08 LAW/Info changed within source extents. Ordinary world banks/sprites exact; all month transitions not played."
+    },
+    {
+      "id": "E0082",
+      "scope": "reported black shop in Mesen after fresh load",
+      "status": "native_mesen2_1_1_trade_save_new_process_reload_passed_private_candidate_pending_release",
+      "issue": "Portable existing Mesen2.1.1, isolated settings/firmware/save. Fresh5000->buy4500->sell4750, game save, new process and reopen4750 passed; screenshots reviewed. No old savestate. Original0.9.save unchanged. Not all shops/full game."
+    },
+    {
+      "id": "E0083",
+      "scope": "untranslated floating combat graphics and residual UI graphics",
+      "status": "prepared_integrated_native_decoder_and_selected_renderer_passed_pending_natural_effects",
+      "issue": "Combat A7archive3bc898:24label IDs,29text groups. Geometry/animation/number/modifier/JP pixels preserved. Miss usesМИМО with repeated s tile cleared; LevelUpУРОВ./ВЫШЕ transient l cleared. Full85 native chunks exact; ordinary snowball loads translated bank.5constructor/renderer probes use manually staged cache, not natural status application. All effect contexts and Shift/Normal semantics still open."
+    },
+    {
+      "id": "E0084",
+      "scope": "equipment/ability/master/shop graphic captions",
+      "status": "prepared_native_selected_normal_windows_pending_rare_contexts_release",
+      "issue": "Status hints and MASTER->ИЗУЧЕНО!, equipment bank3b53a4 Info/Remove plus jail/dispatch, A7types3c5744 four captions with upper icons/border rows preserved. ShopInfo duplicate is in missionbank3aeea4 at280..2df, not equipmentbank. Natural equipment/Action/Master reviewed; all4 type chunks native exact. Rare jail/dispatch and all remaining consumers not verified."
+    },
+    {
+      "id": "E0085",
+      "scope": "full extracted dialogue coverage and control-offset layout",
+      "status": "3588_catalog_dialogues_covered_static_passed_native_all_scenes_pending",
+      "issue": "Full9208 s_text slots reconciled:3588dialogues,5162control-only,452technical cut labels,6Moogle race tails after40/42. Pinned exclusion manifest retains reachability caveat for tails/E0022. Added omitted punctuation/name-only0/2. Fixed12logical layouts incl9copies36/57; restored DarkDuke and Redwings names. Explicit measure_control_offsets opt-in enables1B/1D wrapping without coupling to player-name budget. NoROMbuilt."
+    }
+  ]
+}

@@ -1,0 +1,2193 @@
+{
+  "batch": "P03-B005",
+  "entries": [
+    {
+      "id": "words:battle/80",
+      "ru": "Тотема"
+    },
+    {
+      "id": "words:battle/81",
+      "ru": "Тотема"
+    },
+    {
+      "id": "words:battle/82",
+      "ru": "Тотема"
+    },
+    {
+      "id": "words:battle/83",
+      "ru": "Тотема"
+    },
+    {
+      "id": "words:battle/84",
+      "ru": "Тотема"
+    },
+    {
+      "id": "words:battle/85",
+      "ru": "Равнина"
+    },
+    {
+      "id": "words:battle/86",
+      "ru": "Лес"
+    },
+    {
+      "id": "words:battle/87",
+      "ru": "Пустыня"
+    },
+    {
+      "id": "words:battle/88",
+      "ru": "Болото"
+    },
+    {
+      "id": "words:battle/89",
+      "ru": "Гора"
+    },
+    {
+      "id": "words:battle/90",
+      "ru": "Пещера"
+    },
+    {
+      "id": "words:battle/91",
+      "ru": "Город"
+    },
+    {
+      "id": "words:battle/92",
+      "ru": "Ягд"
+    },
+    {
+      "id": "words:battle/93",
+      "ru": "Лавка"
+    },
+    {
+      "id": "words:battle/94",
+      "ru": "Трактир"
+    },
+    {
+      "id": "words:battle/95",
+      "ru": "Тюрьма"
+    },
+    {
+      "id": "words:battle/96",
+      "ru": "Хранитель карт"
+    },
+    {
+      "id": "words:battle/97",
+      "ru": "Зверинец"
+    },
+    {
+      "id": "words:battle/98",
+      "ru": "Бой"
+    },
+    {
+      "id": "words:battle/99",
+      "ru": "Магия"
+    },
+    {
+      "id": "words:battle/100",
+      "ru": "Кузнечное дело"
+    },
+    {
+      "id": "words:battle/101",
+      "ru": "Ремесло"
+    },
+    {
+      "id": "words:battle/102",
+      "ru": "Оценка"
+    },
+    {
+      "id": "words:battle/103",
+      "ru": "Собирательство"
+    },
+    {
+      "id": "words:battle/104",
+      "ru": "Переговоры"
+    },
+    {
+      "id": "words:battle/105",
+      "ru": "Выслеживание"
+    },
+    {
+      "id": "words:battle/106",
+      "ru": "Предмет"
+    },
+    {
+      "id": "words:battle/107",
+      "ru": "Синяя магия"
+    },
+    {
+      "id": "words:battle/108",
+      "ru": "Красная магия"
+    },
+    {
+      "id": "words:battle/109",
+      "ru": "Трюк"
+    },
+    {
+      "id": "words:battle/110",
+      "ru": "Управление"
+    },
+    {
+      "id": "words:battle/111",
+      "ru": "Охота"
+    },
+    {
+      "id": "words:battle/112",
+      "ru": "Рыцарство"
+    },
+    {
+      "id": "words:battle/113",
+      "ru": "Молитва"
+    },
+    {
+      "id": "words:battle/114",
+      "ru": "Песнь"
+    },
+    {
+      "id": "words:battle/115",
+      "ru": "Чёрная магия"
+    },
+    {
+      "id": "words:battle/116",
+      "ru": "Мудрость"
+    },
+    {
+      "id": "words:battle/117",
+      "ru": "Иллюзии"
+    },
+    {
+      "id": "words:battle/118",
+      "ru": "Священные приёмы"
+    },
+    {
+      "id": "words:battle/119",
+      "ru": "Пламя"
+    },
+    {
+      "id": "words:battle/120",
+      "ru": "Песчаная буря"
+    },
+    {
+      "id": "words:battle/121",
+      "ru": "Гниение"
+    },
+    {
+      "id": "words:battle/122",
+      "ru": "Загнать в угол"
+    },
+    {
+      "id": "words:battle/123",
+      "ru": "Акробатика"
+    },
+    {
+      "id": "words:battle/124",
+      "ru": "Стрелковое дело"
+    },
+    {
+      "id": "words:battle/125",
+      "ru": "Оборона"
+    },
+    {
+      "id": "words:battle/126",
+      "ru": "Магия призыва"
+    },
+    {
+      "id": "words:battle/127",
+      "ru": "Смрад"
+    },
+    {
+      "id": "words:battle/128",
+      "ru": "Белая магия"
+    },
+    {
+      "id": "words:battle/129",
+      "ru": "Ослабление"
+    },
+    {
+      "id": "words:battle/130",
+      "ru": "Магия духов"
+    },
+    {
+      "id": "words:battle/131",
+      "ru": "Боевые приёмы"
+    },
+    {
+      "id": "words:battle/132",
+      "ru": "Приёмы монаха"
+    },
+    {
+      "id": "words:battle/133",
+      "ru": "Снайперство"
+    },
+    {
+      "id": "words:battle/134",
+      "ru": "Удар кулаком"
+    },
+    {
+      "id": "words:battle/135",
+      "ru": "Натиск"
+    },
+    {
+      "id": "words:battle/136",
+      "ru": "Приёмы бойца"
+    },
+    {
+      "id": "words:battle/137",
+      "ru": "Магия времени"
+    },
+    {
+      "id": "words:battle/138",
+      "ru": "Выпады"
+    },
+    {
+      "id": "words:battle/139",
+      "ru": "Ледяной дракон"
+    },
+    {
+      "id": "words:battle/140",
+      "ru": "Превращение"
+    },
+    {
+      "id": "words:battle/141",
+      "ru": "Плавление"
+    },
+    {
+      "id": "words:battle/142",
+      "ru": "Навыки ниндзя"
+    },
+    {
+      "id": "words:battle/143",
+      "ru": "Кража"
+    },
+    {
+      "id": "words:battle/144",
+      "ru": "Прицел"
+    },
+    {
+      "id": "words:battle/145",
+      "ru": "Пандора"
+    },
+    {
+      "id": "words:battle/146",
+      "ru": "Растерзание"
+    },
+    {
+      "id": "words:battle/147",
+      "ru": "Приёмы[[1D03]]магоклинка"
+    },
+    {
+      "id": "words:battle/148",
+      "ru": "Взгляд"
+    },
+    {
+      "id": "words:battle/149",
+      "ru": "Зов"
+    },
+    {
+      "id": "words:battle/150",
+      "ru": "Приёмы дракона"
+    },
+    {
+      "id": "words:battle/151",
+      "ru": "Алхимия"
+    },
+    {
+      "id": "words:battle/152",
+      "ru": "Злоба"
+    },
+    {
+      "id": "words:battle/153",
+      "ru": "Руна"
+    },
+    {
+      "id": "words:battle/154",
+      "ru": "Герметизм"
+    },
+    {
+      "id": "words:battle/155",
+      "ru": "Тёмная магия"
+    },
+    {
+      "id": "words:battle/156",
+      "ru": "Изящный приём"
+    },
+    {
+      "id": "words:battle/157",
+      "ru": "Сотворение"
+    },
+    {
+      "id": "words:battle/158",
+      "ru": "Колдовство"
+    },
+    {
+      "id": "words:battle/159",
+      "ru": "Изгнание"
+    },
+    {
+      "id": "words:battle/160",
+      "ru": "Магическая буря"
+    },
+    {
+      "id": "words:battle/161",
+      "ru": "Удар"
+    },
+    {
+      "id": "words:battle/162",
+      "ru": "Озноб"
+    },
+    {
+      "id": "words:battle/163",
+      "ru": "Ожог"
+    },
+    {
+      "id": "words:battle/164",
+      "ru": "Бум!"
+    },
+    {
+      "id": "words:battle/165",
+      "ru": "Пламя дракона"
+    },
+    {
+      "id": "words:battle/166",
+      "ru": "Молния дракона"
+    },
+    {
+      "id": "words:battle/167",
+      "ru": "Ядовитый клык"
+    },
+    {
+      "id": "words:battle/168",
+      "ru": "Прилипание"
+    },
+    {
+      "id": "words:battle/169",
+      "ru": "Сокрушение"
+    },
+    {
+      "id": "words:battle/170",
+      "ru": "Злобность"
+    },
+    {
+      "id": "words:battle/171",
+      "ru": "Царапина"
+    },
+    {
+      "id": "words:battle/172",
+      "ru": "Зловоние"
+    },
+    {
+      "id": "words:battle/173",
+      "ru": "Грозный взгляд"
+    },
+    {
+      "id": "words:battle/174",
+      "ru": "Наваждение"
+    },
+    {
+      "id": "words:battle/175",
+      "ru": "Свечение"
+    },
+    {
+      "id": "words:battle/176",
+      "ru": "Высший закон"
+    },
+    {
+      "id": "words:battle/177",
+      "ru": "Правосудие"
+    },
+    {
+      "id": "words:battle/178",
+      "ru": "Пустая карта"
+    },
+    {
+      "id": "words:battle/179",
+      "ru": "Урон в MP"
+    },
+    {
+      "id": "words:battle/180",
+      "ru": "Турбо-MP"
+    },
+    {
+      "id": "words:battle/181",
+      "ru": "Исцеление землёй"
+    },
+    {
+      "id": "words:battle/182",
+      "ru": "Цель: броня"
+    },
+    {
+      "id": "words:battle/183",
+      "ru": "Ледяное дыхание"
+    },
+    {
+      "id": "words:battle/184",
+      "ru": "Предмет"
+    },
+    {
+      "id": "words:battle/185",
+      "ru": "Синий винт"
+    },
+    {
+      "id": "words:battle/186",
+      "ru": "Красная пружина"
+    },
+    {
+      "id": "words:battle/187",
+      "ru": "Кража: аксессуар"
+    },
+    {
+      "id": "words:battle/188",
+      "ru": "Натиск муглов"
+    },
+    {
+      "id": "words:battle/189",
+      "ru": "Дьявольский взор"
+    },
+    {
+      "id": "words:battle/190",
+      "ru": "Кошмар"
+    },
+    {
+      "id": "words:battle/191",
+      "ru": "Цель: ноги"
+    },
+    {
+      "id": "words:battle/192",
+      "ru": "Астра"
+    },
+    {
+      "id": "words:battle/193",
+      "ru": "Коса смерти"
+    },
+    {
+      "id": "words:battle/194",
+      "ru": "Атака муглов"
+    },
+    {
+      "id": "words:battle/195",
+      "ru": "Кража: умение"
+    },
+    {
+      "id": "words:battle/196",
+      "ru": "Натиск Ультимы"
+    },
+    {
+      "id": "words:battle/197",
+      "ru": "Ультима-крушитель"
+    },
+    {
+      "id": "words:battle/198",
+      "ru": "Выстрел Ультимы"
+    },
+    {
+      "id": "words:battle/199",
+      "ru": "Клинок Ультимы"
+    },
+    {
+      "id": "words:battle/200",
+      "ru": "Удар Ультимы"
+    },
+    {
+      "id": "words:battle/201",
+      "ru": "Полное воскрешение"
+    },
+    {
+      "id": "words:battle/202",
+      "ru": "Нежить"
+    },
+    {
+      "id": "words:battle/203",
+      "ru": "Огневыстрел"
+    },
+    {
+      "id": "words:battle/204",
+      "ru": "Захват"
+    },
+    {
+      "id": "words:battle/205",
+      "ru": "Обратить в зомби"
+    },
+    {
+      "id": "words:battle/206",
+      "ru": "Ифрит"
+    },
+    {
+      "id": "words:battle/207",
+      "ru": "Каменный зверь"
+    },
+    {
+      "id": "words:battle/208",
+      "ru": "100% шерсть"
+    },
+    {
+      "id": "words:battle/209",
+      "ru": "Цель: оружие"
+    },
+    {
+      "id": "words:battle/210",
+      "ru": "Вода"
+    },
+    {
+      "id": "words:battle/211",
+      "ru": "Вуду"
+    },
+    {
+      "id": "words:battle/212",
+      "ru": "Цель: рука"
+    },
+    {
+      "id": "words:battle/213",
+      "ru": "Вихрь"
+    },
+    {
+      "id": "words:battle/214",
+      "ru": "Воздушный удар"
+    },
+    {
+      "id": "words:battle/215",
+      "ru": "Аэро"
+    },
+    {
+      "id": "words:battle/216",
+      "ru": "Эфир"
+    },
+    {
+      "id": "words:battle/217",
+      "ru": "Х-зелье"
+    },
+    {
+      "id": "words:battle/218",
+      "ru": "Эсуна"
+    },
+    {
+      "id": "words:battle/219",
+      "ru": "Эликсир"
+    },
+    {
+      "id": "words:battle/220",
+      "ru": "Вытеснение"
+    },
+    {
+      "id": "words:battle/221",
+      "ru": "Первая помощь"
+    },
+    {
+      "id": "words:battle/222",
+      "ru": "Аура"
+    },
+    {
+      "id": "words:battle/223",
+      "ru": "Лихорадка"
+    },
+    {
+      "id": "words:battle/224",
+      "ru": "Боевой клич"
+    },
+    {
+      "id": "words:battle/225",
+      "ru": "Поцелуй девы"
+    },
+    {
+      "id": "words:battle/226",
+      "ru": "Защита муглов"
+    },
+    {
+      "id": "words:battle/227",
+      "ru": "Снять защиту"
+    },
+    {
+      "id": "words:battle/228",
+      "ru": "Карбункул"
+    },
+    {
+      "id": "words:battle/229",
+      "ru": "Звуковая волна"
+    },
+    {
+      "id": "words:battle/230",
+      "ru": "Снять чары"
+    },
+    {
+      "id": "words:battle/231",
+      "ru": "Уход"
+    },
+    {
+      "id": "words:battle/232",
+      "ru": "Контрудар"
+    },
+    {
+      "id": "words:battle/233",
+      "ru": "Помрачение"
+    },
+    {
+      "id": "words:battle/234",
+      "ru": "Песня лягушки"
+    },
+    {
+      "id": "words:battle/235",
+      "ru": "Огненная бомба"
+    },
+    {
+      "id": "words:battle/236",
+      "ru": "Оковы тени"
+    },
+    {
+      "id": "words:battle/237",
+      "ru": "Хватка обезьяны"
+    },
+    {
+      "id": "words:battle/238",
+      "ru": "Огненный покров"
+    },
+    {
+      "id": "words:battle/239",
+      "ru": "Прикрытие"
+    },
+    {
+      "id": "words:battle/240",
+      "ru": "Кража: шлем"
+    },
+    {
+      "id": "words:battle/241",
+      "ru": "Укус"
+    },
+    {
+      "id": "words:battle/242",
+      "ru": "Удар телом"
+    },
+    {
+      "id": "words:battle/243",
+      "ru": "Ледовыстрел"
+    },
+    {
+      "id": "words:battle/244",
+      "ru": "Жёлтая пружина"
+    },
+    {
+      "id": "words:battle/245",
+      "ru": "Гигавспышка"
+    },
+    {
+      "id": "words:battle/246",
+      "ru": "Ловля"
+    },
+    {
+      "id": "words:battle/247",
+      "ru": "Цель: уязвимость"
+    },
+    {
+      "id": "words:battle/248",
+      "ru": "Резонанс"
+    },
+    {
+      "id": "words:battle/249",
+      "ru": "Кирин"
+    },
+    {
+      "id": "words:battle/250",
+      "ru": "Бросок гил"
+    },
+    {
+      "id": "words:battle/251",
+      "ru": "Грабёж"
+    },
+    {
+      "id": "words:battle/252",
+      "ru": "Кража: гил"
+    },
+    {
+      "id": "words:battle/253",
+      "ru": "Подбодрить"
+    },
+    {
+      "id": "words:battle/254",
+      "ru": "Металлопокров"
+    },
+    {
+      "id": "words:battle/255",
+      "ru": "Серебряный диск"
+    },
+    {
+      "id": "words:battle/256",
+      "ru": "Золотая батарея"
+    },
+    {
+      "id": "words:battle/257",
+      "ru": "Золотая игла"
+    },
+    {
+      "id": "words:battle/258",
+      "ru": "Мгновенный ход"
+    },
+    {
+      "id": "words:battle/259",
+      "ru": "Воздушный разрез"
+    },
+    {
+      "id": "words:battle/260",
+      "ru": "Зловонное дыхание"
+    },
+    {
+      "id": "words:battle/261",
+      "ru": "Поцелуй"
+    },
+    {
+      "id": "words:battle/262",
+      "ru": "Гравитация"
+    },
+    {
+      "id": "words:battle/263",
+      "ru": "Гравитация-2"
+    },
+    {
+      "id": "words:battle/264",
+      "ru": "Мифрил"
+    },
+    {
+      "id": "words:battle/265",
+      "ru": "Кража: JP"
+    },
+    {
+      "id": "words:battle/266",
+      "ru": "Чёрный слиток"
+    },
+    {
+      "id": "words:battle/267",
+      "ru": "Лечение"
+    },
+    {
+      "id": "words:battle/268",
+      "ru": "Лечение-3"
+    },
+    {
+      "id": "words:battle/269",
+      "ru": "Лечение-2"
+    },
+    {
+      "id": "words:battle/270",
+      "ru": "Кража: опыт"
+    },
+    {
+      "id": "words:battle/271",
+      "ru": "Злой взгляд"
+    },
+    {
+      "id": "words:battle/272",
+      "ru": "Атака оружием+"
+    },
+    {
+      "id": "words:battle/273",
+      "ru": "Уговоры"
+    },
+    {
+      "id": "words:battle/274",
+      "ru": "Гоблин"
+    },
+    {
+      "id": "words:battle/275",
+      "ru": "Удар гоблина"
+    },
+    {
+      "id": "words:battle/276",
+      "ru": "Насекомое"
+    },
+    {
+      "id": "words:battle/277",
+      "ru": "Смущающий выстрел"
+    },
+    {
+      "id": "words:battle/278",
+      "ru": "Круговой удар"
+    },
+    {
+      "id": "words:battle/279",
+      "ru": "Змеиный выстрел"
+    },
+    {
+      "id": "words:battle/280",
+      "ru": "Цель: кошелёк"
+    },
+    {
+      "id": "words:battle/281",
+      "ru": "Немота"
+    },
+    {
+      "id": "words:battle/282",
+      "ru": "Выстрел немоты"
+    },
+    {
+      "id": "words:battle/283",
+      "ru": "Звёздный крест"
+    },
+    {
+      "id": "words:battle/284",
+      "ru": "Кулинария"
+    },
+    {
+      "id": "words:battle/285",
+      "ru": "Гром"
+    },
+    {
+      "id": "words:battle/286",
+      "ru": "Меч молнии"
+    },
+    {
+      "id": "words:battle/287",
+      "ru": "Громовое дыхание"
+    },
+    {
+      "id": "words:battle/288",
+      "ru": "Гром-3"
+    },
+    {
+      "id": "words:battle/289",
+      "ru": "Гром-2"
+    },
+    {
+      "id": "words:battle/290",
+      "ru": "Песчаная буря"
+    },
+    {
+      "id": "words:battle/291",
+      "ru": "Шива"
+    },
+    {
+      "id": "words:battle/292",
+      "ru": "Панцирь"
+    },
+    {
+      "id": "words:battle/293",
+      "ru": "Безгласие"
+    },
+    {
+      "id": "words:battle/294",
+      "ru": "Скользкая молния"
+    },
+    {
+      "id": "words:battle/295",
+      "ru": "Виляние хвостом"
+    },
+    {
+      "id": "words:battle/296",
+      "ru": "Рулетка"
+    },
+    {
+      "id": "words:battle/297",
+      "ru": "Самоподрыв"
+    },
+    {
+      "id": "words:battle/298",
+      "ru": "Сияющий воздух"
+    },
+    {
+      "id": "words:battle/299",
+      "ru": "Прыжок"
+    },
+    {
+      "id": "words:battle/300",
+      "ru": "Суд"
+    },
+    {
+      "id": "words:battle/301",
+      "ru": "Поглощение MP"
+    },
+    {
+      "id": "words:battle/302",
+      "ru": "Миазмы"
+    },
+    {
+      "id": "words:battle/303",
+      "ru": "Половина MP"
+    },
+    {
+      "id": "words:battle/304",
+      "ru": "Совет"
+    },
+    {
+      "id": "words:battle/305",
+      "ru": "Копьё муглов"
+    },
+    {
+      "id": "words:battle/306",
+      "ru": "Водный покров"
+    },
+    {
+      "id": "words:battle/307",
+      "ru": "Звёздная пыль"
+    },
+    {
+      "id": "words:battle/308",
+      "ru": "Теневой укол"
+    },
+    {
+      "id": "words:battle/309",
+      "ru": "Остановка"
+    },
+    {
+      "id": "words:battle/310",
+      "ru": "Стоп-выстрел"
+    },
+    {
+      "id": "words:battle/311",
+      "ru": "Озноб"
+    },
+    {
+      "id": "words:battle/312",
+      "ru": "Слом скорости"
+    },
+    {
+      "id": "words:battle/313",
+      "ru": "Улыбка"
+    },
+    {
+      "id": "words:battle/314",
+      "ru": "Удар пером"
+    },
+    {
+      "id": "words:battle/315",
+      "ru": "Скользкий дождь"
+    },
+    {
+      "id": "words:battle/316",
+      "ru": "Сон"
+    },
+    {
+      "id": "words:battle/317",
+      "ru": "Замедление"
+    },
+    {
+      "id": "words:battle/318",
+      "ru": "Ласточкин хвост"
+    },
+    {
+      "id": "words:battle/319",
+      "ru": "Святой знак"
+    },
+    {
+      "id": "words:battle/320",
+      "ru": "Сосредоточение"
+    },
+    {
+      "id": "words:battle/321",
+      "ru": "Святая вода"
+    },
+    {
+      "id": "words:battle/322",
+      "ru": "Святой крест"
+    },
+    {
+      "id": "words:battle/323",
+      "ru": "Сокрытие"
+    },
+    {
+      "id": "words:battle/324",
+      "ru": "Раскрытие"
+    },
+    {
+      "id": "words:battle/325",
+      "ru": "Сила земли"
+    },
+    {
+      "id": "words:battle/326",
+      "ru": "Достать оружие"
+    },
+    {
+      "id": "words:battle/327",
+      "ru": "Сфера души"
+    },
+    {
+      "id": "words:battle/328",
+      "ru": "Последний вздох"
+    },
+    {
+      "id": "words:battle/329",
+      "ru": "Геомантия"
+    },
+    {
+      "id": "words:battle/330",
+      "ru": "Оживление"
+    },
+    {
+      "id": "words:battle/331",
+      "ru": "Звуковой удар"
+    },
+    {
+      "id": "words:battle/332",
+      "ru": "Неистовый смерч"
+    },
+    {
+      "id": "words:battle/333",
+      "ru": "Рой жал"
+    },
+    {
+      "id": "words:battle/334",
+      "ru": "Щитоносец"
+    },
+    {
+      "id": "words:battle/335",
+      "ru": "Кража: щит"
+    },
+    {
+      "id": "words:battle/336",
+      "ru": "Усиление"
+    },
+    {
+      "id": "words:battle/337",
+      "ru": "Взор муглов"
+    },
+    {
+      "id": "words:battle/338",
+      "ru": "Шах и мат"
+    },
+    {
+      "id": "words:battle/339",
+      "ru": "Удушение"
+    },
+    {
+      "id": "words:battle/340",
+      "ru": "Выстрел чар"
+    },
+    {
+      "id": "words:battle/341",
+      "ru": "Чакра"
+    },
+    {
+      "id": "words:battle/342",
+      "ru": "Провокация"
+    },
+    {
+      "id": "words:battle/343",
+      "ru": "Натиск чокобо"
+    },
+    {
+      "id": "words:battle/344",
+      "ru": "Разлом земли"
+    },
+    {
+      "id": "words:battle/345",
+      "ru": "Смерч"
+    },
+    {
+      "id": "words:battle/346",
+      "ru": "Усмирение"
+    },
+    {
+      "id": "words:battle/347",
+      "ru": "Смерть"
+    },
+    {
+      "id": "words:battle/348",
+      "ru": "Развеять"
+    },
+    {
+      "id": "words:battle/349",
+      "ru": "Ангельский шёпот"
+    },
+    {
+      "id": "words:battle/350",
+      "ru": "Буря"
+    },
+    {
+      "id": "words:battle/351",
+      "ru": "Спячка"
+    },
+    {
+      "id": "words:battle/352",
+      "ru": "Жаба"
+    },
+    {
+      "id": "words:battle/353",
+      "ru": "Ядовитая жаба"
+    },
+    {
+      "id": "words:battle/354",
+      "ru": "Противоядие"
+    },
+    {
+      "id": "words:battle/355",
+      "ru": "Ядовитый коготь"
+    },
+    {
+      "id": "words:battle/356",
+      "ru": "Земляной покров"
+    },
+    {
+      "id": "words:battle/357",
+      "ru": "Друг"
+    },
+    {
+      "id": "words:battle/358",
+      "ru": "Дракон"
+    },
+    {
+      "id": "words:battle/359",
+      "ru": "Убийца драконов"
+    },
+    {
+      "id": "words:battle/360",
+      "ru": "Сила дракона"
+    },
+    {
+      "id": "words:battle/361",
+      "ru": "Вытягивание"
+    },
+    {
+      "id": "words:battle/362",
+      "ru": "Вампирское касание"
+    },
+    {
+      "id": "words:battle/363",
+      "ru": "Тонберри"
+    },
+    {
+      "id": "words:battle/364",
+      "ru": "Ночной ястреб"
+    },
+    {
+      "id": "words:battle/365",
+      "ru": "Кинжал"
+    },
+    {
+      "id": "words:battle/366",
+      "ru": "Круговая жатва"
+    },
+    {
+      "id": "words:battle/367",
+      "ru": "Бросок"
+    },
+    {
+      "id": "words:battle/368",
+      "ru": "Костолом"
+    },
+    {
+      "id": "words:battle/369",
+      "ru": "Самоцвет цвета"
+    },
+    {
+      "id": "words:battle/370",
+      "ru": "Два меча"
+    },
+    {
+      "id": "words:battle/371",
+      "ru": "Пристальный взор"
+    },
+    {
+      "id": "words:battle/372",
+      "ru": "Рвущий укус"
+    },
+    {
+      "id": "words:battle/373",
+      "ru": "Слизь"
+    },
+    {
+      "id": "words:battle/374",
+      "ru": "Точный прицел"
+    },
+    {
+      "id": "words:battle/375",
+      "ru": "Сквозной удар"
+    },
+    {
+      "id": "words:battle/376",
+      "ru": "Купидон"
+    },
+    {
+      "id": "words:battle/377",
+      "ru": "Искусный блок"
+    },
+    {
+      "id": "words:battle/378",
+      "ru": "Био"
+    },
+    {
+      "id": "words:battle/379",
+      "ru": "Зелье+"
+    },
+    {
+      "id": "words:battle/380",
+      "ru": "Подземный толчок"
+    },
+    {
+      "id": "words:battle/381",
+      "ru": "Изгнание нежити"
+    },
+    {
+      "id": "words:battle/382",
+      "ru": "Обратная тяга"
+    },
+    {
+      "id": "words:battle/383",
+      "ru": "Дальний кулак"
+    },
+    {
+      "id": "words:battle/384",
+      "ru": "Ответный удар"
+    },
+    {
+      "id": "words:battle/385",
+      "ru": "Барьер"
+    },
+    {
+      "id": "words:battle/386",
+      "ru": "Слом силы"
+    },
+    {
+      "id": "words:battle/387",
+      "ru": "Клич бангаа"
+    },
+    {
+      "id": "words:battle/388",
+      "ru": "Пантера"
+    },
+    {
+      "id": "words:battle/389",
+      "ru": "Бинт"
+    },
+    {
+      "id": "words:battle/390",
+      "ru": "Ловчий удар"
+    },
+    {
+      "id": "words:battle/391",
+      "ru": "Панацея"
+    },
+    {
+      "id": "words:battle/392",
+      "ru": "Помощь муглов"
+    },
+    {
+      "id": "words:battle/393",
+      "ru": "Счёт овец"
+    },
+    {
+      "id": "words:battle/394",
+      "ru": "Пощёчина"
+    },
+    {
+      "id": "words:battle/395",
+      "ru": "Последний рывок"
+    },
+    {
+      "id": "words:battle/396",
+      "ru": "Берсерк при ранении"
+    },
+    {
+      "id": "words:battle/397",
+      "ru": "Спешка при ранении"
+    },
+    {
+      "id": "words:battle/398",
+      "ru": "Огонь"
+    },
+    {
+      "id": "words:battle/399",
+      "ru": "Огненный хлыст"
+    },
+    {
+      "id": "words:battle/400",
+      "ru": "Огненный меч"
+    },
+    {
+      "id": "words:battle/401",
+      "ru": "Огненное дыхание"
+    },
+    {
+      "id": "words:battle/402",
+      "ru": "Огонь-3"
+    },
+    {
+      "id": "words:battle/403",
+      "ru": "Огонь-2"
+    },
+    {
+      "id": "words:battle/404",
+      "ru": "Быстрее ветра"
+    },
+    {
+      "id": "words:battle/405",
+      "ru": "Каменная печать"
+    },
+    {
+      "id": "words:battle/406",
+      "ru": "Избиение"
+    },
+    {
+      "id": "words:battle/407",
+      "ru": "Феникс"
+    },
+    {
+      "id": "words:battle/408",
+      "ru": "Пух феникса"
+    },
+    {
+      "id": "words:battle/409",
+      "ru": "Кража: оружие"
+    },
+    {
+      "id": "words:battle/410",
+      "ru": "Погребение"
+    },
+    {
+      "id": "words:battle/411",
+      "ru": "Бросить оружие"
+    },
+    {
+      "id": "words:battle/412",
+      "ru": "Метеорит"
+    },
+    {
+      "id": "words:battle/413",
+      "ru": "Слепота"
+    },
+    {
+      "id": "words:battle/414",
+      "ru": "Выстрел слепоты"
+    },
+    {
+      "id": "words:battle/415",
+      "ru": "Бластер"
+    },
+    {
+      "id": "words:battle/416",
+      "ru": "Пелена"
+    },
+    {
+      "id": "words:battle/417",
+      "ru": "Внезапная метель"
+    },
+    {
+      "id": "words:battle/418",
+      "ru": "Метель-3"
+    },
+    {
+      "id": "words:battle/419",
+      "ru": "Метель"
+    },
+    {
+      "id": "words:battle/420",
+      "ru": "Ледяной меч"
+    },
+    {
+      "id": "words:battle/421",
+      "ru": "Метель-2"
+    },
+    {
+      "id": "words:battle/422",
+      "ru": "Натиск"
+    },
+    {
+      "id": "words:battle/423",
+      "ru": "Флан"
+    },
+    {
+      "id": "words:battle/424",
+      "ru": "Удар по мане"
+    },
+    {
+      "id": "words:battle/425",
+      "ru": "Вспышка"
+    },
+    {
+      "id": "words:battle/426",
+      "ru": "Окаменение"
+    },
+    {
+      "id": "words:battle/427",
+      "ru": "Огненная атака"
+    },
+    {
+      "id": "words:battle/428",
+      "ru": "Парящий глаз"
+    },
+    {
+      "id": "words:battle/429",
+      "ru": "Защита"
+    },
+    {
+      "id": "words:battle/430",
+      "ru": "Смена стихий"
+    },
+    {
+      "id": "words:battle/431",
+      "ru": "Протуберанец"
+    },
+    {
+      "id": "words:battle/432",
+      "ru": "Ускорение"
+    },
+    {
+      "id": "words:battle/433",
+      "ru": "Снять ускорение"
+    },
+    {
+      "id": "words:battle/434",
+      "ru": "Тяжёлая пыль"
+    },
+    {
+      "id": "words:battle/435",
+      "ru": "Яд"
+    },
+    {
+      "id": "words:battle/436",
+      "ru": "Забвение"
+    },
+    {
+      "id": "words:battle/437",
+      "ru": "Защита от оружия+"
+    },
+    {
+      "id": "words:battle/438",
+      "ru": "Нож"
+    },
+    {
+      "id": "words:battle/439",
+      "ru": "Метание"
+    },
+    {
+      "id": "words:battle/440",
+      "ru": "Зелье"
+    },
+    {
+      "id": "words:battle/441",
+      "ru": "Святость"
+    },
+    {
+      "id": "words:battle/442",
+      "ru": "Святой клинок"
+    },
+    {
+      "id": "words:battle/443",
+      "ru": "Мяч"
+    },
+    {
+      "id": "words:battle/444",
+      "ru": "Бомба"
+    },
+    {
+      "id": "words:battle/445",
+      "ru": "Белый ветер"
+    },
+    {
+      "id": "words:battle/446",
+      "ru": "Белое пламя"
+    },
+    {
+      "id": "words:battle/447",
+      "ru": "Ядовитый поцелуй"
+    },
+    {
+      "id": "words:battle/448",
+      "ru": "Могучая защита"
+    },
+    {
+      "id": "words:battle/449",
+      "ru": "Удар по разуму"
+    },
+    {
+      "id": "words:battle/450",
+      "ru": "Магический молот"
+    },
+    {
+      "id": "words:battle/451",
+      "ru": "Слом магии"
+    },
+    {
+      "id": "words:battle/452",
+      "ru": "Кошачья мята"
+    },
+    {
+      "id": "words:battle/453",
+      "ru": "Лучник рока"
+    },
+    {
+      "id": "words:battle/454",
+      "ru": "Мадин"
+    },
+    {
+      "id": "words:battle/455",
+      "ru": "Матра-магия"
+    },
+    {
+      "id": "words:battle/456",
+      "ru": "Возврат магии"
+    },
+    {
+      "id": "words:battle/457",
+      "ru": "Магическая сила+"
+    },
+    {
+      "id": "words:battle/458",
+      "ru": "Оборона"
+    },
+    {
+      "id": "words:battle/459",
+      "ru": "Воскрешение"
+    },
+    {
+      "id": "words:battle/460",
+      "ru": "Рефлекс"
+    },
+    {
+      "id": "words:battle/461",
+      "ru": "Зелёная шестерня"
+    },
+    {
+      "id": "words:battle/462",
+      "ru": "Датчик"
+    },
+    {
+      "id": "words:battle/463",
+      "ru": "Увечье"
+    },
+    {
+      "id": "words:battle/464",
+      "ru": "Карма"
+    },
+    {
+      "id": "words:battle/465",
+      "ru": "Глазные капли"
+    },
+    {
+      "id": "words:battle/466",
+      "ru": "Метеор"
+    },
+    {
+      "id": "words:battle/467",
+      "ru": "Иммунитет"
+    },
+    {
+      "id": "words:battle/468",
+      "ru": "Уход за снаряжением"
+    },
+    {
+      "id": "words:battle/469",
+      "ru": "Древесный покров"
+    },
+    {
+      "id": "words:battle/470",
+      "ru": "Мальборо"
+    },
+    {
+      "id": "words:battle/471",
+      "ru": "Ответный выстрел"
+    },
+    {
+      "id": "words:battle/472",
+      "ru": "Блок стрел"
+    },
+    {
+      "id": "words:battle/473",
+      "ru": "Эхо-экран"
+    },
+    {
+      "id": "words:battle/474",
+      "ru": "Жертва"
+    },
+    {
+      "id": "words:battle/475",
+      "ru": "Единорог"
+    },
+    {
+      "id": "words:battle/476",
+      "ru": "Кислота"
+    },
+    {
+      "id": "words:battle/477",
+      "ru": "Фея"
+    },
+    {
+      "id": "words:battle/478",
+      "ru": "Ночь"
+    },
+    {
+      "id": "words:battle/479",
+      "ru": "Кража: броня"
+    },
+    {
+      "id": "words:battle/480",
+      "ru": "Обучение"
+    },
+    {
+      "id": "words:battle/481",
+      "ru": "Уменьшение"
+    },
+    {
+      "id": "words:battle/482",
+      "ru": "Слом жизни"
+    },
+    {
+      "id": "words:battle/483",
+      "ru": "Истощение"
+    },
+    {
+      "id": "words:battle/484",
+      "ru": "Рывок"
+    },
+    {
+      "id": "words:battle/485",
+      "ru": "Ламия"
+    },
+    {
+      "id": "words:battle/486",
+      "ru": "Раму"
+    },
+    {
+      "id": "words:battle/487",
+      "ru": "Громовыстрел"
+    },
+    {
+      "id": "words:battle/488",
+      "ru": "Расплавление"
+    },
+    {
+      "id": "words:battle/489",
+      "ru": "Авторегенерация"
+    },
+    {
+      "id": "words:battle/490",
+      "ru": "Отражение"
+    },
+    {
+      "id": "words:battle/491",
+      "ru": "Предельная хватка"
+    },
+    {
+      "id": "words:battle/492",
+      "ru": "Ланцет"
+    },
+    {
+      "id": "words:battle/493",
+      "ru": "Укротитель драконов"
+    },
+    {
+      "id": "words:battle/494",
+      "ru": "Сердце дракона"
+    },
+    {
+      "id": "words:battle/495",
+      "ru": "Двуручный хват"
+    },
+    {
+      "id": "words:battle/496",
+      "ru": "Автовоскрешение"
+    },
+    {
+      "id": "words:battle/497",
+      "ru": "Воскрешение"
+    },
+    {
+      "id": "words:battle/498",
+      "ru": "Щит муглов"
+    },
+    {
+      "id": "words:battle/499",
+      "ru": "Ур.? Тен. вспышка"
+    },
+    {
+      "id": "words:battle/500",
+      "ru": "Ур.3: Защита-"
+    },
+    {
+      "id": "words:battle/501",
+      "ru": "Ур.5: Смерть"
+    },
+    {
+      "id": "words:battle/502",
+      "ru": "Ур.?Д: Святость"
+    },
+    {
+      "id": "words:battle/503",
+      "ru": "Двойной выстрел"
+    },
+    {
+      "id": "words:battle/504",
+      "ru": "Двойная магия"
+    },
+    {
+      "id": "words:battle/505",
+      "ru": "Потоп"
+    },
+    {
+      "id": "words:battle/506",
+      "ru": "Дикий замах"
+    },
+    {
+      "id": "words:battle/507",
+      "ru": "Обруч"
+    },
+    {
+      "id": "words:battle/508",
+      "ru": "Взрыв"
+    },
+    {
+      "id": "words:battle/509",
+      "ru": "Безмолвие"
+    },
+    {
+      "id": "words:battle/510",
+      "ru": "Азот"
+    },
+    {
+      "id": "words:battle/511",
+      "ru": "Омега"
+    },
+    {
+      "id": "words:battle/512",
+      "ru": "Бездна"
+    },
+    {
+      "id": "words:battle/513",
+      "ru": "Разрыв жизни"
+    },
+    {
+      "id": "words:battle/514",
+      "ru": "Разрыв сердца"
+    },
+    {
+      "id": "words:battle/515",
+      "ru": "Круговой разрез"
+    },
+    {
+      "id": "words:battle/516",
+      "ru": "Круг ярости"
+    },
+    {
+      "id": "words:battle/517",
+      "ru": "Смена законов"
+    },
+    {
+      "id": "words:battle/518",
+      "ru": "Янтарный блеск"
+    },
+    {
+      "id": "words:battle/519",
+      "ru": "Альфа"
+    },
+    {
+      "id": "words:battle/520",
+      "ru": "Нисхождение"
+    },
+    {
+      "id": "words:battle/521",
+      "ru": "Маги"
+    },
+    {
+      "id": "words:battle/522",
+      "ru": "Душевные оковы"
+    },
+    {
+      "id": "words:battle/523",
+      "ru": "Дыхание бога"
+    },
+    {
+      "id": "words:battle/524",
+      "ru": "Скорость света"
+    },
+    {
+      "id": "words:battle/525",
+      "ru": "Поток огня"
+    },
+    {
+      "id": "words:battle/526",
+      "ru": "Рёв ярости"
+    },
+    {
+      "id": "words:battle/527",
+      "ru": "Присутствие"
+    },
+    {
+      "id": "words:battle/528",
+      "ru": "Логос"
+    },
+    {
+      "id": "words:battle/529",
+      "ru": "Адраммелех"
+    },
+    {
+      "id": "words:battle/530",
+      "ru": "Матеус"
+    },
+    {
+      "id": "words:battle/531",
+      "ru": "Ультима"
+    },
+    {
+      "id": "words:battle/532",
+      "ru": "Эксодус"
+    },
+    {
+      "id": "words:battle/533",
+      "ru": "Фамфрит"
+    },
+    {
+      "id": "words:battle/534",
+      "ru": "Смягчение"
+    },
+    {
+      "id": "words:battle/535",
+      "ru": "Меч судьи"
+    },
+    {
+      "id": "words:battle/536",
+      "ru": "Сковывание"
+    },
+    {
+      "id": "words:battle/537",
+      "ru": "Дар JP"
+    },
+    {
+      "id": "words:battle/538",
+      "ru": "Жёлтый зажим"
+    },
+    {
+      "id": "words:battle/539",
+      "ru": "Меч судьи"
+    },
+    {
+      "id": "words:battle/540",
+      "ru": "Жёлтая карта"
+    },
+    {
+      "id": "words:battle/541",
+      "ru": "Палестра"
+    },
+    {
+      "id": "words:battle/542",
+      "ru": "Пустая карта"
+    },
+    {
+      "id": "words:battle/543",
+      "ru": "Синее комбо"
+    },
+    {
+      "id": "words:battle/544",
+      "ru": "Красное комбо"
+    },
+    {
+      "id": "words:battle/545",
+      "ru": "Комбо охотника"
+    },
+    {
+      "id": "words:battle/546",
+      "ru": "Комбо рыцаря"
+    },
+    {
+      "id": "words:battle/547",
+      "ru": "Комбо молитвы"
+    },
+    {
+      "id": "words:battle/548",
+      "ru": "Чёрное комбо"
+    },
+    {
+      "id": "words:battle/549",
+      "ru": "Мудрое комбо"
+    },
+    {
+      "id": "words:battle/550",
+      "ru": "Священное комбо"
+    },
+    {
+      "id": "words:battle/551",
+      "ru": "Комбо вора"
+    },
+    {
+      "id": "words:battle/552",
+      "ru": "Комбо убийцы"
+    },
+    {
+      "id": "words:battle/553",
+      "ru": "Комбо жонглёра"
+    },
+    {
+      "id": "words:battle/554",
+      "ru": "Ружейное комбо"
+    },
+    {
+      "id": "words:battle/555",
+      "ru": "Защитное комбо"
+    },
+    {
+      "id": "words:battle/556",
+      "ru": "Комбо[[1D05]]призыва"
+    },
+    {
+      "id": "words:battle/557",
+      "ru": "Белое комбо"
+    },
+    {
+      "id": "words:battle/558",
+      "ru": "Комбо духов"
+    },
+    {
+      "id": "words:battle/559",
+      "ru": "Боевое комбо"
+    },
+    {
+      "id": "words:battle/560",
+      "ru": "Комбо снайпера"
+    },
+    {
+      "id": "words:battle/561",
+      "ru": "Комбо чар"
+    },
+    {
+      "id": "words:battle/562",
+      "ru": "Комбо натиска"
+    },
+    {
+      "id": "words:battle/563",
+      "ru": "Комбо бойца"
+    },
+    {
+      "id": "words:battle/564",
+      "ru": "Звериное комбо"
+    },
+    {
+      "id": "words:battle/565",
+      "ru": "Комбо времени"
+    },
+    {
+      "id": "words:battle/566",
+      "ru": "Комбо выпадов"
+    },
+    {
+      "id": "words:battle/567",
+      "ru": "Комбо облика"
+    },
+    {
+      "id": "words:battle/568",
+      "ru": "Комбо ниндзя"
+    },
+    {
+      "id": "words:battle/569",
+      "ru": "Комбо приборов"
+    },
+    {
+      "id": "words:battle/570",
+      "ru": "Комбо лучника"
+    },
+    {
+      "id": "words:battle/571",
+      "ru": "Комбо мечника"
+    },
+    {
+      "id": "words:battle/572",
+      "ru": "Комбо зверей"
+    },
+    {
+      "id": "words:battle/573",
+      "ru": "Комбо монаха"
+    },
+    {
+      "id": "words:battle/574",
+      "ru": "Комбо дракона"
+    },
+    {
+      "id": "words:battle/575",
+      "ru": "Золотое комбо"
+    },
+    {
+      "id": "words:battle/687",
+      "ru": "Меч?"
+    },
+    {
+      "id": "words:battle/688",
+      "ru": "Острый меч?"
+    },
+    {
+      "id": "words:battle/689",
+      "ru": "Кривой меч?"
+    },
+    {
+      "id": "words:battle/690",
+      "ru": "Ржавый меч?"
+    },
+    {
+      "id": "words:battle/691",
+      "ru": "Большой меч?"
+    },
+    {
+      "id": "words:battle/692",
+      "ru": "Тяжёлый меч?"
+    },
+    {
+      "id": "words:battle/693",
+      "ru": "Нож?"
+    },
+    {
+      "id": "words:battle/694",
+      "ru": "Тонкий меч?"
+    },
+    {
+      "id": "words:battle/695",
+      "ru": "Клинок?"
+    },
+    {
+      "id": "words:battle/696",
+      "ru": "Старый посох?"
+    },
+    {
+      "id": "words:battle/697",
+      "ru": "Жезл?"
+    },
+    {
+      "id": "words:battle/698",
+      "ru": "Тяжёлая дубина?"
+    },
+    {
+      "id": "words:battle/699",
+      "ru": "Лук?"
+    },
+    {
+      "id": "words:battle/700",
+      "ru": "Большой лук?"
+    },
+    {
+      "id": "words:battle/701",
+      "ru": "Копьё?"
+    },
+    {
+      "id": "words:battle/702",
+      "ru": "Инструмент?"
+    },
+    {
+      "id": "words:battle/703",
+      "ru": "Перчатки?"
+    },
+    {
+      "id": "words:battle/704",
+      "ru": "Безделушка?"
+    },
+    {
+      "id": "words:battle/705",
+      "ru": "Ржавое ружьё?"
+    },
+    {
+      "id": "words:battle/706",
+      "ru": "Щит?"
+    },
+    {
+      "id": "words:battle/707",
+      "ru": "Ржавый шлем?"
+    },
+    {
+      "id": "words:battle/708",
+      "ru": "Старая шапка?"
+    },
+    {
+      "id": "words:battle/709",
+      "ru": "Доспех?"
+    },
+    {
+      "id": "words:battle/710",
+      "ru": "Одежда?"
+    },
+    {
+      "id": "words:battle/711",
+      "ru": "Мантия?"
+    },
+    {
+      "id": "words:battle/712",
+      "ru": "Сапоги?"
+    },
+    {
+      "id": "words:battle/713",
+      "ru": "Рукавица?"
+    },
+    {
+      "id": "words:battle/714",
+      "ru": "Украшение?"
+    },
+    {
+      "id": "words:battle/715",
+      "ru": "Мешок?"
+    },
+    {
+      "id": "words:battle/716",
+      "ru": "Металл?"
+    },
+    {
+      "id": "words:battle/717",
+      "ru": "Снижение параметров"
+    },
+    {
+      "id": "words:battle/718",
+      "ru": "Побег монстров"
+    },
+    {
+      "id": "words:battle/719",
+      "ru": "Штраф предметами"
+    },
+    {
+      "id": "words:battle/720",
+      "ru": "Штраф картами"
+    },
+    {
+      "id": "words:battle/721",
+      "ru": "Штраф AP"
+    },
+    {
+      "id": "words:battle/722",
+      "ru": "Штраф снаряжением"
+    },
+    {
+      "id": "words:battle/723",
+      "ru": "Доброволец"
+    },
+    {
+      "id": "words:battle/724",
+      "ru": "Штраф гил"
+    },
+    {
+      "id": "words:battle/732",
+      "ru": "Гил"
+    },
+    {
+      "id": "words:battle/733",
+      "ru": "Без приза!"
+    },
+    {
+      "id": "words:battle/734",
+      "ru": "Без AP!"
+    },
+    {
+      "id": "words:battle/735",
+      "ru": "Без AP и приза!"
+    },
+    {
+      "id": "words:battle/736",
+      "ru": "Все предметы!"
+    },
+    {
+      "id": "words:battle/737",
+      "ru": "Пустые[[1D04]]руки!"
+    },
+    {
+      "id": "words:battle/738",
+      "ru": "3 карты!"
+    },
+    {
+      "id": "words:battle/739",
+      "ru": "5 карт!"
+    },
+    {
+      "id": "words:battle/740",
+      "ru": "10 карт!?"
+    },
+    {
+      "id": "words:battle/741",
+      "ru": "Все карты!!"
+    },
+    {
+      "id": "words:battle/742",
+      "ru": "Без умений!"
+    },
+    {
+      "id": "words:battle/743",
+      "ru": "Ничего!"
+    },
+    {
+      "id": "words:battle/744",
+      "ru": "Без монстров!"
+    }
+  ]
+}

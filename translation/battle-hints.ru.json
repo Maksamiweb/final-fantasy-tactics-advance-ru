@@ -1,0 +1,1735 @@
+{
+  "batch": "P05-B013",
+  "entries": [
+    {
+      "id": "pages:battle/1",
+      "ru": "Украдено JP: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/2",
+      "ru": "Украдено гилей: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/3",
+      "ru": "Обнаружено: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/4",
+      "ru": "Побег: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/5",
+      "ru": "Взято: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/6",
+      "ru": "Украдено гилей: [[440]]![[42]]",
+      "expanded_from": "pages:battle/2"
+    },
+    {
+      "id": "pages:battle/7",
+      "ru": "Украдено EXP: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/8",
+      "ru": "Украдено JP: [[440]]![[42]]",
+      "expanded_from": "pages:battle/1"
+    },
+    {
+      "id": "pages:battle/9",
+      "ru": "Получено JP: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/10",
+      "ru": "Поймано: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/11",
+      "ru": "Новый облик: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/12",
+      "ru": "Потеряно гилей: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/13",
+      "ru": "Сломано: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/14",
+      "ru": "Высыпалось гилей: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/15",
+      "ru": "Снова экипировано: [[441]].[[42]]"
+    },
+    {
+      "id": "pages:battle/16",
+      "ru": "Законы изменились![[42]]"
+    },
+    {
+      "id": "pages:battle/17",
+      "ru": "HP и MP поменялись местами![[42]]"
+    },
+    {
+      "id": "pages:battle/18",
+      "ru": "Изучено: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/19",
+      "ru": "[[441]]: состояние зомби![[42]]"
+    },
+    {
+      "id": "pages:battle/20",
+      "ru": "Получено EXP: [[440]]![[42]]"
+    },
+    {
+      "id": "pages:battle/21",
+      "ru": "[[441]]: уровень повышен![[42]]"
+    },
+    {
+      "id": "pages:battle/22",
+      "ru": "[[441]]: скорость в норме![[42]]"
+    },
+    {
+      "id": "pages:battle/23",
+      "ru": "[[441]]: время в норме![[42]]"
+    },
+    {
+      "id": "pages:battle/24",
+      "ru": "[[441]]: покров исчез![[42]]"
+    },
+    {
+      "id": "pages:battle/25",
+      "ru": "[[441]][[1B01]]: [[1D04]]защита[[1D04]]исчезла![[42]]"
+    },
+    {
+      "id": "pages:battle/26",
+      "ru": "[[441]]: сон прошёл![[42]]"
+    },
+    {
+      "id": "pages:battle/27",
+      "ru": "[[441]]: немота прошла![[42]]"
+    },
+    {
+      "id": "pages:battle/28",
+      "ru": "[[441]]: разум прояснился![[42]]"
+    },
+    {
+      "id": "pages:battle/29",
+      "ru": "[[441]][[1D04]]снова[[1D04]]может[[1D04]]идти![[42]]"
+    },
+    {
+      "id": "pages:battle/30",
+      "ru": "[[441]]: снова действует![[42]]"
+    },
+    {
+      "id": "pages:battle/31",
+      "ru": "[[441]]: память вернулась![[42]]"
+    },
+    {
+      "id": "pages:battle/32",
+      "ru": "Ничего не обнаружено![[42]]"
+    },
+    {
+      "id": "pages:battle/33",
+      "ru": "Ничего не украдено![[42]]"
+    },
+    {
+      "id": "pages:battle/34",
+      "ru": "Жёлтая[[1D04]]карточка[[1D04]]для[[1D04]][[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/35",
+      "ru": "[[441]]: в тюрьму![[42]]"
+    },
+    {
+      "id": "pages:battle/36",
+      "ru": "[[441]]: сон наконец прошёл![[42]]"
+    },
+    {
+      "id": "pages:battle/37",
+      "ru": "Дней до конца задания: [[440]][[42]]"
+    },
+    {
+      "id": "pages:battle/38",
+      "ru": "Боёв до конца задания: [[440]][[42]]"
+    },
+    {
+      "id": "pages:battle/39",
+      "ru": "Врагов до конца задания: [[440]][[42]]"
+    },
+    {
+      "id": "pages:battle/40",
+      "ru": "Боёв до освобождения: [[440]][[42]]"
+    },
+    {
+      "id": "pages:battle/41",
+      "ru": "Боёв до освобождения: [[440]][[42]]",
+      "expanded_from": "pages:battle/40"
+    },
+    {
+      "id": "pages:battle/42",
+      "ru": "Взято: [[441]]![[42]]",
+      "expanded_from": "pages:battle/5"
+    },
+    {
+      "id": "pages:battle/43",
+      "ru": "Бросьте предмет из запаса![[42]]"
+    },
+    {
+      "id": "pages:battle/44",
+      "ru": "Метните предмет из запаса![[42]]"
+    },
+    {
+      "id": "pages:battle/45",
+      "ru": "Первое двойное заклинание![[42]]"
+    },
+    {
+      "id": "pages:battle/46",
+      "ru": "Двойная магия: [[441]] +?[[42]]"
+    },
+    {
+      "id": "pages:battle/47",
+      "ru": "[[441]]: гибель...[[42]]"
+    },
+    {
+      "id": "pages:battle/48",
+      "ru": "Смените снаряжение![[42]]"
+    },
+    {
+      "id": "pages:battle/49",
+      "ru": "Сдвиг мира! Атаковать можно![[42]]"
+    },
+    {
+      "id": "pages:battle/50",
+      "ru": "Сдвиг мира! Атаковать нельзя![[42]]"
+    },
+    {
+      "id": "pages:battle/51",
+      "ru": "[[441]]: получены JP![[42]]"
+    },
+    {
+      "id": "pages:battle/52",
+      "ru": "Жёлтая карточка отменена![[42]]"
+    },
+    {
+      "id": "pages:battle/53",
+      "ru": "Жёлтая карточка![[42]]"
+    },
+    {
+      "id": "pages:battle/54",
+      "ru": "Святая аура лечит HP![[42]]"
+    },
+    {
+      "id": "pages:battle/55",
+      "ru": "Святая аура лечит HP![[42]]",
+      "expanded_from": "pages:battle/54"
+    },
+    {
+      "id": "pages:battle/56",
+      "ru": "Святая аура лечит HP![[42]]",
+      "expanded_from": "pages:battle/54"
+    },
+    {
+      "id": "pages:battle/57",
+      "ru": "Снятие недугов![[42]]"
+    },
+    {
+      "id": "pages:battle/58",
+      "ru": "Оживление павших![[42]]"
+    },
+    {
+      "id": "pages:battle/59",
+      "ru": "Полное оживление павших![[42]]"
+    },
+    {
+      "id": "pages:battle/60",
+      "ru": "Автовоскрешение павших![[42]]"
+    },
+    {
+      "id": "pages:battle/61",
+      "ru": "Повышение маг. защиты![[42]]"
+    },
+    {
+      "id": "pages:battle/62",
+      "ru": "Повышение физ. защиты![[42]]"
+    },
+    {
+      "id": "pages:battle/63",
+      "ru": "Развеивание магии![[42]]"
+    },
+    {
+      "id": "pages:battle/64",
+      "ru": "Святой урон![[42]]"
+    },
+    {
+      "id": "pages:battle/65",
+      "ru": "Рост физ. и маг. защиты![[42]]"
+    },
+    {
+      "id": "pages:battle/66",
+      "ru": "Кража JP![[42]]"
+    },
+    {
+      "id": "pages:battle/67",
+      "ru": "Окаменение![[42]]"
+    },
+    {
+      "id": "pages:battle/68",
+      "ru": "Урон водой![[42]]"
+    },
+    {
+      "id": "pages:battle/69",
+      "ru": "Урон ветром![[42]]"
+    },
+    {
+      "id": "pages:battle/70",
+      "ru": "Поглощение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/71",
+      "ru": "Слепота![[42]]"
+    },
+    {
+      "id": "pages:battle/72",
+      "ru": "Оживление и лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/73",
+      "ru": "Большой урон![[42]]"
+    },
+    {
+      "id": "pages:battle/74",
+      "ru": "Урон и отравление![[42]]"
+    },
+    {
+      "id": "pages:battle/75",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/76",
+      "ru": "Урон огнём![[42]]"
+    },
+    {
+      "id": "pages:battle/77",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/78",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/79",
+      "ru": "Урон молнией![[42]]"
+    },
+    {
+      "id": "pages:battle/80",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/81",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/82",
+      "ru": "Урон льдом![[42]]"
+    },
+    {
+      "id": "pages:battle/83",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/84",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/85",
+      "ru": "Сон![[42]]"
+    },
+    {
+      "id": "pages:battle/86",
+      "ru": "Цепь заклинаний![[42]]"
+    },
+    {
+      "id": "pages:battle/87",
+      "ru": "Немедленный ход![[42]]"
+    },
+    {
+      "id": "pages:battle/88",
+      "ru": "Замедление времени![[42]]"
+    },
+    {
+      "id": "pages:battle/89",
+      "ru": "Состояние отражения магии![[42]]"
+    },
+    {
+      "id": "pages:battle/90",
+      "ru": "Отражение![[42]]"
+    },
+    {
+      "id": "pages:battle/91",
+      "ru": "Остановка времени![[42]]"
+    },
+    {
+      "id": "pages:battle/92",
+      "ru": "Потеря 1/4 HP![[42]]"
+    },
+    {
+      "id": "pages:battle/93",
+      "ru": "Потеря 1/2 HP![[42]]"
+    },
+    {
+      "id": "pages:battle/94",
+      "ru": "Немота![[42]]"
+    },
+    {
+      "id": "pages:battle/95",
+      "ru": "Ускорение времени![[42]]"
+    },
+    {
+      "id": "pages:battle/96",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/97",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/98",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/99",
+      "ru": "Святой урон![[42]]",
+      "expanded_from": "pages:battle/64"
+    },
+    {
+      "id": "pages:battle/100",
+      "ru": "Урон всем врагам![[42]]"
+    },
+    {
+      "id": "pages:battle/101",
+      "ru": "Урон водой![[42]]",
+      "expanded_from": "pages:battle/68"
+    },
+    {
+      "id": "pages:battle/102",
+      "ru": "Урон землёй![[42]]"
+    },
+    {
+      "id": "pages:battle/103",
+      "ru": "Урон ветром![[42]]",
+      "expanded_from": "pages:battle/69"
+    },
+    {
+      "id": "pages:battle/104",
+      "ru": "Огонь и недееспособность![[42]]"
+    },
+    {
+      "id": "pages:battle/105",
+      "ru": "Сила земли лечит HP![[42]]"
+    },
+    {
+      "id": "pages:battle/106",
+      "ru": "Белое пламя лечит HP![[42]]"
+    },
+    {
+      "id": "pages:battle/107",
+      "ru": "Ветер и слепота![[42]]"
+    },
+    {
+      "id": "pages:battle/108",
+      "ru": "Тьма и смятение![[42]]"
+    },
+    {
+      "id": "pages:battle/109",
+      "ru": "Земля и обездвиживание![[42]]"
+    },
+    {
+      "id": "pages:battle/110",
+      "ru": "Вода и замедление![[42]]"
+    },
+    {
+      "id": "pages:battle/111",
+      "ru": "Смена сопротивления стихиям![[42]]"
+    },
+    {
+      "id": "pages:battle/112",
+      "ru": "Защита от одного недуга![[42]]"
+    },
+    {
+      "id": "pages:battle/113",
+      "ru": "Урон по MP![[42]]"
+    },
+    {
+      "id": "pages:battle/114",
+      "ru": "Поражение силой тьмы![[42]]"
+    },
+    {
+      "id": "pages:battle/115",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/116",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/117",
+      "ru": "Отравление![[42]]"
+    },
+    {
+      "id": "pages:battle/118",
+      "ru": "Облик лягушки![[42]]"
+    },
+    {
+      "id": "pages:battle/119",
+      "ru": "Окаменение![[42]]",
+      "expanded_from": "pages:battle/67"
+    },
+    {
+      "id": "pages:battle/120",
+      "ru": "Использование предметов![[42]]"
+    },
+    {
+      "id": "pages:battle/121",
+      "ru": "Снятие недугов и лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/122",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/123",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/124",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/125",
+      "ru": "Автоматическое лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/126",
+      "ru": "Включение отражения магии![[42]]"
+    },
+    {
+      "id": "pages:battle/127",
+      "ru": "Полное оживление павших![[42]]",
+      "expanded_from": "pages:battle/59"
+    },
+    {
+      "id": "pages:battle/128",
+      "ru": "Святой урон![[42]]",
+      "expanded_from": "pages:battle/64"
+    },
+    {
+      "id": "pages:battle/129",
+      "ru": "Снятие недугов и лечение HP![[42]]",
+      "expanded_from": "pages:battle/121"
+    },
+    {
+      "id": "pages:battle/130",
+      "ru": "Ослабление атак оружием![[42]]"
+    },
+    {
+      "id": "pages:battle/131",
+      "ru": "Ослабление магической силы![[42]]"
+    },
+    {
+      "id": "pages:battle/132",
+      "ru": "Урон по MP![[42]]",
+      "expanded_from": "pages:battle/113"
+    },
+    {
+      "id": "pages:battle/133",
+      "ru": "Снижение скорости![[42]]"
+    },
+    {
+      "id": "pages:battle/134",
+      "ru": "Урон и кража гилей![[42]]"
+    },
+    {
+      "id": "pages:battle/135",
+      "ru": "Берсерк![[42]]"
+    },
+    {
+      "id": "pages:battle/136",
+      "ru": "Поиск скрытых предметов![[42]]"
+    },
+    {
+      "id": "pages:battle/137",
+      "ru": "Атака с уроном по себе![[42]]"
+    },
+    {
+      "id": "pages:battle/138",
+      "ru": "Урон без ответа Р-умением![[42]]"
+    },
+    {
+      "id": "pages:battle/139",
+      "ru": "Потеря 1/2 HP![[42]]",
+      "expanded_from": "pages:battle/93"
+    },
+    {
+      "id": "pages:battle/140",
+      "ru": "Снятие недугов и лечение HP![[42]]",
+      "expanded_from": "pages:battle/121"
+    },
+    {
+      "id": "pages:battle/141",
+      "ru": "Защитить цель![[42]]"
+    },
+    {
+      "id": "pages:battle/142",
+      "ru": "Цель под защитой![[42]]"
+    },
+    {
+      "id": "pages:battle/143",
+      "ru": "Сниженный урон![[42]]"
+    },
+    {
+      "id": "pages:battle/144",
+      "ru": "Удаление из боя![[42]]"
+    },
+    {
+      "id": "pages:battle/145",
+      "ru": "Святой урон![[42]]",
+      "expanded_from": "pages:battle/64"
+    },
+    {
+      "id": "pages:battle/146",
+      "ru": "Святой урон![[42]]",
+      "expanded_from": "pages:battle/64"
+    },
+    {
+      "id": "pages:battle/147",
+      "ru": "Рост физ. и маг. защиты![[42]]",
+      "expanded_from": "pages:battle/65"
+    },
+    {
+      "id": "pages:battle/148",
+      "ru": "Разоружение![[42]]"
+    },
+    {
+      "id": "pages:battle/149",
+      "ru": "Отбросить ближайших бойцов![[42]]"
+    },
+    {
+      "id": "pages:battle/150",
+      "ru": "Спячка и снятие недугов![[42]]"
+    },
+    {
+      "id": "pages:battle/151",
+      "ru": "Урон по области без уклонения![[42]]"
+    },
+    {
+      "id": "pages:battle/152",
+      "ru": "Автовоскрешение и лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/153",
+      "ru": "Полная защита от урона![[42]]"
+    },
+    {
+      "id": "pages:battle/154",
+      "ru": "Урон по области ценой всех HP![[42]]"
+    },
+    {
+      "id": "pages:battle/155",
+      "ru": "Урон окружающим бойцам![[42]]"
+    },
+    {
+      "id": "pages:battle/156",
+      "ru": "Урон землёй![[42]]",
+      "expanded_from": "pages:battle/102"
+    },
+    {
+      "id": "pages:battle/157",
+      "ru": "Снятие недугов и лечение HP![[42]]",
+      "expanded_from": "pages:battle/121"
+    },
+    {
+      "id": "pages:battle/158",
+      "ru": "Оживление павших![[42]]",
+      "expanded_from": "pages:battle/58"
+    },
+    {
+      "id": "pages:battle/159",
+      "ru": "Погребение зомби![[42]]"
+    },
+    {
+      "id": "pages:battle/160",
+      "ru": "Развеивание магии![[42]]",
+      "expanded_from": "pages:battle/63"
+    },
+    {
+      "id": "pages:battle/161",
+      "ru": "Урон![[42]]"
+    },
+    {
+      "id": "pages:battle/162",
+      "ru": "Урон по области![[42]]"
+    },
+    {
+      "id": "pages:battle/163",
+      "ru": "Урон ветром![[42]]",
+      "expanded_from": "pages:battle/69"
+    },
+    {
+      "id": "pages:battle/164",
+      "ru": "Огненная атака с уроном себе![[42]]"
+    },
+    {
+      "id": "pages:battle/165",
+      "ru": "Отбрасывание![[42]]"
+    },
+    {
+      "id": "pages:battle/166",
+      "ru": "Урон окружающим бойцам![[42]]",
+      "expanded_from": "pages:battle/155"
+    },
+    {
+      "id": "pages:battle/167",
+      "ru": "Атака: всё или ничего![[42]]"
+    },
+    {
+      "id": "pages:battle/168",
+      "ru": "Прицельная атака![[42]]"
+    },
+    {
+      "id": "pages:battle/169",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/170",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/171",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/172",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/173",
+      "ru": "Снижение скорости рядом![[42]]"
+    },
+    {
+      "id": "pages:battle/174",
+      "ru": "Усиление атак оружием![[42]]"
+    },
+    {
+      "id": "pages:battle/175",
+      "ru": "Урон по MP![[42]]",
+      "expanded_from": "pages:battle/113"
+    },
+    {
+      "id": "pages:battle/176",
+      "ru": "Урон равен потерянным HP![[42]]"
+    },
+    {
+      "id": "pages:battle/177",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/178",
+      "ru": "Поглощение HP![[42]]",
+      "expanded_from": "pages:battle/70"
+    },
+    {
+      "id": "pages:battle/179",
+      "ru": "Удаление из боя![[42]]",
+      "expanded_from": "pages:battle/144"
+    },
+    {
+      "id": "pages:battle/180",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/181",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/182",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/183",
+      "ru": "Большой урон драконам![[42]]"
+    },
+    {
+      "id": "pages:battle/184",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/185",
+      "ru": "Отбрасывание![[42]]",
+      "expanded_from": "pages:battle/165"
+    },
+    {
+      "id": "pages:battle/186",
+      "ru": "Рост физ. и маг. защиты![[42]]",
+      "expanded_from": "pages:battle/65"
+    },
+    {
+      "id": "pages:battle/187",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/188",
+      "ru": "Атака: всё или ничего![[42]]",
+      "expanded_from": "pages:battle/167"
+    },
+    {
+      "id": "pages:battle/189",
+      "ru": "Защита от одного недуга![[42]]",
+      "expanded_from": "pages:battle/112"
+    },
+    {
+      "id": "pages:battle/190",
+      "ru": "Поиск скрытых предметов![[42]]",
+      "expanded_from": "pages:battle/136"
+    },
+    {
+      "id": "pages:battle/191",
+      "ru": "Снятие недугов и лечение HP![[42]]",
+      "expanded_from": "pages:battle/121"
+    },
+    {
+      "id": "pages:battle/192",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/193",
+      "ru": "Урон и отравление![[42]]",
+      "expanded_from": "pages:battle/74"
+    },
+    {
+      "id": "pages:battle/194",
+      "ru": "Снижение скорости![[42]]",
+      "expanded_from": "pages:battle/133"
+    },
+    {
+      "id": "pages:battle/195",
+      "ru": "Приговор![[42]]"
+    },
+    {
+      "id": "pages:battle/196",
+      "ru": "Прицельная атака![[42]]",
+      "expanded_from": "pages:battle/168"
+    },
+    {
+      "id": "pages:battle/197",
+      "ru": "Урон окружающим бойцам![[42]]",
+      "expanded_from": "pages:battle/155"
+    },
+    {
+      "id": "pages:battle/198",
+      "ru": "Урон по MP![[42]]",
+      "expanded_from": "pages:battle/113"
+    },
+    {
+      "id": "pages:battle/199",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/200",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/201",
+      "ru": "Атака брошенным предметом![[42]]"
+    },
+    {
+      "id": "pages:battle/202",
+      "ru": "Урон и обездвиживание![[42]]"
+    },
+    {
+      "id": "pages:battle/203",
+      "ru": "Огонь и смятение![[42]]"
+    },
+    {
+      "id": "pages:battle/204",
+      "ru": "Земля и замедление![[42]]"
+    },
+    {
+      "id": "pages:battle/205",
+      "ru": "Урон и слепота![[42]]"
+    },
+    {
+      "id": "pages:battle/206",
+      "ru": "Вода и немота![[42]]"
+    },
+    {
+      "id": "pages:battle/207",
+      "ru": "Отмена магического эффекта![[42]]"
+    },
+    {
+      "id": "pages:battle/208",
+      "ru": "Помрачение![[42]]"
+    },
+    {
+      "id": "pages:battle/209",
+      "ru": "Остановка времени![[42]]",
+      "expanded_from": "pages:battle/91"
+    },
+    {
+      "id": "pages:battle/210",
+      "ru": "Поражение силой тьмы![[42]]",
+      "expanded_from": "pages:battle/114"
+    },
+    {
+      "id": "pages:battle/211",
+      "ru": "Немота![[42]]",
+      "expanded_from": "pages:battle/94"
+    },
+    {
+      "id": "pages:battle/212",
+      "ru": "Сон и приговор![[42]]"
+    },
+    {
+      "id": "pages:battle/213",
+      "ru": "Замедление времени![[42]]"
+    },
+    {
+      "id": "pages:battle/214",
+      "ru": "Окаменение![[42]]",
+      "expanded_from": "pages:battle/67"
+    },
+    {
+      "id": "pages:battle/215",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/216",
+      "ru": "Кража доспеха![[42]]"
+    },
+    {
+      "id": "pages:battle/217",
+      "ru": "Кража щита![[42]]"
+    },
+    {
+      "id": "pages:battle/218",
+      "ru": "Кража аксессуара![[42]]"
+    },
+    {
+      "id": "pages:battle/219",
+      "ru": "Кража шлема![[42]]"
+    },
+    {
+      "id": "pages:battle/220",
+      "ru": "Кража оружия![[42]]"
+    },
+    {
+      "id": "pages:battle/221",
+      "ru": "Кража гилей![[42]]"
+    },
+    {
+      "id": "pages:battle/222",
+      "ru": "Кража EXP![[42]]"
+    },
+    {
+      "id": "pages:battle/223",
+      "ru": "Кража JP![[42]]",
+      "expanded_from": "pages:battle/66"
+    },
+    {
+      "id": "pages:battle/224",
+      "ru": "Кража способности![[42]]"
+    },
+    {
+      "id": "pages:battle/225",
+      "ru": "Усиление атак оружием![[42]]",
+      "expanded_from": "pages:battle/174"
+    },
+    {
+      "id": "pages:battle/226",
+      "ru": "Обездвиживание![[42]]"
+    },
+    {
+      "id": "pages:battle/227",
+      "ru": "Недееспособность![[42]]"
+    },
+    {
+      "id": "pages:battle/228",
+      "ru": "Очарование![[42]]"
+    },
+    {
+      "id": "pages:battle/229",
+      "ru": "Погребение зомби![[42]]",
+      "expanded_from": "pages:battle/159"
+    },
+    {
+      "id": "pages:battle/230",
+      "ru": "Урон без промаха![[42]]"
+    },
+    {
+      "id": "pages:battle/231",
+      "ru": "Урон без ответа Р-умением![[42]]",
+      "expanded_from": "pages:battle/138"
+    },
+    {
+      "id": "pages:battle/232",
+      "ru": "Слепота![[42]]",
+      "expanded_from": "pages:battle/71"
+    },
+    {
+      "id": "pages:battle/233",
+      "ru": "Урон по области![[42]]",
+      "expanded_from": "pages:battle/162"
+    },
+    {
+      "id": "pages:battle/234",
+      "ru": "Удаление из боя![[42]]",
+      "expanded_from": "pages:battle/144"
+    },
+    {
+      "id": "pages:battle/235",
+      "ru": "Рост шанса крит. удара![[42]]"
+    },
+    {
+      "id": "pages:battle/236",
+      "ru": "Случайный недуг![[42]]"
+    },
+    {
+      "id": "pages:battle/237",
+      "ru": "Атака с добавочными JP![[42]]"
+    },
+    {
+      "id": "pages:battle/238",
+      "ru": "Помрачение![[42]]",
+      "expanded_from": "pages:battle/208"
+    },
+    {
+      "id": "pages:battle/239",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/240",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/241",
+      "ru": "Поимка слабого чудовища![[42]]"
+    },
+    {
+      "id": "pages:battle/242",
+      "ru": "Управление гоблинами![[42]]"
+    },
+    {
+      "id": "pages:battle/243",
+      "ru": "Управление фланами![[42]]"
+    },
+    {
+      "id": "pages:battle/244",
+      "ru": "Управление бомбами![[42]]"
+    },
+    {
+      "id": "pages:battle/245",
+      "ru": "Управление драконами![[42]]"
+    },
+    {
+      "id": "pages:battle/246",
+      "ru": "Управление ламиями![[42]]"
+    },
+    {
+      "id": "pages:battle/247",
+      "ru": "Управление насекомыми![[42]]"
+    },
+    {
+      "id": "pages:battle/248",
+      "ru": "Управление тонберри![[42]]"
+    },
+    {
+      "id": "pages:battle/249",
+      "ru": "Управление пантерами![[42]]"
+    },
+    {
+      "id": "pages:battle/250",
+      "ru": "Управление мальборо![[42]]"
+    },
+    {
+      "id": "pages:battle/251",
+      "ru": "Управление ариманами![[42]]"
+    },
+    {
+      "id": "pages:battle/252",
+      "ru": "Управление нежитью![[42]]"
+    },
+    {
+      "id": "pages:battle/253",
+      "ru": "Управление феями![[42]]"
+    },
+    {
+      "id": "pages:battle/254",
+      "ru": "Управление скальными зверями![[42]]"
+    },
+    {
+      "id": "pages:battle/255",
+      "ru": "Облик гоблина![[42]]"
+    },
+    {
+      "id": "pages:battle/256",
+      "ru": "Облик флана![[42]]"
+    },
+    {
+      "id": "pages:battle/257",
+      "ru": "Облик бомбы![[42]]"
+    },
+    {
+      "id": "pages:battle/258",
+      "ru": "Облик дракона![[42]]"
+    },
+    {
+      "id": "pages:battle/259",
+      "ru": "Облик ламии![[42]]"
+    },
+    {
+      "id": "pages:battle/260",
+      "ru": "Облик насекомого![[42]]"
+    },
+    {
+      "id": "pages:battle/261",
+      "ru": "Облик пантеры![[42]]"
+    },
+    {
+      "id": "pages:battle/262",
+      "ru": "Облик мальборо![[42]]"
+    },
+    {
+      "id": "pages:battle/263",
+      "ru": "Облик аримана![[42]]"
+    },
+    {
+      "id": "pages:battle/264",
+      "ru": "Атака метнутым предметом![[42]]"
+    },
+    {
+      "id": "pages:battle/265",
+      "ru": "Остановка времени![[42]]",
+      "expanded_from": "pages:battle/91"
+    },
+    {
+      "id": "pages:battle/266",
+      "ru": "Урон и берсерк![[42]]"
+    },
+    {
+      "id": "pages:battle/267",
+      "ru": "Смятение![[42]]"
+    },
+    {
+      "id": "pages:battle/268",
+      "ru": "Урон и недееспособность![[42]]"
+    },
+    {
+      "id": "pages:battle/269",
+      "ru": "Немедленный ход![[42]]",
+      "expanded_from": "pages:battle/87"
+    },
+    {
+      "id": "pages:battle/270",
+      "ru": "Атака брошенными гилями![[42]]"
+    },
+    {
+      "id": "pages:battle/272",
+      "ru": "Урон и отравление![[42]]",
+      "expanded_from": "pages:battle/74"
+    },
+    {
+      "id": "pages:battle/273",
+      "ru": "Приговор![[42]]",
+      "expanded_from": "pages:battle/195"
+    },
+    {
+      "id": "pages:battle/274",
+      "ru": "Невидимость![[42]]"
+    },
+    {
+      "id": "pages:battle/275",
+      "ru": "Урон по HP и MP![[42]]"
+    },
+    {
+      "id": "pages:battle/276",
+      "ru": "Последовательные удары![[42]]"
+    },
+    {
+      "id": "pages:battle/277",
+      "ru": "Разрушение доспеха![[42]]"
+    },
+    {
+      "id": "pages:battle/278",
+      "ru": "Разрушение оружия![[42]]"
+    },
+    {
+      "id": "pages:battle/279",
+      "ru": "Опустошение кошелька![[42]]"
+    },
+    {
+      "id": "pages:battle/280",
+      "ru": "Сон![[42]]",
+      "expanded_from": "pages:battle/85"
+    },
+    {
+      "id": "pages:battle/281",
+      "ru": "Рост физ. и маг. защиты![[42]]",
+      "expanded_from": "pages:battle/65"
+    },
+    {
+      "id": "pages:battle/282",
+      "ru": "Полное лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/283",
+      "ru": "Очарование![[42]]",
+      "expanded_from": "pages:battle/228"
+    },
+    {
+      "id": "pages:battle/284",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/285",
+      "ru": "Облик лягушки![[42]]",
+      "expanded_from": "pages:battle/118"
+    },
+    {
+      "id": "pages:battle/286",
+      "ru": "Случайный призыв на помощь![[42]]"
+    },
+    {
+      "id": "pages:battle/287",
+      "ru": "Берсерк![[42]]",
+      "expanded_from": "pages:battle/135"
+    },
+    {
+      "id": "pages:battle/288",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/289",
+      "ru": "Урон молнией![[42]]",
+      "expanded_from": "pages:battle/79"
+    },
+    {
+      "id": "pages:battle/290",
+      "ru": "Урон льдом![[42]]",
+      "expanded_from": "pages:battle/82"
+    },
+    {
+      "id": "pages:battle/291",
+      "ru": "Смятение и урон![[42]]"
+    },
+    {
+      "id": "pages:battle/292",
+      "ru": "Очарование и урон![[42]]"
+    },
+    {
+      "id": "pages:battle/293",
+      "ru": "Слепота и урон![[42]]"
+    },
+    {
+      "id": "pages:battle/294",
+      "ru": "Немота и урон![[42]]"
+    },
+    {
+      "id": "pages:battle/295",
+      "ru": "Остановка времени и урон![[42]]"
+    },
+    {
+      "id": "pages:battle/296",
+      "ru": "Случайное ускорение времени![[42]]"
+    },
+    {
+      "id": "pages:battle/297",
+      "ru": "Случайное развеивание магии![[42]]"
+    },
+    {
+      "id": "pages:battle/298",
+      "ru": "Случайное отравление![[42]]"
+    },
+    {
+      "id": "pages:battle/299",
+      "ru": "Случайная слепота![[42]]"
+    },
+    {
+      "id": "pages:battle/300",
+      "ru": "Случайное лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/301",
+      "ru": "Случайный приговор![[42]]"
+    },
+    {
+      "id": "pages:battle/302",
+      "ru": "Случайный сон![[42]]"
+    },
+    {
+      "id": "pages:battle/303",
+      "ru": "Случайный рост обеих защит![[42]]"
+    },
+    {
+      "id": "pages:battle/304",
+      "ru": "Лечение HP![[42]]"
+    },
+    {
+      "id": "pages:battle/305",
+      "ru": "Лечение HP![[42]]",
+      "expanded_from": "pages:battle/304"
+    },
+    {
+      "id": "pages:battle/306",
+      "ru": "Лечение HP![[42]]",
+      "expanded_from": "pages:battle/304"
+    },
+    {
+      "id": "pages:battle/307",
+      "ru": "Восстановление MP![[42]]"
+    },
+    {
+      "id": "pages:battle/308",
+      "ru": "Восстановление HP и MP![[42]]"
+    },
+    {
+      "id": "pages:battle/309",
+      "ru": "Оживление павших![[42]]",
+      "expanded_from": "pages:battle/58"
+    },
+    {
+      "id": "pages:battle/310",
+      "ru": "Снятие немоты![[42]]"
+    },
+    {
+      "id": "pages:battle/311",
+      "ru": "Снятие облика лягушки![[42]]"
+    },
+    {
+      "id": "pages:battle/312",
+      "ru": "Снятие окаменения![[42]]"
+    },
+    {
+      "id": "pages:battle/313",
+      "ru": "Снятие состояния зомби![[42]]"
+    },
+    {
+      "id": "pages:battle/314",
+      "ru": "Снятие отравления![[42]]"
+    },
+    {
+      "id": "pages:battle/315",
+      "ru": "Снятие слепоты![[42]]"
+    },
+    {
+      "id": "pages:battle/316",
+      "ru": "Снятие обездвиж. и недеесп.![[42]]"
+    },
+    {
+      "id": "pages:battle/317",
+      "ru": "Снятие недугов![[42]]",
+      "expanded_from": "pages:battle/57"
+    },
+    {
+      "id": "pages:battle/318",
+      "ru": "Смена снаряжения![[42]]"
+    },
+    {
+      "id": "pages:battle/319",
+      "ru": "Случайный урон![[42]]"
+    },
+    {
+      "id": "pages:battle/320",
+      "ru": "Урон по MP![[42]]",
+      "expanded_from": "pages:battle/113"
+    },
+    {
+      "id": "pages:battle/321",
+      "ru": "Поглощение HP![[42]]",
+      "expanded_from": "pages:battle/70"
+    },
+    {
+      "id": "pages:battle/322",
+      "ru": "Случайный недуг![[42]]",
+      "expanded_from": "pages:battle/236"
+    },
+    {
+      "id": "pages:battle/323",
+      "ru": "Снятие недугов и лечение HP![[42]]",
+      "expanded_from": "pages:battle/121"
+    },
+    {
+      "id": "pages:battle/324",
+      "ru": "Большой урон по области![[42]]"
+    },
+    {
+      "id": "pages:battle/325",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/326",
+      "ru": "Ледяной урон по области![[42]]"
+    },
+    {
+      "id": "pages:battle/327",
+      "ru": "Рост физ. и маг. защиты![[42]]",
+      "expanded_from": "pages:battle/65"
+    },
+    {
+      "id": "pages:battle/328",
+      "ru": "Снижение обеих защит![[42]]"
+    },
+    {
+      "id": "pages:battle/329",
+      "ru": "Рост физ. и маг. атаки/защиты![[42]]"
+    },
+    {
+      "id": "pages:battle/330",
+      "ru": "Сон![[42]]",
+      "expanded_from": "pages:battle/85"
+    },
+    {
+      "id": "pages:battle/331",
+      "ru": "Потеря 1/2 HP![[42]]",
+      "expanded_from": "pages:battle/93"
+    },
+    {
+      "id": "pages:battle/332",
+      "ru": "Урон и задержка хода![[42]]"
+    },
+    {
+      "id": "pages:battle/333",
+      "ru": "Отравление и облик лягушки![[42]]"
+    },
+    {
+      "id": "pages:battle/334",
+      "ru": "Приговор и очарование![[42]]"
+    },
+    {
+      "id": "pages:battle/335",
+      "ru": "Снижение обеих защит![[42]]",
+      "expanded_from": "pages:battle/328"
+    },
+    {
+      "id": "pages:battle/336",
+      "ru": "Земля и слепота![[42]]"
+    },
+    {
+      "id": "pages:battle/337",
+      "ru": "Поражение силой тьмы![[42]]",
+      "expanded_from": "pages:battle/114"
+    },
+    {
+      "id": "pages:battle/338",
+      "ru": "Задержка хода![[42]]"
+    },
+    {
+      "id": "pages:battle/339",
+      "ru": "Недееспособность![[42]]",
+      "expanded_from": "pages:battle/227"
+    },
+    {
+      "id": "pages:battle/340",
+      "ru": "Последний удар при HP<10![[42]]"
+    },
+    {
+      "id": "pages:battle/341",
+      "ru": "Обмен местами HP и MP![[42]]"
+    },
+    {
+      "id": "pages:battle/342",
+      "ru": "Разрушить оружие или урон![[42]]"
+    },
+    {
+      "id": "pages:battle/343",
+      "ru": "Потеря 9/10 HP![[42]]"
+    },
+    {
+      "id": "pages:battle/344",
+      "ru": "Кармический урон![[42]]"
+    },
+    {
+      "id": "pages:battle/345",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/346",
+      "ru": "Урон и отравление![[42]]",
+      "expanded_from": "pages:battle/74"
+    },
+    {
+      "id": "pages:battle/347",
+      "ru": "Помехи течению времени![[42]]"
+    },
+    {
+      "id": "pages:battle/348",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/349",
+      "ru": "Окаменение![[42]]",
+      "expanded_from": "pages:battle/67"
+    },
+    {
+      "id": "pages:battle/350",
+      "ru": "Недуг![[42]]"
+    },
+    {
+      "id": "pages:battle/351",
+      "ru": "Обездвиживание![[42]]",
+      "expanded_from": "pages:battle/226"
+    },
+    {
+      "id": "pages:battle/352",
+      "ru": "Развеивание магии![[42]]",
+      "expanded_from": "pages:battle/63"
+    },
+    {
+      "id": "pages:battle/353",
+      "ru": "Смятение![[42]]",
+      "expanded_from": "pages:battle/267"
+    },
+    {
+      "id": "pages:battle/354",
+      "ru": "Поражение случайной цели![[42]]"
+    },
+    {
+      "id": "pages:battle/355",
+      "ru": "Слепота и немота![[42]]"
+    },
+    {
+      "id": "pages:battle/356",
+      "ru": "Ослабление атак и магии![[42]]"
+    },
+    {
+      "id": "pages:battle/357",
+      "ru": "Поглощение HP![[42]]",
+      "expanded_from": "pages:battle/70"
+    },
+    {
+      "id": "pages:battle/358",
+      "ru": "Большой урон тьмой![[42]]"
+    },
+    {
+      "id": "pages:battle/359",
+      "ru": "Урон и отравление![[42]]",
+      "expanded_from": "pages:battle/74"
+    },
+    {
+      "id": "pages:battle/360",
+      "ru": "Состояние зомби силой тьмы![[42]]"
+    },
+    {
+      "id": "pages:battle/361",
+      "ru": "Лечение HP![[42]]",
+      "expanded_from": "pages:battle/304"
+    },
+    {
+      "id": "pages:battle/362",
+      "ru": "Лечение и автовоскрешение![[42]]"
+    },
+    {
+      "id": "pages:battle/363",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/364",
+      "ru": "Большой святой урон![[42]]"
+    },
+    {
+      "id": "pages:battle/365",
+      "ru": "Призыв Адраммелеха![[42]]"
+    },
+    {
+      "id": "pages:battle/366",
+      "ru": "Призыв: [[5112]]![[42]]"
+    },
+    {
+      "id": "pages:battle/367",
+      "ru": "Призыв Ультимы![[42]]"
+    },
+    {
+      "id": "pages:battle/368",
+      "ru": "Призыв Эксодуса![[42]]"
+    },
+    {
+      "id": "pages:battle/369",
+      "ru": "Призыв: [[5116]]![[42]]"
+    },
+    {
+      "id": "pages:battle/370",
+      "ru": "Большой урон огнём![[42]]"
+    },
+    {
+      "id": "pages:battle/371",
+      "ru": "Остановка времени![[42]]",
+      "expanded_from": "pages:battle/91"
+    },
+    {
+      "id": "pages:battle/372",
+      "ru": "Сон![[42]]",
+      "expanded_from": "pages:battle/85"
+    },
+    {
+      "id": "pages:battle/373",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/374",
+      "ru": "Урон и отравление![[42]]",
+      "expanded_from": "pages:battle/74"
+    },
+    {
+      "id": "pages:battle/375",
+      "ru": "Урон и приговор![[42]]"
+    },
+    {
+      "id": "pages:battle/376",
+      "ru": "Урон по MP![[42]]",
+      "expanded_from": "pages:battle/113"
+    },
+    {
+      "id": "pages:battle/377",
+      "ru": "Урон окружающим бойцам![[42]]",
+      "expanded_from": "pages:battle/155"
+    },
+    {
+      "id": "pages:battle/378",
+      "ru": "Отбросить ближайших бойцов![[42]]",
+      "expanded_from": "pages:battle/149"
+    },
+    {
+      "id": "pages:battle/379",
+      "ru": "Случайная смена закона![[42]]"
+    },
+    {
+      "id": "pages:battle/380",
+      "ru": "Развеивание магии![[42]]",
+      "expanded_from": "pages:battle/63"
+    },
+    {
+      "id": "pages:battle/381",
+      "ru": "Невероятный урон![[42]]"
+    },
+    {
+      "id": "pages:battle/382",
+      "ru": "Призыв случайной тотемы![[42]]"
+    },
+    {
+      "id": "pages:battle/383",
+      "ru": "Большой урон![[42]]",
+      "expanded_from": "pages:battle/73"
+    },
+    {
+      "id": "pages:battle/384",
+      "ru": "Урон и снижение скорости![[42]]"
+    },
+    {
+      "id": "pages:battle/385",
+      "ru": "Урон![[42]]",
+      "expanded_from": "pages:battle/161"
+    },
+    {
+      "id": "pages:battle/386",
+      "ru": "Урон без ответа Р-умением![[42]]",
+      "expanded_from": "pages:battle/138"
+    },
+    {
+      "id": "pages:battle/387",
+      "ru": "Урон огнём![[42]]",
+      "expanded_from": "pages:battle/76"
+    },
+    {
+      "id": "pages:battle/388",
+      "ru": "Замедление ближайших бойцов![[42]]"
+    },
+    {
+      "id": "pages:battle/389",
+      "ru": "Отбрасывание![[42]]",
+      "expanded_from": "pages:battle/165"
+    },
+    {
+      "id": "pages:battle/390",
+      "ru": "Ослабление и очарование![[42]]"
+    },
+    {
+      "id": "pages:battle/391",
+      "ru": "Поймано: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/392",
+      "ru": "Выход из боя: [[441]]![[42]]"
+    },
+    {
+      "id": "pages:battle/393",
+      "ru": "Отмена одного хода судьи![[42]]"
+    },
+    {
+      "id": "pages:battle/394",
+      "ru": "Урон и кража JP![[42]]"
+    },
+    {
+      "id": "pages:battle/395",
+      "ru": "Обездвиж. и недееспособность![[42]]"
+    },
+    {
+      "id": "pages:battle/396",
+      "ru": "Передача своих JP![[42]]"
+    },
+    {
+      "id": "pages:battle/397",
+      "ru": "Отмена жёлтой карточки![[42]]"
+    },
+    {
+      "id": "pages:battle/398",
+      "ru": "Жёлтая карточка врагу![[42]]"
+    },
+    {
+      "id": "pages:battle/399",
+      "ru": "Урон во все стороны![[42]]"
+    },
+    {
+      "id": "pages:battle/400",
+      "ru": "Случайная смена закона![[42]]"
+    }
+  ]
+}

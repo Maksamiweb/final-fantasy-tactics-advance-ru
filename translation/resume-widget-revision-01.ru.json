@@ -1,0 +1,14 @@
+{
+  "batch": "RESUME-WIDGET-01",
+  "entries": [
+    {
+      "id": "words:system/58",
+      "ru": "Продолжить",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "narrow_resume_battle_widget"
+    }
+  ]
+}

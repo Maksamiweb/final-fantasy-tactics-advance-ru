@@ -1,0 +1,14 @@
+{
+  "batch": "DIALOGUE-COMPLETE-01",
+  "scope": "Close omitted punctuation/name-only dialogue; no untranslated words invented",
+  "entries": [
+    {
+      "id": "s_text/0/2",
+      "ru": "...?\n[[5108]]?\n[[5108]]![[40]][[42]]",
+      "resolve_fixed_references": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "punctuation_and_translated_name_reference_verified"
+    }
+  ]
+}

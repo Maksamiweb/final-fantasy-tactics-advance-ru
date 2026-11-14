@@ -1,0 +1,455 @@
+{
+  "batch": "ED-B009",
+  "entries": [
+    {
+      "id": "s_text/15/5",
+      "ru": "[[104]]Купо... Знаю! Вообще-то...[[40]][[42]]",
+      "previous_ru": "[[104]]Купо... Я знаю!\nВообще-то...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/16/4",
+      "ru": "Хм, а ведь и правда... Надо узнать его имя.[[40]][[42]]",
+      "previous_ru": "Хм, а ведь и правда...\nУзнай-ка его имя.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/2",
+      "ru": "Давно не виделись. Вижу, дела у тебя идут неплохо...[[40]][[42]]",
+      "previous_ru": "Давно не виделись.\nВижу, дела у тебя\nнеплохо...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/10",
+      "ru": "Хватайте мальчишку! Награда наша! С прочими — как хотите![[40]][[42]]",
+      "previous_ru": "Хватайте того, за кого\nнаграда! С прочими —\nкак хотите![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/17",
+      "ru": "Значит, ты знаешь: этот мир — мечта [[5103]]а...[[4F]][[42]]И всё равно хочешь его разрушить?[[4F]][[42]]Я думала, тебе здесь тоже лучше.[[40]][[42]]",
+      "previous_ru": "[[5103]] мечтал об этом\nмире. Ты это знаешь...[[4F]][[42]]И всё равно хочешь его\nразрушить?[[4F]][[42]]Я думала, тебе здесь\nтоже лучше.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/19",
+      "ru": "Здесь тебя не дразнят и не зовут «новеньким», верно?[[4F]][[42]]Разве ты не хотел бы кое-что изменить, будь у тебя шанс?[[4F]][[42]]Хотя бы ради брата?..[[40]][[42]]",
+      "previous_ru": "Здесь тебя не дразнят\nи не зовут\n«новеньким», верно?[[4F]][[42]]Разве ты не хотел бы\nкое-что изменить,\nбудь шанс?[[4F]][[42]]Например, что-то\nсделать для брата?..[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/21",
+      "ru": "Хоть тысячу раз спроси. Ответ всё равно будет «нет».[[40]][[42]]",
+      "previous_ru": "Хоть тысячу раз спроси\n— ответ всё равно\n«нет».[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/33",
+      "ru": "А может, я ещё встану на сторону [[5103]]а![[4F]][[42]]Тогда мы будем врагами. Понял?[[40]][[42]]",
+      "previous_ru": "Может, [[5103]] ещё\nстанет моим\nсоюзником![[4F]][[42]]Тогда мы будем\nврагами. Понял?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/40",
+      "ru": "Пока сама не научилась, мне их красила мама.[[4F]][[42]]И вот этого... я не могла выносить.[[40]][[42]]",
+      "previous_ru": "Пока я не научилась,\nих красила мама.[[4F]][[42]]И этого... я не могла\nвынести.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/17/45",
+      "ru": "Уж лучше пусть дразнят «седой», чем видеть её такой...[[4F]][[42]]Ей-то о чём плакать? У неё обычные волосы![[40]][[42]]",
+      "previous_ru": "Уж лучше бы меня\nдразнили «седой», чем\nвидеть её лицо...[[4F]][[42]]Ей-то о чём плакать? У\nнеё обычные волосы![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/18/12",
+      "ru": "Судьи обыскивают один клан за другим.[[40]][[42]]",
+      "previous_ru": "Судьи обыскивают\nкланы один за другим.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/18/22",
+      "ru": "Не прикидывайся невиновным, мугл![[40]][[42]]",
+      "previous_ru": "Не строй из себя\nневинного, мугл![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/18/26",
+      "ru": "Для меня вполне. А теперь пошёл, и без шума![[40]][[42]]",
+      "previous_ru": "Для меня повод. А\nтеперь ступай без\nшума![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/18/28",
+      "ru": "[[103]]Видно, они уже даже не заботятся о приличиях...[[40]][[42]]",
+      "previous_ru": "[[103]]Видимо, они уже и\nприличий не\nсоблюдают...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/18/37",
+      "ru": "Немедленно позовите верховного судью! [[5106]] меня знает![[4F]][[42]]Он подтвердит, кто я![[40]][[42]]",
+      "previous_ru": "Позовите верховного\nсудью! Его имя —\n[[5106]]![[4F]][[42]]Он меня знает! Он\nподтвердит, кто я![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/18",
+      "ru": "Прими то, где ты оказался и кем стал.[[4F]][[42]]Со временем ты забудешь тот мир, о котором говоришь.[[40]][[42]]",
+      "previous_ru": "Прими то, где ты\nсейчас и кем стал.[[4F]][[42]]Со временем ты\nзабудешь тот мир, о\nкотором говоришь.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/24",
+      "ru": "[[5103]] должен вернуться и жить настоящей жизнью![[4F]][[42]]Если он так и останется здесь...[[40]][[42]]",
+      "previous_ru": "[[5103]] должен\nвернуться к настоящей\nжизни, не к этой![[4F]][[42]]Если он останется\nздесь...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/29",
+      "ru": "Похожи на деревья. Это и есть тотема?![[4F]][[42]]Напоминает Ультиму.[[4F]][[42]]Наверное, достаточно уничтожить все эти плоды...![[40]][[42]]",
+      "previous_ru": "Похожи на деревья.\nЭто и есть тотема?![[4F]][[42]]Напоминает Ультиму.[[4F]][[42]]Если я уничтожу все\nэти плоды...![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/33",
+      "ru": "Вовсе нет. Я всегда боюсь.[[4F]][[42]]Но... нельзя сдаваться из-за страха.[[40]][[42]]",
+      "previous_ru": "Вовсе нет. Я всегда\nбоюсь.[[4F]][[42]]Но... нельзя позволять\nстраху меня\nостанавливать.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/38",
+      "ru": "Как целый мир может быть бегством от действительности?[[40]][[42]]",
+      "previous_ru": "Как целый мир может\nбыть чьей-то попыткой\nубежать?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/59",
+      "ru": "[[5103]] не хотел с этим мириться...[[4F]][[42]]Его родной отец... Рыдает в сточной канаве.[[4F]][[42]]Вот почему здесь он сделал меня верховным судьёй.[[40]][[42]]",
+      "previous_ru": "[[5103]] не хотел с этим\nмириться...[[4F]][[42]]Его родной отец...\nПлакал где-то в канаве.[[4F]][[42]]Вот почему здесь он\nсделал меня верховным\nсудьёй.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/64",
+      "ru": "Он не должен видеть меня здесь — своего ненастоящего отца.[[4F]][[42]][[5103]]... Думаю, так будет лучше и ему, и мне.[[4F]][[42]]Я немедленно отправлюсь во дворец и сообщу о решении.[[40]][[42]]",
+      "previous_ru": "Ему не следует видеть\nздесь меня — ложного\nотца.[[4F]][[42]][[5103]]... Думаю, так\nбудет лучше и ему, и\nмне.[[4F]][[42]]Я немедленно\nотправлюсь во дворец и\nсообщу о решении.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/68",
+      "ru": "Пока я не могу судить...[[4F]][[42]]Несёт ли он угрозу [[5103]]у и нашей стране.[[40]][[42]]",
+      "previous_ru": "Пока я не могу судить,\nопасен ли этот\nмальчик.[[4F]][[42]][[5103]]... Вредит ли он\nпринцу и этой земле?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/19/97",
+      "ru": "Его зовут [[510D]]. Он будет слугой [[5103]]а.[[40]][[42]]",
+      "previous_ru": "Его зовут [[510D]].\nТеперь [[5103]] будет\nпод его опекой.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/21/9",
+      "ru": "Да. Он многое знал![[4F]][[42]]Сстранно, что так мало сспросил![[40]][[42]]",
+      "previous_ru": "Да. Он многое знал![[4F]][[42]]С-странно, что так\nмало с-просил![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/22/14",
+      "ru": "Но это последний! Только так я попаду домой![[40]][[42]]",
+      "previous_ru": "Но это последний! Без\nнего мне домой не\nпопасть![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/22/22",
+      "ru": "О нет! Только не снова![[40]][[42]]",
+      "previous_ru": "О нет, только не опять![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/8",
+      "ru": "Что-то ты сам не уверен. Может, бросишь эту затею?[[4F]][[42]]Вернёшься — и снова станешь обычным мальчишкой![[40]][[42]]",
+      "previous_ru": "Что-то ты не уверен.\nПочему бы не бросить\nэту затею?[[4F]][[42]]Вернёшься — и снова\nстанешь обычным\nмальчишкой![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/26",
+      "ru": "Замолчи! Я не такой! Я вовсе не сильный![[40]][[42]]",
+      "previous_ru": "Замолчи! Я не сильный!\nНе сильный![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/27",
+      "ru": "Зря ты так себя сдерживаешь.[[4F]][[42]]Вечно слушаешь только разум и отказываешься от того, чего хочешь![[40]][[42]]",
+      "previous_ru": "Не стоит так себя\nсдерживать.[[4F]][[42]]Вечно всё обдумываешь\nи отказываешь себе в\nжелаемом![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/43",
+      "ru": "Я пойду к принцу. Мне нужен [[5103]].[[4F]][[42]]Поговорю с ним. А потом... Не знаю.[[40]][[42]]",
+      "previous_ru": "Нужен [[5103]]. Пойду к\nнему.[[4F]][[42]]Поговорю с ним. А\nпотом... Не знаю.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/52",
+      "ru": "[[103]]Купо... Наверное, о дне подарков, купо.[[40]][[42]]",
+      "previous_ru": "[[103]]Купо... Наверное, о дне\nподарков.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/23/64",
+      "ru": "Его настоящее название — «день аудиенций».[[4F]][[42]]Но все наперебой стараются принести лучший подарок...[[4F]][[42]]Вот и прозвали его «днём подарков».[[40]][[42]]",
+      "previous_ru": "Вообще-то он зовётся\n«день аудиенций».[[4F]][[42]]Но все наперебой\nстараются принести\nлучший подарок...[[4F]][[42]]Вот и прозвали его\n«днём подарков».[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/24/10",
+      "ru": "Я всё знаю о твоих планах.[[4F]][[42]]Ты хочешь сделать из него подарок для [[5103]]а, да?[[40]][[42]]",
+      "previous_ru": "Я всё знаю о твоих\nпланах.[[4F]][[42]]Из этого будет подарок\nпринцу. [[5103]] получит\nего, да?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/24/18",
+      "ru": "А я не хочу! Ни за что не хочу назад![[4F]][[42]]Поэтому я тебя остановлю![[40]][[42]]",
+      "previous_ru": "А я не хочу! Я никогда\nне вернусь![[4F]][[42]]Поэтому я тебя\nостановлю![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/25/1",
+      "ru": "Трудно, когда за мою голову всё ещё дают награду![[4F]][[42]]Может, хоть переодеться, чтобы не узнали?[[40]][[42]]",
+      "previous_ru": "Трудно, когда дворец\nвсё ещё ищет меня за\nнаграду![[4F]][[42]]Может, хоть\nпереодеться, чтобы не\nузнали?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/25/12",
+      "ru": "[[101]]Не может быть! Столько усилий — и всё зря, купо![[40]][[42]]",
+      "previous_ru": "[[101]]Не может быть! После\nвсего, что мы прошли,\nкупо![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/25/23",
+      "ru": "Я должен найти [[5103]]а... Нельзя останавливаться.[[4F]][[42]]Я должен с ним поговорить![[40]][[42]]",
+      "previous_ru": "Мне нужен [[5103]]...\nНельзя\nостанавливаться.[[4F]][[42]]Я должен с ним\nпоговорить![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: source/context editorial review of story pages 15–25; preserve event controls, resolve fixed-name widths."
+    },
+    {
+      "id": "s_text/20/1",
+      "ru": "Он вссё подробно рассказал. Я ему верю.[[40]][[42]]",
+      "previous_ru": "Он вс-сё подробно\nрас-сказал. Я ему\nверю.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: consistent Bangaa sibilants without misleading stutter hyphens."
+    },
+    {
+      "id": "s_text/20/5",
+      "ru": "Да! Нам ссказали, что ты придёшь ссюда![[40]][[42]]",
+      "previous_ru": "Да! Нам с-сказали, что\nты придёшь с-сюда![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: consistent Bangaa sibilants without misleading stutter hyphens."
+    },
+    {
+      "id": "s_text/21/4",
+      "ru": "За него принц насс щедро наградит![[4F]][[42]]Хватайте его![[40]][[42]]",
+      "previous_ru": "За него принц нас-с\nщедро наградит![[4F]][[42]]Хватайте его![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: consistent Bangaa sibilants without misleading stutter hyphens."
+    },
+    {
+      "id": "s_text/21/7",
+      "ru": "Прости, но я мало что знаю...[[4F]][[42]]Он предложил продать нам ссведения о беглеце. О тебе.[[40]][[42]]",
+      "previous_ru": "Прос-сти, но я мало\nчто знаю...[[4F]][[42]]Он предложил продать\nнам с-сведения о\nбеглеце. О тебе.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: consistent Bangaa sibilants without misleading stutter hyphens."
+    },
+    {
+      "id": "s_text/21/11",
+      "ru": "Нет. Прости, малец.[[40]][[42]]",
+      "previous_ru": "Нет. Прос-сти, малец.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: consistent Bangaa sibilants without misleading stutter hyphens."
+    },
+    {
+      "id": "s_text/19/99",
+      "ru": "Я [[510D]] Твем. Служить вам — честь для меня.[[40]][[42]]",
+      "previous_ru": "Я [[510D]] Твем. Служить\nвам — честь для меня.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: wrap with actual fixed-name widths; wording unchanged."
+    },
+    {
+      "id": "s_text/22/15",
+      "ru": "[[510D]]... От него мороз по коже.[[4F]][[42]]Что имел в виду [[5106]]? Почему мне его не победить?[[40]][[42]]",
+      "previous_ru": "[[510D]]... От него мороз\nпо коже.[[4F]][[42]]Что имел в виду\n[[5106]]? Почему мне его\nне победить?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B009: wrap with actual fixed-name widths; wording unchanged."
+    }
+  ]
+}

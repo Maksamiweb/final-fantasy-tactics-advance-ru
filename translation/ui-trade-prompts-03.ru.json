@@ -1,0 +1,68 @@
+{
+  "batch": "UI-B003",
+  "entries": [
+    {
+      "id": "fx_text/1/0",
+      "ru": "Выбросить [[421]]?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Выбросить предмет\n[[421]]?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 176,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/10",
+      "ru": "Без отмены. Далее?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Изменения\nнеобратимы. Далее?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/19",
+      "ru": "Исключить бойца?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Исключить бойца из\nклана?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/32",
+      "ru": "Заменить запись?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Перезаписать старые\nданные?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/39",
+      "ru": "Порядок предметов?\n[[3210]]Авто/[[EOS]]Вручную[[EOS]][[42]]",
+      "previous_ru": "Как сортировать эту\nкатегорию?\n[[3210]]Авто/[[EOS]]Вручную[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/42",
+      "ru": "В меню клана?\n[[3210]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Вернуться в меню\nклана?\n[[3210]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    },
+    {
+      "id": "fx_text/1/44",
+      "ru": "Стереть сохранения?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "previous_ru": "Стереть все\nсохранения?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 156,
+      "max_lines": 2,
+      "layout_profile": "fixed_coordinates_unverified",
+      "revision_note": "Preserve source prompt line count before choice control; extra wrapped line hid Yes/No in native overwrite prompt."
+    }
+  ]
+}

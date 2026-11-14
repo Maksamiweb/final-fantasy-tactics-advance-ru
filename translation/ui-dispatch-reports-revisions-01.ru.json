@@ -1,0 +1,86 @@
+{
+  "batch": "UI-DISPATCH-REPORTS-01",
+  "entries": [
+    {
+      "id": "fx_text/9/3",
+      "ru": "[[4600]][[41C]]\nВзнос[[1D1F]]: [[1D02]][[41B]]\nБоец: [[1D02]][[414]]\nПредм.[[1D13]]: [[1D02]][[422]]\n[[1D34]]: [[1D02]][[423]]\nЦель[[1D02]]: [[1D02]][[487]]\nСрок: [[1D02]][[41D]] дн.\n[[56]][[42]]",
+      "font_profile": "compact_ui",
+      "layout_profile": "fixed_coordinates_unverified",
+      "max_width": 216,
+      "max_lines": 8
+    },
+    {
+      "id": "fx_text/11/38",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]]\nНу, ужасно![[56]][[42]]",
+      "layout_profile": "dialogue",
+      "max_width": 156,
+      "max_lines": 3,
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "measure_control_offsets": true,
+      "source_sha256": "3f39a7328d31aba01d2501dfae4e417477ea8f3debcbf8596dc789174f03a78b",
+      "runtime_verified": false,
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "pages:condi/1",
+      "ru": "Отпр.[[1D03]]дней: [[41E]][[42]]",
+      "font_profile": "compact_ui",
+      "layout_profile": "single_line_unverified",
+      "max_width": 128,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:condi/2",
+      "ru": "Отпр.[[1D03]]боёв: [[41E]][[42]]",
+      "font_profile": "compact_ui",
+      "layout_profile": "single_line_unverified",
+      "max_width": 128,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:condi/3",
+      "ru": "Отпр.[[1D03]]врагов: [[41E]][[42]]",
+      "font_profile": "compact_ui",
+      "layout_profile": "single_line_unverified",
+      "max_width": 128,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:condi/8",
+      "font_profile": "compact_ui",
+      "max_width": 156,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:condi/9",
+      "font_profile": "compact_ui",
+      "max_width": 156,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:condi/10",
+      "font_profile": "compact_ui",
+      "max_width": 156,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/732",
+      "ru": " гил",
+      "max_width": 156,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified"
+    },
+    {
+      "id": "words:system/11",
+      "ru": " гил",
+      "max_width": 156,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified"
+    }
+  ]
+}

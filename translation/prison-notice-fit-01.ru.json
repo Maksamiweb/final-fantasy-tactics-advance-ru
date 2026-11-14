@@ -1,0 +1,11 @@
+{
+  "entries": [
+    {
+      "id": "fx_text/1/9",
+      "ru": "Боец выпущен\nиз тюрьмы![[42]]",
+      "max_width": 120,
+      "max_lines": 2,
+      "layout_profile": "dialogue"
+    }
+  ]
+}

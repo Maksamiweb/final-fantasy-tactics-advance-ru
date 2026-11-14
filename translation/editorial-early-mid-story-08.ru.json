@@ -1,0 +1,659 @@
+{
+  "batch": "ED-B008",
+  "entries": [
+    {
+      "id": "s_text/2/2",
+      "ru": "Ссмотри, куда идёшь, малец![[40]][[42]]",
+      "previous_ru": "Ссмотри, куда идёшшь,\nмалец![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/7",
+      "ru": "Ну и наглоссть — назвать бангаа ящерицей![[40]][[42]]",
+      "previous_ru": "Надо жже набраться\nнаглоссти — назвать\nбангаа ящерицей![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/15",
+      "ru": "[[103]]Простите его. Он ещё не привык к бангаа.[[40]][[42]]",
+      "previous_ru": "[[103]]Простите его. Он ещё\nне привык видеть\nбангаа.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/18",
+      "ru": "Эта одежда... Ты ведь ссолдат?[[40]][[42]]",
+      "previous_ru": "Эта одежжда... Ты ведь\nссолдат?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/20",
+      "ru": "Да... От небольшой ссхватки не откажешься?[[40]][[42]]",
+      "previous_ru": "Да... Так от ссхватки\nне откажжешься?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/28",
+      "ru": "Ну да... То есть нет. По крайней мере, не настоящего.[[40]][[42]]",
+      "previous_ru": "Ну... Да. То есть нет.\nЖивого — точно нет.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/30",
+      "ru": "Я... Не знаю. У меня всё в голове перемешалось.[[4F]][[42]]И вдобавок я разговариваю с плюшевой игрушкой![[40]][[42]]",
+      "previous_ru": "Я... Не знаю. Всё так\nзапуталось.[[4F]][[42]]И вдобавок я говорю с\nплюшевой игрушкой![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/42",
+      "ru": "Игра называется «Final Fantasy». Это всё выдумка.[[4F]][[42]]Воображаемый мир с героями и чудовищами...[[40]][[42]]",
+      "previous_ru": "Игра называется Final\nFantasy. Это всё\nвыдумка.[[4F]][[42]]Выдуманный мир с\nгероями и\nчудовищами...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/47",
+      "ru": "[[101]]Нет, купо! Таких историй я ещё не слышал![[40]][[42]]",
+      "previous_ru": "[[101]]Нет, это самая\nкупо-история, что я\nслышал![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/56",
+      "ru": "Ух ты... Все такие грозные![[40]][[42]]",
+      "previous_ru": "Ух ты... Все такие\nкрепкие![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/64",
+      "ru": "[[103]]Мы с ребятами тебе поможем![[4F]][[42]][[103]]Может, и дорогу домой тебе отыщем, купо![[40]][[42]]",
+      "previous_ru": "[[103]]Мы с ребятами тебе\nпоможем![[4F]][[42]][[103]]Может, и дорогу домой\nнайдём, купо![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/69",
+      "ru": "[[102]]В честь твоего вступления в клан![[4F]][[42]][[101]]Придумай что-нибудь славное, купо![[40]][[42]]",
+      "previous_ru": "[[102]]В честь твоего\nвступления в клан![[4F]][[42]][[101]]Придумай что-нибудь\nкупо![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/2/73",
+      "ru": "[[101]]Да ты мастер замечать очевидное, купо![[4F]][[42]][[102]]Вот судья. Законы на сегодня уже определены.[[40]][[42]]",
+      "previous_ru": "[[101]]Какой ты догадливый,\nкупо![[4F]][[42]][[102]]Вот судья. Законы на\nсегодня уже\nопределены.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/3/0",
+      "ru": "[[102]]Купо? Нашёл подходящее задание, купо?[[40]][[42]]",
+      "previous_ru": "[[102]]Купо? Нашёл хорошее\nзадание, купо?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/3/1",
+      "ru": "Да, нашёл одно. Вроде несложное.[[40]][[42]]",
+      "previous_ru": "Да, одно вроде совсем\nнесложное.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/4/11",
+      "ru": "Сейчас не до этого! Давай вернём украденный труд![[40]][[42]]",
+      "previous_ru": "Сейчас это неважно!\nДавай вернём\nукраденное![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/4/19",
+      "ru": "Ага, все на месте![[4F]][[42]]Вернём труд владельцу, и дело сделано![[40]][[42]]",
+      "previous_ru": "Ага, все на месте![[4F]][[42]]Осталось вернуть труд\n— и дело сделано![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/4/36",
+      "ru": "Я уже немного освоился с работой клана...[[4F]][[42]]Пожалуй, возьмусь ещё за несколько заданий.[[40]][[42]]",
+      "previous_ru": "Теперь, когда я\nосвоился с работой в\nклане...[[4F]][[42]]Пожалуй, возьмусь ещё\nза несколько заданий.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/4/42",
+      "ru": "Вещи дешевле, да и в трактирах скидки.[[40]][[42]]",
+      "previous_ru": "Вещи дешевле, да и в\nтавернах скидки.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/5/2",
+      "ru": "Что же мы за клан, если сдадимся?[[40]][[42]]",
+      "previous_ru": "Тогда что бы мы были\nза клан?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/5/19",
+      "ru": "Забавно: теперь ты за меня волнуешься, [[400]].[[4F]][[42]]Но спасибо. Ты здорово помог.[[40]][[42]]",
+      "previous_ru": "Забавно, что ты за\nменя волнуешься,\n[[400]].[[4F]][[42]]Но всё равно спасибо.\nТы очень помог.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events.",
+      "max_player_name_width": 81,
+      "long_name_revision_note": "LN-B001: nine native keyboard characters x max9px =81px; verified via actual WWWWWWWWW entry. Other dynamic fields remain provisional."
+    },
+    {
+      "id": "s_text/5/24",
+      "ru": "Я думала, ты-то уж точно догадался![[4F]][[42]]Это «Final Fantasy» — игра! Только всё настоящее![[40]][[42]]",
+      "previous_ru": "Я думала, ты-то уж\nточно догадался![[4F]][[42]]Это Final Fantasy —\nигра! Только всё\nнастоящее![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/6/3",
+      "ru": "Да, выполнять задания интересно, правда?[[4F]][[42]]В моём мире я бы так не смог.[[40]][[42]]",
+      "previous_ru": "Да, выполнять задания\nинтересно, правда?[[4F]][[42]]В моём мире я бы таким\nникогда не занялся.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/6/16",
+      "ru": "Я знаю. Просто... иногда это трудно принять.[[40]][[42]]",
+      "previous_ru": "Я знаю. Просто...\nиногда с этим трудно\nсмириться.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/6/36",
+      "ru": "Понимаете, кристаллы создали во дворце. В них заключена магия...[[4F]][[42]]Такая сильная, что влияет на окрестных животных.[[40]][[42]]",
+      "previous_ru": "Понимаете, кристаллы\nсоздали во дворце. В\nних магия...[[4F]][[42]]Такая сильная, что\nвлияет на окрестных\nживотных.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/11",
+      "ru": "Значит, магия кристалла искривляла реку.[[4F]][[42]]Слухи оказались правдой! Искажение вело сюда![[40]][[42]]",
+      "previous_ru": "Значит, река\nискривлялась из-за\nмагии кристалла.[[4F]][[42]]Слухи были правдой!\nИскажение вело сюда![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/18",
+      "ru": "Я — тотема [[5116]].[[4F]][[42]]Я владею силой. Я — хранитель.[[40]][[42]]",
+      "previous_ru": "Я — тотема [[5116]].[[4F]][[42]]Я — носитель силы. Я —\nхранитель.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/20",
+      "ru": "Он думает, я явился за кристаллом![[40]][[42]]",
+      "previous_ru": "Он думает, что мне\nнужен кристалл![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/28",
+      "ru": "Что это за кристалл? Скажи мне![[4F]][[42]]Почему так важно его защитить?![[40]][[42]]",
+      "previous_ru": "Что это за кристалл?\nСкажи мне![[4F]][[42]]Зачем так отчаянно его\nзащищать?![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/31",
+      "ru": "Умелые механики. Они — источник моей силы.[[40]][[42]]",
+      "previous_ru": "Искусными\nмеханиками. Они —\nисточник моей силы.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/7/55",
+      "ru": "...Понятно.[[4F]][[42]]Тогда уж никто не возразит против ужесточения законов.[[40]][[42]]",
+      "previous_ru": "...Понятно.[[4F]][[42]]Тогда против строгих\nзаконов никто не\nвозразит.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/8",
+      "ru": "Слыхал, что болтают?[[40]][[42]]",
+      "previous_ru": "Слыхал последний\nслух?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/24",
+      "ru": "Схватить его! Можете переломать ему что угодно![[4F]][[42]]Только голова должна остаться целой![[40]][[42]]",
+      "previous_ru": "Схватить его! Можете\nпереломать ему что\nугодно![[4F]][[42]]Только голову не\nтрогайте![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/25",
+      "ru": "Прошу, полегче со мной![[4F]][[42]]Я ведь чувствительная натура![[40]][[42]]",
+      "previous_ru": "Прошу, полегче со\nмной![[4F]][[42]]Я ведь человек\nчувствительный![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/28",
+      "ru": "Что ж, мугл уже выскочил из мешка.[[40]][[42]]",
+      "previous_ru": "Что ж, мугла в мешке\nбольше не спрячешь.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/30",
+      "ru": "Небольшое недоразумение по работе...[[4F]][[42]]Запросил сто тысяч гил — а меня обозвали обдиралой![[40]][[42]]",
+      "previous_ru": "Небольшое\nнедоразумение по\nработе...[[4F]][[42]]Запросил сто тысяч гил\n— и меня зовут\nвымогателем![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/46",
+      "ru": "При всём уважении, я вынужден отказаться.[[4F]][[42]]Простите, но судьи меня раздражают![[40]][[42]]",
+      "previous_ru": "С почтением вынужден\nотказаться.[[4F]][[42]]Простите, но судьи\nменя раздражают![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/47",
+      "ru": "А, высший закон! Только для верховного судьи.[[4F]][[42]]Стоит применить хоть одну способность — и я в тюрьме![[4F]][[42]]Так и дрожу от страха![[40]][[42]]",
+      "previous_ru": "А, высший закон!\nТакие есть лишь у\nверховного судьи.[[4F]][[42]]Стоит применить хоть\nодну способность — и я\nв тюрьме![[4F]][[42]]Так и дрожу от страха![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/57",
+      "ru": "Да уж, незаурядная я личность.[[4F]][[42]]Но чтобы ко мне сам верховный судья пожаловал![[40]][[42]]",
+      "previous_ru": "Да, я ещё и не на такое\nспособен.[[4F]][[42]]Но чтобы сам\nверховный судья\nпожаловал![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/58",
+      "ru": "[[510A]], вам не кажется, что вы зашли слишком далеко?[[40]][[42]]",
+      "previous_ru": "[[510A]], вам это точно\nпо силам?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/59",
+      "ru": "Нет-нет! Это ОНИ зашли слишком далеко![[4F]][[42]]Принимают законы, даже не спрашивая нашего мнения.[[4F]][[42]]К тому же злить судей антизаконами весело![[40]][[42]]",
+      "previous_ru": "Нет-нет! Это ОНИ\nзашли слишком далеко![[4F]][[42]]Принимают свои\nзаконы, не спросив\nнашего мнения.[[4F]][[42]]К тому же злить судей\nантизаконами весело![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/8/64",
+      "ru": "Что? Папа [[5103]]а — верховный судья?[[40]][[42]]",
+      "previous_ru": "Что? [[5103]] — сын\nверховного судьи?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/10/4",
+      "ru": "Это место совсем не похоже на предыдущее...[[4F]][[42]]Может, и этот кристалл не такой, как первый?[[40]][[42]]",
+      "previous_ru": "Это место совсем не\nпохоже на\nпредыдущее...[[4F]][[42]]Может, и этот\nкристалл отличается от\nтого?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/10/21",
+      "ru": "Похоже, этот мир — отражение желаний [[5103]]а![[4F]][[42]]Его мама жива, все его слушаются...[[4F]][[42]]Я живу в мире грёз [[5103]]а![[40]][[42]]",
+      "previous_ru": "Значит, [[5103]] пожелал\nэтого... И мир стал\nтаким![[4F]][[42]]Его мама жива, все его\nслушаются...[[4F]][[42]]Я в мире, о котором\nмечтал [[5103]]![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/10/22",
+      "ru": "Выходит, если я верну прежний мир...[[4F]][[42]]то разрушу мир его грёз![[4F]][[42]]Вот почему он не хочет, чтобы я здесь был.[[40]][[42]]",
+      "previous_ru": "Выходит, если я верну\nпрежний мир...[[4F]][[42]]То разрушу мир его\nмечты![[4F]][[42]]Неудивительно, что он\nхочет от меня\nизбавиться.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/11/3",
+      "ru": "Верно! Да и продаются недёшево. Выгодное дело![[40]][[42]]",
+      "previous_ru": "И то верно! А\nпродаются за хорошие\nгилы. Вот это дело![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/2",
+      "ru": "Академия едва успела уйти...[[4F]][[42]]А кланы уже тут как тут! Набежали, как стая гиен![[40]][[42]]",
+      "previous_ru": "Академия ещё уйти не\nуспела...[[4F]][[42]]А кланы уже тут как\nтут! Слетелись, как\nстервятники![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/4",
+      "ru": "Я [[5109]], личный маг Его Высочества принца [[5103]]а.[[4F]][[42]]Я исследую эти земли по его личному поручению.[[40]][[42]]",
+      "previous_ru": "Я [[5109]], личный маг\nЕго Высочества. Наш\nпринц — [[5103]].[[4F]][[42]]Я исследую эти земли\nпо его личному\nпоручению.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/5",
+      "ru": "Личный маг [[5103]]а...[[40]][[42]]",
+      "previous_ru": "[[5103]]... Его личный\nмаг...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/8",
+      "ru": "Кто, я? Я... Я ничего не знаю, господин.[[4F]][[42]]Не знал, что он хочет, чтобы этот мир существовал.[[40]][[42]]",
+      "previous_ru": "Кто, я? Я... Я ничего не\nзнаю, господин.[[4F]][[42]]Я и не думал, что он\nхочет жить в этом\nмире.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/10",
+      "ru": "Я не знал, что [[5103]] хотел так изменить мир![[40]][[42]]",
+      "previous_ru": "[[5103]] хотел, чтобы\nмир стал таким? Я не\nзнал![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/15",
+      "ru": "Ивалис — не пустыня, а маленький городок, весь в снегу![[4F]][[42]]Всё перевернулось! Этот мир ненастоящий![[4F]][[42]]Это мир, о котором мечтал [[5103]]! Всё как в игре![[40]][[42]]",
+      "previous_ru": "Ивалис — не пустыня, а\nмаленький городок,\nвесь в снегу![[4F]][[42]]Всё перевернулось!\nЭтот мир ненастоящий![[4F]][[42]][[5103]] его выдумал...\nВсё как в игре![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/12/22",
+      "ru": "Как бы то ни было, принц велел с тобой разобраться.[[4F]][[42]]Ему больно из-за тебя. И эта боль вполне реальна![[40]][[42]]",
+      "previous_ru": "Как бы то ни было,\nпринц велел с тобой\nразобраться.[[4F]][[42]]Ты причиняешь ему\nболь. Для меня этого\nдостаточно![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/13/8",
+      "ru": "Похоже, призрак стал частью силы кристалла![[4F]][[42]]Я слышал, кристаллы состоят из чистой магии...[[4F]][[42]]Но теперь мне кажется, дело не только в ней.[[4F]][[42]]Внутри какая-то невероятная энергия...[[4F]][[42]]Способная создать тотем и все народы этого мира.[[40]][[42]]",
+      "previous_ru": "Значит, призрак стал\nчастью силы кристалла![[4F]][[42]]Я слышал, кристаллы\nсостоят из чистой\nмагии...[[4F]][[42]]Но теперь мне кажется,\nдело не только в ней.[[4F]][[42]]Внутри какая-то\nневероятная энергия...[[4F]][[42]]Способная создать\nтотем и все народы\nэтого мира.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/13/23",
+      "ru": "И ты мучаешь принца... просто так?[[40]][[42]]",
+      "previous_ru": "Ты заставляешь принца\nстрадать... ради\nничего?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/13/24",
+      "ru": "Мне пора. Принц нуждается во мне. Мы ещё встретимся.[[4F]][[42]]В следующий раз я уже не буду столь снисходителен![[40]][[42]]",
+      "previous_ru": "Мне пора. Принц\nнуждается во мне. Мы\nещё встретимся.[[4F]][[42]]И в следующий раз\nпощады не жди![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/5",
+      "ru": "[[101]]Меня протаранили и скрылись, купо![[40]][[42]]",
+      "previous_ru": "[[101]]Столкнулись и\nскрылись, купо![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/6",
+      "ru": "Протаранили и скрылись?[[40]][[42]]",
+      "previous_ru": "Столкнулись и\nскрылись?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/9",
+      "ru": "Кто-то врезался в тебя и удрал? Вот же беда![[40]][[42]]",
+      "previous_ru": "Кто-то врезался в тебя\nи удрал? Вот же\nмерзавцы![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/10",
+      "ru": "[[101]]Беда — не то слово, купо![[4F]][[42]][[101]]Я столько месяцев трудился над кораблём... Купо-о-о![[40]][[42]]",
+      "previous_ru": "[[101]]Мерзавцы — не то\nслово, купо![[4F]][[42]][[101]]Я столько месяцев\nтрудился над\nкораблём... Купо-о-о![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/16",
+      "ru": "[[103]]Место, куда судьям нет хода! Зона без законов![[40]][[42]]",
+      "previous_ru": "[[103]]Место, куда судьи не\nходят! Зона без\nзаконов![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/29",
+      "ru": "Но как же корабль [[510B]]?[[4F]][[42]]Нельзя же всё это спустить им с рук![[40]][[42]]",
+      "previous_ru": "Но [[510B]] потерял\nкорабль![[4F]][[42]]Нельзя же спускать это\nвиновникам с рук![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/14/40",
+      "ru": "Прости, не выйдет. Не после того, что вы сделали с моим другом![[40]][[42]]",
+      "previous_ru": "Прости, не выйдет.\nПосле того, что вы\nсделали с моим другом![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_note": "ED-B008: source/context compared early-mid narrative; preserve capability vs choice, speculation, speaker register, named terms and control/page events."
+    },
+    {
+      "id": "s_text/10/12",
+      "ru": "Тотема [[5116]] говорил, что родился вместе с муглами...[[4F]][[42]]Может, этот кристалл тоже связан с одним из народов?[[4F]][[42]]Но с каким?[[40]][[42]]",
+      "previous_ru": "Тотема [[5116]] говорил,\nчто родился вместе с\nмуглами...[[4F]][[42]]Может, этот кристалл\nтоже связан с одним из\nнародов?[[4F]][[42]]Но с каким?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_kind": "layout_only",
+      "revision_note": "ED-B008: actual fixed-reference width exceeded 156px under old 42px estimate; reflow without wording or event changes."
+    },
+    {
+      "id": "s_text/14/50",
+      "ru": "...? [[5108]]? [[5108]]![[40]][[42]]",
+      "previous_ru": "...? [[5108]]? [[5108]]![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "resolve_fixed_references": true,
+      "revision_kind": "layout_only",
+      "revision_note": "ED-B008: actual fixed-reference width exceeded 156px under old 42px estimate; reflow without wording or event changes."
+    }
+  ]
+}

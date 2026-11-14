@@ -1,0 +1,673 @@
+{
+  "batch": "ED-B007",
+  "entries": [
+    {
+      "id": "s_text/1/19",
+      "ru": "Как же! Вы всё это время целились в [[5103]]а![[40]][[42]]",
+      "previous_ru": "Ага! Только [[5103]] у\nвас всё время под\nприцелом![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/9",
+      "ru": "[[5109]] должен убедиться![[4F]][[42]]Ему нужно знать, не пытаешься ли ты просто сбежать...[[40]][[42]]",
+      "previous_ru": "[[5109]] должен\nубедиться![[4F]][[42]]Он хочет знать, не\nпытаешься ли ты просто\nспрятаться...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/11",
+      "ru": "...Я слышал, этот мир для вас — убежище, грёзы.[[4F]][[42]]Если так, то, возможно, оставаться здесь, в Ивалисе...[[4F]][[42]]будет не лучшим выбором для вас.[[40]][[42]]",
+      "previous_ru": "...Я слышал, этот мир\nдля вас — убежище,\nмечта.[[4F]][[42]]Если так, то,\nвозможно, оставаться\nздесь, в Ивалисе...[[4F]][[42]]Для Вашего Высочества\nбудет не лучшим\nрешением.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/12",
+      "ru": "Разве вы так не думаете?[[4F]][[42]]Вам стоит вернуться и взглянуть правде в глаза.[[40]][[42]]",
+      "previous_ru": "Не кажется ли вам...[[4F]][[42]]Что следует вернуться\nв другой мир и принять\nправду?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/19",
+      "ru": "В глубине души я тоже хочу здесь остаться...[[4F]][[42]]Иначе, разбив последний кристалл...[[4F]][[42]]я уже вернулся бы домой.[[40]][[42]]",
+      "previous_ru": "В глубине души я тоже\nхочу здесь остаться...[[4F]][[42]]Иначе, разбив\nпоследний кристалл...[[4F]][[42]]Я уже оказался бы\nдома.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/20",
+      "ru": "Если... Если я вернусь, надо мной опять будут издеваться! И папа...[[4F]][[42]]Там я ничего не могу изменить! Мне нужна магия![[40]][[42]]",
+      "previous_ru": "Если... Если я вернусь,\nменя опять будут\nдразнить! И папа...[[4F]][[42]]Там я ничего не могу\nизменить! Мне нужна\nмагия![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/25",
+      "ru": "Зачем ты тащишь [[5103]]а назад против его воли?[[40]][[42]]",
+      "previous_ru": "Почему [[5103]] должен\nвернуться против воли?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/32",
+      "ru": "С дороги, [[510D]]! Если ты верен принцу...[[4F]][[42]]не дай ему с королевой уйти![[40]][[42]]",
+      "previous_ru": "Прочь, [[510D]]! Если ты\nправда верен принцу...[[4F]][[42]]То не дашь им с\nкоролевой уйти![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/35",
+      "ru": "[[5109]]! Догони их! С этим я справлюсь![[40]][[42]]",
+      "previous_ru": "[[5109]]! Беги за ними!\nЭтого оставь мне![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/36",
+      "ru": "[[5106]] уже вызван. Он скоро будет здесь.[[4F]][[42]]Продержись до его прихода![[40]][[42]]",
+      "previous_ru": "Я послал за ним. [[5106]]\nскоро будет здесь.[[4F]][[42]]Продержись до его\nприхода![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/37",
+      "ru": "Он скоро будет здесь! А пока сражайся изо всех сил![[40]][[42]]",
+      "previous_ru": "Ждать недолго!\nДержись и сражайся![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/45",
+      "ru": "...Повезло тебе. Я уже собирался тебя прикончить.[[40]][[42]]",
+      "previous_ru": "...Удачно подоспели. Я\nкак раз собирался его\nприкончить.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/50",
+      "ru": "Я думал, он служит [[5103]]у, как [[5109]]...[[4F]][[42]]Но он совсем другой... Мне от него не по себе.[[40]][[42]]",
+      "previous_ru": "Я думал, [[5103]] взял\nего в свиту, как и\n[[5109]]...[[4F]][[42]]Но он ведёт себя\nсовсем иначе... И\nпугает меня.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/53",
+      "ru": "Вернее, он — воплощение части [[5103]]а...[[4F]][[42]]Самой жестокой и опасной.[[40]][[42]]",
+      "previous_ru": "[[5103]]... Вернее, это\nвоплощение части его\nнатуры...[[4F]][[42]]Самую жестокую и\nопасную.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/55",
+      "ru": "[[510D]] подобен тотемам.[[4F]][[42]]Он создан защищать [[5103]]а и кристаллы.[[40]][[42]]",
+      "previous_ru": "[[510D]] подобен\nтотемам.[[4F]][[42]]Он создан для защиты.\n[[5103]] и кристаллы —\nего забота.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/58",
+      "ru": "Я тоже отправлюсь искать [[5103]]а.[[40]][[42]]",
+      "previous_ru": "[[5103]]... Я тоже\nотправлюсь на его\nпоиски.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/59",
+      "ru": "Я оставлю поиски вам и [[5109]]у.[[4F]][[42]]Даже не знаю, с чего начать.[[40]][[42]]",
+      "previous_ru": "Пусть поисками\nзаймётесь вы и [[5109]].[[4F]][[42]]Я бы даже не знал, с\nчего начать.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/60",
+      "ru": "А я пока поговорю с Донедом и [[5104]].[[4F]][[42]]Их тоже нужно убедить.[[40]][[42]]",
+      "previous_ru": "Донед и [[5104]]... А я\nпока поговорю с ними.[[4F]][[42]]Их тоже нужно\nубедить.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/26/67",
+      "ru": "После того как он порвал с дворцом? Вряд ли.[[40]][[42]]",
+      "previous_ru": "После того, как он\nпорвал с дворцом?\nВряд ли.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/5",
+      "ru": "Вообще-то я соврал.[[4F]][[42]]Я просто хочу, чтобы [[5107]] обратил на меня внимание.[[40]][[42]]",
+      "previous_ru": "Вообще-то я соврал.[[4F]][[42]][[5107]]... Я просто хочу\nпривлечь его внимание.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/9",
+      "ru": "Когда он услышит, что я ищу мифрил...[[4F]][[42]]он уж точно не удержится и вмешается![[40]][[42]]",
+      "previous_ru": "Услышит, что я ищу\nмифрил...[[4F]][[42]]И не удержится:\nобязательно\nвмешается![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/11",
+      "ru": "[[101]]Ты изменился, [[400]].[[4F]][[42]][[103]]С тех пор как мы встретились, ты сильно повзрослел, купо.[[40]][[42]]",
+      "previous_ru": "[[101]]Ты изменился, [[400]].[[4F]][[42]][[103]]Стал намного взрослее\nс нашей первой\nвстречи, купо.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true,
+      "max_player_name_width": 81,
+      "long_name_revision_note": "LN-B001: nine native keyboard characters x max9px =81px; verified via actual WWWWWWWWW entry. Other dynamic fields remain provisional."
+    },
+    {
+      "id": "s_text/27/15",
+      "ru": "Честно говоря, я и сейчас не понимаю, что происходит.[[4F]][[42]]Но знаю: пока я по-настоящему хочу вернуться домой...[[4F]][[42]]я вернусь. Сколько бы времени ни понадобилось.[[40]][[42]]",
+      "previous_ru": "Честно говоря, я и\nсейчас не понимаю, что\nпроисходит.[[4F]][[42]]Но знаю: пока я\nпо-настоящему хочу\nдомой...[[4F]][[42]]То смогу вернуться.\nСколько бы времени ни\nпрошло.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/20",
+      "ru": "Вообще-то дело не только в руде.[[4F]][[42]]Я хочу выманить брата и поговорить с ним.[[40]][[42]]",
+      "previous_ru": "Вообще-то я ищу её и\nпо другой причине.[[4F]][[42]]Хочу выманить брата и\nпоговорить с ним.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/23",
+      "ru": "Ну, как бы то ни было, удачи тебе.[[4F]][[42]]И не ссорься с братом. Всё-таки вы родные.[[40]][[42]]",
+      "previous_ru": "Какова бы ни была\nпричина, желаю удачи.[[4F]][[42]]И не ссорься с братом.\nВы же родные.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/29",
+      "ru": "Ха! Не прикидывайся! Мы знаем, зачем ты здесь, [[400]]![[40]][[42]]",
+      "previous_ru": "Ха! Не выйдет! Мы\nзнаем, зачем ты здесь,\n[[400]]![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true,
+      "max_player_name_width": 81,
+      "long_name_revision_note": "LN-B001: nine native keyboard characters x max9px =81px; verified via actual WWWWWWWWW entry. Other dynamic fields remain provisional."
+    },
+    {
+      "id": "s_text/27/32",
+      "ru": "Кажется, [[5107]] меня всё-таки заметил...[[4F]][[42]]Он должен быть где-то рядом.[[40]][[42]]",
+      "previous_ru": "[[5107]]... Похоже, мой\nплан сработал.[[4F]][[42]]Он должен быть где-то\nрядом.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/39",
+      "ru": "А здесь у меня тоже всё это есть! В этом мире![[40]][[42]]",
+      "previous_ru": "А здесь и я могу всё\nэто! В этом мире![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/44",
+      "ru": "Что же? Чего у тебя нет?![[4F]][[42]]Только не говори, что тебе ещё чего-то не хватает![[40]][[42]]",
+      "previous_ru": "Что же? Чего у тебя\nнет?![[4F]][[42]]Скажешь, тебе ещё\nчего-то мало?![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/49",
+      "ru": "Я ревновал: всё мамино внимание доставалось тебе...[[4F]][[42]]Особенно когда мы уехали от папы в глубинку.[[4F]][[42]]Я словно остался совсем один.[[40]][[42]]",
+      "previous_ru": "Я завидовал: всё\nмамино внимание\nдоставалось тебе...[[4F]][[42]]Особенно когда мы\nуехали от папы в\nмаленький городок.[[4F]][[42]]Будто я жил совсем\nодин.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/27/55",
+      "ru": "Я же говорил: даже если мир станет прежним...[[4F]][[42]]ты не обязательно потеряешь всё, что обрёл здесь.[[40]][[42]]",
+      "previous_ru": "Я же говорил: даже\nесли всё станет как\nраньше...[[4F]][[42]]Не думаю, что ты\nобязательно потеряешь\nвсё, что нашёл здесь.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/28/1",
+      "ru": "Нет. Верховный [[5117]] [[5106]] говорил: он не уйдёт из дворца...[[4F]][[42]]Куда же он мог деться?[[40]][[42]]",
+      "previous_ru": "Нет. [[5117]] [[5106]]\nговорил: он не уйдёт из\nдворца...[[4F]][[42]]Куда же он мог деться?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/28/7",
+      "ru": "Верховный судья [[5106]]?[[4F]][[42]]Он нашёл [[5103]]а![[40]][[42]]",
+      "previous_ru": "Верховный судья\n[[5106]]?[[4F]][[42]]Нашёлся [[5103]]![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/28/24",
+      "ru": "Конечно. Что нужно?[[40]][[42]]",
+      "previous_ru": "Конечно. Какой?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/29/4",
+      "ru": "Но здесь [[400]] больше не мишень для насмешек.[[40]][[42]]",
+      "previous_ru": "Но здесь-то [[400]] уже\nне терпит насмешек.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true,
+      "max_player_name_width": 81,
+      "long_name_revision_note": "LN-B001: nine native keyboard characters x max9px =81px; verified via actual WWWWWWWWW entry. Other dynamic fields remain provisional."
+    },
+    {
+      "id": "s_text/29/7",
+      "ru": "Я надеялась, нам никогда не придётся встретиться так.[[40]][[42]]",
+      "previous_ru": "Я надеялась, до этого\nне дойдёт.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/29/10",
+      "ru": "Я тоже не отступлю, [[5104]]. Мне надо увидеть [[5103]]а.[[4F]][[42]]Так что я пройду через эту долину.[[40]][[42]]",
+      "previous_ru": "Я тоже не отступлю,\n[[5104]]. Мне нужен\n[[5103]].[[4F]][[42]]Значит, придётся\nпройти через эту\nдолину.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/29/14",
+      "ru": "В этом и радость: пройти игру до конца.[[4F]][[42]]Хотя иногда так не хочется, чтобы она кончалась...[[40]][[42]]",
+      "previous_ru": "В этом тоже\nудовольствие: дойти до\nконца.[[4F]][[42]]Хотя иногда хочется,\nчтобы игра длилась\nподольше...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/29/19",
+      "ru": "Ладно, если ты уверена.[[4F]][[42]]Прости, что спросила, [[5104]].[[40]][[42]]",
+      "previous_ru": "Ладно, лишь бы ты\nбыла спокойна.[[4F]][[42]]Прости за вопрос,\n[[5104]].[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/29/28",
+      "ru": "Прежний [[400]] ни за что бы не справился...[[4F]][[42]]Но теперь он другой. Он изменился.[[4F]][[42]]А я почему так и осталась прежней?[[40]][[42]]",
+      "previous_ru": "Прежний [[400]] не\nсправился бы...[[4F]][[42]]Но теперь он другой.\nОн изменился.[[4F]][[42]]Почему же я не\nизменилась?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true,
+      "max_player_name_width": 81,
+      "long_name_revision_note": "LN-B001: nine native keyboard characters x max9px =81px; verified via actual WWWWWWWWW entry. Other dynamic fields remain provisional."
+    },
+    {
+      "id": "s_text/30/1",
+      "ru": "Древний король воздвиг его с молитвой о мире.[[4F]][[42]]По сути, это скорее часовня, чем дворец.[[40]][[42]]",
+      "previous_ru": "Древний король\nпостроил его как\nмолитву о мире.[[4F]][[42]]Так что это скорее\nчасовня, чем дворец.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/5",
+      "ru": "Он жив. Просто без сознания.[[40]][[42]]",
+      "previous_ru": "Он не мёртв. Всего\nлишь без сознания.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/6",
+      "ru": "Мы хотим увидеть [[5103]]а и королеву. Пропусти нас.[[40]][[42]]",
+      "previous_ru": "Нам нужны [[5103]] и\nкоролева. Пропусти\nнас.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/9",
+      "ru": "Я войду. Я должен увидеть [[5103]]а.[[40]][[42]]",
+      "previous_ru": "Я войду. Мне нужен\n[[5103]].[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/12",
+      "ru": "Хорошо, что я её взял.[[4F]][[42]]Это немного уравняет наши шансы.[[40]][[42]]",
+      "previous_ru": "Хорошо, что я её взял.[[4F]][[42]]Теперь шансы немного\nсравняются.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/15",
+      "ru": "Я отменил закон «Удача», наложенный на тебя королевой.[[4F]][[42]]Теперь ты уязвим, [[510D]].[[40]][[42]]",
+      "previous_ru": "Я отменил закон\n«Удача», наложенный\nна тебя королевой.[[4F]][[42]]Ты больше не\nнеуязвим, [[510D]].[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/19",
+      "ru": "Это его ярость и жестокость, но не весь [[5103]].[[40]][[42]]",
+      "previous_ru": "[[5103]] не весь такой.\nЛишь его ярость и\nжестокость.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/23",
+      "ru": "Ух... Моё тело... Что со мной происходит?[[4F]][[42]]Я должен победить... Не могу проиграть... Не могу...[[4F]][[42]]А-а-а![[40]][[42]]",
+      "previous_ru": "У-у-ух... Моё тело...\nЧто-то странное...[[4F]][[42]]Я должен победить...\nНе могу проиграть... Не\nмогу...[[4F]][[42]]А-а-а![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/30/34",
+      "ru": "Я... Похоже, ранен серьёзнее, чем думал.[[40]][[42]]",
+      "previous_ru": "Я... Ранения, похоже,\nсерьёзнее, чем я думал.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/4",
+      "ru": "Этот мир — иллюзия.[[4F]][[42]]Можно держать его в ладонях и всё же не держать ничего.[[4F]][[42]]Ты... принял это?[[40]][[42]]",
+      "previous_ru": "Этот мир — иллюзия.[[4F]][[42]]Можно держать его в\nладонях — и не\nдержать ничего.[[4F]][[42]]Ты... смирился с этим?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/5",
+      "ru": "Нет, думаю, не принял. Ты ведь всё ещё этого хочешь?[[4F]][[42]]Счастливую семью, силу... Друзей.[[4F]][[42]]Всё это у тебя здесь есть... Вот ты настоящий![[40]][[42]]",
+      "previous_ru": "Нет, думаю, не\nсмирился. Ты всё ещё\nэтого хочешь?[[4F]][[42]]Счастливую семью,\nвласть... Друзей.[[4F]][[42]]Всё это у тебя здесь\nесть... Вот ты\nнастоящий![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/6",
+      "ru": "Да, я всего этого хотел. Но желания — ещё не я.[[4F]][[42]]Здесь мне казалось, будто я стал другим человеком...[[4F]][[42]]Но нет. Я тот же. И мои поступки — часть меня.[[4F]][[42]]Другого «настоящего» меня нет! Я здесь![[40]][[42]]",
+      "previous_ru": "Да, я всего этого\nхотел. Но это не я.[[4F]][[42]]Здесь мне казалось,\nбудто я стал другим\nчеловеком...[[4F]][[42]]Но нет. Я — это я. Я —\nвсё, что совершил.[[4F]][[42]]Нет другого\n«настоящего» меня! Я\nздесь![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/7",
+      "ru": "[[5103]] понимает. Я знаю, понимает.[[4F]][[42]]Потому и мучается...[[4F]][[42]]Дай мне поговорить! Я хочу вернуться домой с ним![[40]][[42]]",
+      "previous_ru": "[[5103]] понимает. Я\nзнаю, понимает.[[4F]][[42]]Потому и мучается...[[4F]][[42]]Дай мне поговорить с\nним! Я хочу вернуться\nдомой вместе![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/16",
+      "ru": "[[5105]]... Ты тоже часть [[5103]]а?[[40]][[42]]",
+      "previous_ru": "[[5105]]... Ты тоже часть\nего души? [[5103]]...[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/31/20",
+      "ru": "Не отрицаю твоих слов, но...[[4F]][[42]]Этот мир — лишь сон. Я больше не хочу жить во сне![[40]][[42]]",
+      "previous_ru": "Не отрицаю твоих\nслов, но...[[4F]][[42]]Этот мир — лишь мечта.\nА я больше не хочу\nжить мечтами![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/32/8",
+      "ru": "Это уже не [[5105]]. Это...[[4F]][[42]]Сама сущность желаний, из которых соткан этот мир.[[40]][[42]]",
+      "previous_ru": "Это уже не [[5105]].\nЭто...[[4F]][[42]]Чистая суть всех\nжеланий, из которых\nсоткан этот мир.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/32/9",
+      "ru": "Всех желаний...[[4F]][[42]]Значит, если мы это уничтожим, сможем вернуться домой![[40]][[42]]",
+      "previous_ru": "Всех желаний...[[4F]][[42]]Значит, уничтожим это\n— и сможем вернуться\nдомой![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/33/9",
+      "ru": "Мои волосы белые. Разве ты хуже ко мне относишься?[[40]][[42]]",
+      "previous_ru": "Но у меня они белые.\nРазве я тебе из-за\nэтого не нравлюсь?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/33/13",
+      "ru": "Обычному человеку этот дар не дан, [[5104]]. Только тебе.[[4F]][[42]]Тебя избрали. Ты особенная.[[40]][[42]]",
+      "previous_ru": "Не каждый человек\nполучит такой дар,\n[[5104]]. Только ты.[[4F]][[42]]Тебя избрали. Ты\nособенная.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/33/16",
+      "ru": "Если ты улыбнёшься, мама перестанет грустить.[[4F]][[42]]Думаю, её расстраивало то, как ты переживала.[[40]][[42]]",
+      "previous_ru": "И если ты засмеёшься,\nтвоя мама не будет\nгрустить.[[4F]][[42]]Думаю, ей было\nгрустно потому, что\nгрустила ты.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/33/19",
+      "ru": "...Спасибо, [[510C]]. Теперь я, пожалуй, могу вернуться домой.[[40]][[42]]",
+      "previous_ru": "...Спасибо, [[510C]].\nТеперь я, пожалуй,\nмогу вернуться.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/33/59",
+      "ru": "Если мы пожелаем, мир изменится. Значит...[[4F]][[42]]Возможно, здешние жители останутся, если очень этого захотят.[[4F]][[42]]Хотя мы, пришедшие из другого мира, можем больше не вернуться.[[40]][[42]]",
+      "previous_ru": "Если мы пожелаем, мир\nизменится. Значит...[[4F]][[42]]Возможно, и здешние\nжители останутся, если\nпожелают.[[4F]][[42]]Хотя мы, пришедшие из\nдругого мира, можем\nбольше не вернуться.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/34/4",
+      "ru": "Конечно! С удовольствием.[[4F]][[42]]Рад, что вы снова повеселели, мистер Рэнделл.[[40]][[42]]",
+      "previous_ru": "Конечно! С\nудовольствием.[[4F]][[42]]Рад, что к вам\nвернулась бодрость\nдуха, мистер Рэнделл.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/34/7",
+      "ru": "Легко! «Два меча» и «Удар по разуму» хорошо помогают...[[4F]][[42]]Покажи сохранение... Я всё настрою.[[40]][[42]]",
+      "previous_ru": "Легко! Два меча и удар\nпо разуму хорошо\nпомогают...[[4F]][[42]]Покажи сохранение...\nЯ всё настрою.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/34/13",
+      "ru": "Добренький? Скорее глупенький! Ха-ха![[40]][[42]]",
+      "previous_ru": "Добренький дурачок!\nХа-ха![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    },
+    {
+      "id": "s_text/34/25",
+      "ru": "Верно. И как раз намечается крупный проект...[[4F]][[42]]Думаю, лучше вас никто не справится. Возьмётесь?[[40]][[42]]",
+      "previous_ru": "Верно. И как раз\nнамечается большой\nпроект...[[4F]][[42]]Думаю, вы подойдёте\nлучше всех! Как вам\nпредложение?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B007: source/context compared late-story prose; preserve speaker, emotional register, references and page/control events. Fixed-name suffixes only for invariant non-player characters.",
+      "resolve_fixed_references": true
+    }
+  ]
+}

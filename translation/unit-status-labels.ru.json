@@ -1,0 +1,179 @@
+{
+  "batch": "P05-B002",
+  "entries": [
+    {
+      "id": "words:system/18",
+      "ru": "Кандидат в клан!",
+      "provisional_width_budget": 156,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/19",
+      "ru": "Принять бойца?",
+      "provisional_width_budget": 156,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/20",
+      "ru": "Отказать бойцу?",
+      "provisional_width_budget": 156,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/21",
+      "ru": "Исключить бойца?",
+      "provisional_width_budget": 156,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/39",
+      "ru": "Нет данных.",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/40",
+      "ru": "У[[1B01]]р[[1B01]].",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/41",
+      "ru": "Освоено",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/42",
+      "ru": "Недоступно",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/49",
+      "ru": "Снаряжение",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/50",
+      "ru": "Способности",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/51",
+      "ru": "Профессия",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/52",
+      "ru": "Нет умений",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/53",
+      "ru": "Покинуть клан",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:system/75",
+      "ru": "Освоено",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/725",
+      "ru": "Макс. HP",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/726",
+      "ru": "Макс. MP",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/727",
+      "ru": "Физ. атака",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/728",
+      "ru": "Физ. защ.",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/729",
+      "ru": "Маг. сила",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/730",
+      "ru": "Маг. защита",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:battle/731",
+      "ru": "Скорость",
+      "provisional_width_budget": 96,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/0",
+      "ru": "ОГН",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/1",
+      "ru": "ВЕТ",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/2",
+      "ru": "ЗЕМ",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/3",
+      "ru": "ВОД",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/4",
+      "ru": "ЛЁД",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/5",
+      "ru": "ЭЛ.",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/6",
+      "ru": "СВТ",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    },
+    {
+      "id": "words:ico/7",
+      "ru": "ТЬМ",
+      "provisional_width_budget": 28,
+      "layout_verified": false
+    }
+  ]
+}

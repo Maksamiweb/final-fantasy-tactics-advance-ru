@@ -1,0 +1,75 @@
+{
+  "batch": "ED-B002",
+  "entries": [
+    {
+      "id": "s_text/61/3/145",
+      "ru": "Магозмей [[5144]]!\nРазве Гаол не победил тебя?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/3/148",
+      "ru": "Магозмей [[5144]]?!\nТебя вернула к жизни злоба?[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/3/149",
+      "ru": "Магозмей [[5144]]?!\nГаол ведь победил тебя![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/6/192",
+      "ru": "Это святилище.\nЗдесь [[5149]].\nПрочь![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/6/194",
+      "ru": "[[5149]]!\nСпасите Багубу![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/6/195",
+      "ru": "[[5149]]!\nС-спасите Багубу!\nВыс-слушайте![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/6/196",
+      "ru": "[[5149]]!\nДля спасения Багубы\nнужна ваша сила.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "s_text/61/8/172",
+      "ru": "[[514F]]!\nА я думал, они вымерли![[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "fx_text/16/79",
+      "ru": "[[5112]] — тотема\nлюдей. Призыв за все JP.[[4F]][[42]]Наносит огромный урон HP всех врагов.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    },
+    {
+      "id": "fx_text/8/44",
+      "ru": "[Последний бой:\n[[514A]]]\n[[5137]]\nГриссом, говорят, стал\nоблаком после смерти.\nУплыл в небо. Днями\nлили ливни.[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 7,
+      "note": "Explicit wraps for measured full Russian reference names; no new ID and no source-control change."
+    }
+  ]
+}

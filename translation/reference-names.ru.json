@@ -1,0 +1,333 @@
+{
+  "batch": "P03-B003",
+  "entries": [
+    {
+      "id": "words:refer/18",
+      "ru": "Матеус"
+    },
+    {
+      "id": "words:refer/19",
+      "ru": "Адраммелех"
+    },
+    {
+      "id": "words:refer/20",
+      "ru": "Кристалл Ультимы"
+    },
+    {
+      "id": "words:refer/21",
+      "ru": "Плод Эксодуса"
+    },
+    {
+      "id": "words:refer/24",
+      "ru": "Матеус"
+    },
+    {
+      "id": "words:refer/25",
+      "ru": "Адраммелех"
+    },
+    {
+      "id": "words:refer/27",
+      "ru": "Литтлвили"
+    },
+    {
+      "id": "words:refer/30",
+      "ru": "Дабароза"
+    },
+    {
+      "id": "words:refer/31",
+      "ru": "Дольче"
+    },
+    {
+      "id": "words:refer/32",
+      "ru": "Уороз"
+    },
+    {
+      "id": "words:refer/33",
+      "ru": "Рэйвен"
+    },
+    {
+      "id": "words:refer/34",
+      "ru": "Хеджаат"
+    },
+    {
+      "id": "words:refer/35",
+      "ru": "Батализ"
+    },
+    {
+      "id": "words:refer/36",
+      "ru": "Голитайр"
+    },
+    {
+      "id": "words:refer/37",
+      "ru": "Бишон"
+    },
+    {
+      "id": "words:refer/38",
+      "ru": "Стерайз"
+    },
+    {
+      "id": "words:refer/39",
+      "ru": "Гукко"
+    },
+    {
+      "id": "words:refer/40",
+      "ru": "Малирис"
+    },
+    {
+      "id": "words:refer/41",
+      "ru": "Сэнди"
+    },
+    {
+      "id": "words:refer/42",
+      "ru": "Синди"
+    },
+    {
+      "id": "words:refer/43",
+      "ru": "Минди"
+    },
+    {
+      "id": "words:refer/44",
+      "ru": "Кракен"
+    },
+    {
+      "id": "words:refer/45",
+      "ru": "Тиамат"
+    },
+    {
+      "id": "words:refer/46",
+      "ru": "Лич"
+    },
+    {
+      "id": "words:refer/47",
+      "ru": "Гласм"
+    },
+    {
+      "id": "words:refer/48",
+      "ru": "Сребровлас"
+    },
+    {
+      "id": "words:refer/49",
+      "ru": "Гатскор"
+    },
+    {
+      "id": "words:refer/50",
+      "ru": "Огма"
+    },
+    {
+      "id": "words:refer/51",
+      "ru": "Рикер"
+    },
+    {
+      "id": "words:refer/52",
+      "ru": "Мечник"
+    },
+    {
+      "id": "words:refer/53",
+      "ru": "Морковка"
+    },
+    {
+      "id": "words:refer/54",
+      "ru": "Хандзо"
+    },
+    {
+      "id": "words:refer/55",
+      "ru": "Тёмный рыцарь"
+    },
+    {
+      "id": "words:refer/56",
+      "ru": "Баклс"
+    },
+    {
+      "id": "words:refer/57",
+      "ru": "Гагат"
+    },
+    {
+      "id": "words:refer/58",
+      "ru": "Мяу"
+    },
+    {
+      "id": "words:refer/59",
+      "ru": "Таинственный ящик"
+    },
+    {
+      "id": "words:refer/60",
+      "ru": "Странная статуя"
+    },
+    {
+      "id": "words:refer/61",
+      "ru": "Магический прибор"
+    },
+    {
+      "id": "words:refer/62",
+      "ru": "Старший Габбана"
+    },
+    {
+      "id": "words:refer/63",
+      "ru": "Младший Габбана"
+    },
+    {
+      "id": "words:refer/64",
+      "ru": "Дягилев"
+    },
+    {
+      "id": "words:refer/65",
+      "ru": "Канан"
+    },
+    {
+      "id": "words:refer/66",
+      "ru": "Рейн"
+    },
+    {
+      "id": "words:refer/67",
+      "ru": "Лодион"
+    },
+    {
+      "id": "words:refer/68",
+      "ru": "Герланд"
+    },
+    {
+      "id": "words:refer/69",
+      "ru": "Лорд-призрак"
+    },
+    {
+      "id": "words:refer/70",
+      "ru": "Джелато"
+    },
+    {
+      "id": "words:refer/71",
+      "ru": "Огги"
+    },
+    {
+      "id": "words:refer/72",
+      "ru": "Белвей"
+    },
+    {
+      "id": "words:refer/73",
+      "ru": "Драконы Делии"
+    },
+    {
+      "id": "words:refer/74",
+      "ru": "Гриссом"
+    },
+    {
+      "id": "words:refer/75",
+      "ru": "Мать бомб"
+    },
+    {
+      "id": "words:refer/76",
+      "ru": "Селия"
+    },
+    {
+      "id": "words:refer/77",
+      "ru": "Реди"
+    },
+    {
+      "id": "words:refer/78",
+      "ru": "Королева ламий"
+    },
+    {
+      "id": "words:refer/79",
+      "ru": "Адамантойз"
+    },
+    {
+      "id": "words:refer/80",
+      "ru": "Очу"
+    },
+    {
+      "id": "words:refer/81",
+      "ru": "Неочу"
+    },
+    {
+      "id": "words:refer/82",
+      "ru": "Владыка ужаса"
+    },
+    {
+      "id": "words:refer/83",
+      "ru": "Апанда"
+    },
+    {
+      "id": "words:refer/84",
+      "ru": "Архидемон"
+    },
+    {
+      "id": "words:refer/85",
+      "ru": "Мать фланов"
+    },
+    {
+      "id": "words:refer/86",
+      "ru": "Фог"
+    },
+    {
+      "id": "words:refer/87",
+      "ru": "Гранг"
+    },
+    {
+      "id": "words:refer/88",
+      "ru": "Вили"
+    },
+    {
+      "id": "words:refer/89",
+      "ru": "Хаве"
+    },
+    {
+      "id": "words:refer/90",
+      "ru": "Гандеру"
+    },
+    {
+      "id": "words:refer/91",
+      "ru": "Уивер"
+    },
+    {
+      "id": "words:refer/92",
+      "ru": "Минц"
+    },
+    {
+      "id": "words:refer/93",
+      "ru": "Эльдена"
+    },
+    {
+      "id": "words:refer/94",
+      "ru": "Чейни"
+    },
+    {
+      "id": "words:refer/95",
+      "ru": "Палланза"
+    },
+    {
+      "id": "words:refer/96",
+      "ru": "Лини"
+    },
+    {
+      "id": "words:refer/97",
+      "ru": "Куин"
+    },
+    {
+      "id": "words:refer/98",
+      "ru": "Пам Ле Фэй"
+    },
+    {
+      "id": "words:refer/99",
+      "ru": "Делузия"
+    },
+    {
+      "id": "words:refer/102",
+      "ru": "Дон Брасс"
+    },
+    {
+      "id": "words:refer/103",
+      "ru": "Леанан"
+    },
+    {
+      "id": "words:refer/104",
+      "ru": "Дредд"
+    },
+    {
+      "id": "words:refer/105",
+      "ru": "Райнхольд"
+    },
+    {
+      "id": "words:refer/106",
+      "ru": "Майк"
+    }
+  ]
+}

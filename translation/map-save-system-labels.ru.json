@@ -1,0 +1,229 @@
+{
+  "batch": "P03-B007",
+  "entries": [
+    {
+      "id": "words:system/0",
+      "ru": "Без метки"
+    },
+    {
+      "id": "words:system/1",
+      "ru": "Вокруг:"
+    },
+    {
+      "id": "words:system/2",
+      "ru": "Трактир"
+    },
+    {
+      "id": "words:system/3",
+      "ru": "Лавка"
+    },
+    {
+      "id": "words:system/4",
+      "ru": "Тюрьма"
+    },
+    {
+      "id": "words:system/5",
+      "ru": "Хранитель карт"
+    },
+    {
+      "id": "words:system/6",
+      "ru": "Зверинец"
+    },
+    {
+      "id": "words:system/7",
+      "ru": "Поиск кладов"
+    },
+    {
+      "id": "words:system/8",
+      "ru": "Выбросить предмет?"
+    },
+    {
+      "id": "words:system/9",
+      "ru": "    ДА     НЕТ"
+    },
+    {
+      "id": "words:system/10",
+      "ru": "Награда:"
+    },
+    {
+      "id": "words:system/11",
+      "ru": "Гил"
+    },
+    {
+      "id": "words:system/12",
+      "ru": "Очки клана:"
+    },
+    {
+      "id": "words:system/13",
+      "ru": "очк."
+    },
+    {
+      "id": "words:system/14",
+      "ru": "Ур. навыка"
+    },
+    {
+      "id": "words:system/15",
+      "ru": "Уровень клана вырос!"
+    },
+    {
+      "id": "words:system/16",
+      "ru": "Навык выше! Предмет!"
+    },
+    {
+      "id": "words:system/23",
+      "ru": " обл. осталось."
+    },
+    {
+      "id": "words:system/24",
+      "ru": " обл. осталось."
+    },
+    {
+      "id": "words:system/25",
+      "ru": "Освободить"
+    },
+    {
+      "id": "words:system/26",
+      "ru": "Зачищено!"
+    },
+    {
+      "id": "words:system/27",
+      "ru": "Освобождено!"
+    },
+    {
+      "id": "words:system/43",
+      "ru": "Навык вырос!"
+    },
+    {
+      "id": "words:system/44",
+      "ru": "Слишком много вещей."
+    },
+    {
+      "id": "words:system/45",
+      "ru": "Что выбросить?"
+    },
+    {
+      "id": "words:system/46",
+      "ru": "ОК"
+    },
+    {
+      "id": "words:system/47",
+      "ru": " — обмен."
+    },
+    {
+      "id": "words:system/48",
+      "ru": " — получено."
+    },
+    {
+      "id": "words:system/54",
+      "ru": " — конфискация!"
+    },
+    {
+      "id": "words:system/55",
+      "ru": "ч"
+    },
+    {
+      "id": "words:system/56",
+      "ru": "мин"
+    },
+    {
+      "id": "words:system/57",
+      "ru": "Нет данных"
+    },
+    {
+      "id": "words:system/58",
+      "ru": "Продолжить бой"
+    },
+    {
+      "id": "words:system/59",
+      "ru": "Загрузить"
+    },
+    {
+      "id": "words:system/60",
+      "ru": "Ячейка для записи:"
+    },
+    {
+      "id": "words:system/61",
+      "ru": "Ячейка для загрузки:"
+    },
+    {
+      "id": "words:system/62",
+      "ru": "Сохранение..."
+    },
+    {
+      "id": "words:system/63",
+      "ru": "Загрузка..."
+    },
+    {
+      "id": "words:system/64",
+      "ru": "Игра сохранена."
+    },
+    {
+      "id": "words:system/65",
+      "ru": "Игра загружена."
+    },
+    {
+      "id": "words:system/66",
+      "ru": "Ошибка сохранения!"
+    },
+    {
+      "id": "words:system/67",
+      "ru": "Ошибка загрузки!"
+    },
+    {
+      "id": "words:system/68",
+      "ru": "Сбой памяти записи."
+    },
+    {
+      "id": "words:system/69",
+      "ru": "Все области свободны!"
+    },
+    {
+      "id": "words:system/70",
+      "ru": "Продолжить бой."
+    },
+    {
+      "id": "words:system/71",
+      "ru": "Перезапись ячейки."
+    },
+    {
+      "id": "words:system/72",
+      "ru": "Проверка сохранения."
+    },
+    {
+      "id": "words:system/73",
+      "ru": "Задание выполнено"
+    },
+    {
+      "id": "words:system/74",
+      "ru": "Боец вернулся!"
+    },
+    {
+      "id": "words:system/76",
+      "ru": "Разместите метку."
+    },
+    {
+      "id": "words:system/77",
+      "ru": "Пустая ячейка:"
+    },
+    {
+      "id": "words:system/78",
+      "ru": "......Поиск......"
+    },
+    {
+      "id": "words:system/79",
+      "ru": "Авто"
+    },
+    {
+      "id": "words:system/80",
+      "ru": "Вручную"
+    },
+    {
+      "id": "words:system/81",
+      "ru": "Найдено"
+    },
+    {
+      "id": "words:system/83",
+      "ru": "под атакой!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "batch": "MISSION-REQUIREMENTS-WIDGET-01",
+  "entries": [
+    {
+      "id": "fx_text/9/2",
+      "ru": "[[4600]][[41C]]\nПредм.:[[1D02]][[424]]\n[[1D3C]]:[[1D02]][[425]]\nНавыки[[1D04]]:[[1D02]][[418]]/ Ур.[[41A]]\nКласс[[1D07]]:[[1D02]][[419]]\n[[413]]\n[[56]][[42]]",
+      "font_profile": "compact_ui",
+      "layout_profile": "fixed_coordinates_unverified",
+      "max_width": 216,
+      "max_lines": 7,
+      "status": "compact_requirements_labels"
+    }
+  ]
+}

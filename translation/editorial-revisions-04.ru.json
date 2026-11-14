@@ -1,0 +1,45 @@
+{
+  "batch": "ED-B004",
+  "entries": [
+    {
+      "id": "words:content/45",
+      "ru": "Фехт.",
+      "previous_ru": "Фехтовальщик",
+      "max_width": 48,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "Ещё более короткая UI-форма после сообщения пользователя; полное название профессии сохранено в справке.",
+      "provisional_ui_budget_reason": "48px conservative screening; actual widget capacity still unverified."
+    },
+    {
+      "id": "words:content/51",
+      "ru": "Укрот.",
+      "previous_ru": "Повелитель зверей",
+      "max_width": 48,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "Ещё более короткая UI-форма после сообщения пользователя; полное название профессии сохранено в справке.",
+      "provisional_ui_budget_reason": "48px conservative screening; actual widget capacity still unverified."
+    },
+    {
+      "id": "words:battle/97",
+      "ru": "Зверинец",
+      "previous_ru": "Банк монстров",
+      "max_width": 72,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "Monster Bank: короткое название заведения, полная форма в описаниях сохранена.",
+      "provisional_ui_budget_reason": "72px conservative screening after user screenshots; engine allocation not recovered, fresh-ROM widget verification pending."
+    },
+    {
+      "id": "words:system/6",
+      "ru": "Зверинец",
+      "previous_ru": "Банк монстров",
+      "max_width": 72,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "Тот же Monster Bank в городском меню; согласованная краткая форма.",
+      "provisional_ui_budget_reason": "72px conservative screening after user screenshots; engine allocation not recovered, fresh-ROM widget verification pending."
+    }
+  ]
+}

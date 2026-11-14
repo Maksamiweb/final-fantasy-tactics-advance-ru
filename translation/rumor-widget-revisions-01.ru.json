@@ -1,0 +1,619 @@
+{
+  "batch": "RUMOR-WIDGET-01",
+  "scope": "All75 rumor/help-list titles at conservative source88px budget;12 compact display titles",
+  "entries": [
+    {
+      "id": "words:rumor/7",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "История[[1D03]]законов"
+    },
+    {
+      "id": "words:rumor/8",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Нечестные законы"
+    },
+    {
+      "id": "words:rumor/9",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/10",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/11",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/12",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/13",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/14",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/15",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/16",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/17",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/18",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Товары на обмен"
+    },
+    {
+      "id": "words:rumor/19",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/20",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/21",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/22",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/23",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Одинокие судьи"
+    },
+    {
+      "id": "words:rumor/24",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/25",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/26",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/27",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/28",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Новый[[1D03]]поход"
+    },
+    {
+      "id": "words:rumor/29",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/30",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/31",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/32",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Зона свободна!"
+    },
+    {
+      "id": "words:rumor/33",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/34",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/35",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/36",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/37",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Чужой корабль"
+    },
+    {
+      "id": "words:rumor/38",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Преступный клан"
+    },
+    {
+      "id": "words:rumor/39",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/40",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/41",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/42",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/43",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/44",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/45",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/46",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Странный бард"
+    },
+    {
+      "id": "words:rumor/47",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/48",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/49",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "Гук[[1B01]]ко[[1D01]]вернулся"
+    },
+    {
+      "id": "words:rumor/50",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/52",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/53",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/54",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/55",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/56",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/57",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/58",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/59",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/60",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/61",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/62",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/63",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/64",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "!Высшие проф."
+    },
+    {
+      "id": "words:rumor/65",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/66",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/67",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/68",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/69",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/71",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/72",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/73",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/75",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/77",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/79",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/81",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/83",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "!Предм. заданий"
+    },
+    {
+      "id": "words:rumor/85",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/86",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/87",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/89",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile"
+    },
+    {
+      "id": "words:rumor/91",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "status": "rumor_widget_88px_profile",
+      "ru": "!Обмен вещами"
+    }
+  ]
+}

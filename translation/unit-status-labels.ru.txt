@@ -1,0 +1,30 @@
+# P05-B002 — подписи статуса. Лимиты предварительные.
+words:system/18|Кандидат в клан!
+words:system/19|Принять бойца?
+words:system/20|Отказать бойцу?
+words:system/21|Исключить бойца?
+words:system/39|Нет данных.
+words:system/40|У[[1B01]]р[[1B01]].
+words:system/41|Освоено
+words:system/42|Недоступно
+words:system/49|Снаряжение
+words:system/50|Способности
+words:system/51|Профессия
+words:system/52|Нет умений
+words:system/53|Покинуть клан
+words:system/75|Освоено
+words:battle/725|Макс. HP
+words:battle/726|Макс. MP
+words:battle/727|Физ. атака
+words:battle/728|Физ. защ.
+words:battle/729|Маг. сила
+words:battle/730|Маг. защита
+words:battle/731|Скорость
+words:ico/0|ОГН
+words:ico/1|ВЕТ
+words:ico/2|ЗЕМ
+words:ico/3|ВОД
+words:ico/4|ЛЁД
+words:ico/5|ЭЛ.
+words:ico/6|СВТ
+words:ico/7|ТЬМ

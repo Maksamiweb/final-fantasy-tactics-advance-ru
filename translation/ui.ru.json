@@ -1,0 +1,977 @@
+{
+  "status": "draft; menu width budgets await every-screen review",
+  "entries": [
+    {
+      "id": "words:refer/2",
+      "ru": "Марш",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/3",
+      "ru": "Мьют",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/4",
+      "ru": "Ритц",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/5",
+      "ru": "Ремеди",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/6",
+      "ru": "Сид",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/7",
+      "ru": "Донед",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/8",
+      "ru": "Монблан",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/9",
+      "ru": "Бабус",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/10",
+      "ru": "Эзель",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/11",
+      "ru": "Ноно",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/12",
+      "ru": "Шара",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/13",
+      "ru": "Лледнар",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/14",
+      "ru": "Лайл",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/15",
+      "ru": "Гиннесс",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/16",
+      "ru": "Колин",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/17",
+      "ru": "Леслей",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/23",
+      "ru": "Судья",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/1",
+      "ru": "Очередь",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/2",
+      "ru": "Задание",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/3",
+      "ru": "Карты закон.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/4",
+      "ru": "Настройки",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/5",
+      "ru": "Бежать",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/6",
+      "ru": "Быстр. сохр.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/7",
+      "ru": "Законы",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/8",
+      "ru": "Идти",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/9",
+      "ru": "Действие",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/10",
+      "ru": "Ждать",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/11",
+      "ru": "Статус",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/12",
+      "ru": "Атака",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/13",
+      "ru": "Снежок",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/14",
+      "ru": "Тотема",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/15",
+      "ru": "Комбо",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/16",
+      "ru": "Отряд",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/17",
+      "ru": "Клан",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/18",
+      "ru": "Связь",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/19",
+      "ru": "Области",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/20",
+      "ru": "Система",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/21",
+      "ru": "Сохранить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/22",
+      "ru": "Загрузить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/23",
+      "ru": "Назад",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/24",
+      "ru": "Освободить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/25",
+      "ru": "Помиловать",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/26",
+      "ru": "Уйти",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/27",
+      "ru": "Пауза",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/28",
+      "ru": "Залог",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/29",
+      "ru": "Приговор",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/30",
+      "ru": "Обмен",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/31",
+      "ru": "Слухи",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/32",
+      "ru": "Уйти",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/33",
+      "ru": "Купить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/34",
+      "ru": "Продать",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/35",
+      "ru": "Обмен вещей",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/36",
+      "ru": "Список",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/37",
+      "ru": "Назад",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/39",
+      "ru": "Играть",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/40",
+      "ru": "Отпустить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/41",
+      "ru": "Слухи",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/42",
+      "ru": "Задания",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/43",
+      "ru": "Отказаться",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/44",
+      "ru": "Уйти",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/45",
+      "ru": "Экипировка",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/46",
+      "ru": "Способности",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/47",
+      "ru": "Профессия",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/48",
+      "ru": "Исключить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/49",
+      "ru": "Выбрать",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/50",
+      "ru": "Список",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/51",
+      "ru": "Сорт. бойцов",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/52",
+      "ru": "Сорт. вещей",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/53",
+      "ru": "Изменить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/54",
+      "ru": "Подтвердить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/55",
+      "ru": "Выполнить",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/56",
+      "ru": "Отмена",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/57",
+      "ru": "Да",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/58",
+      "ru": "Нет",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/59",
+      "ru": "Задания",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/60",
+      "ru": "Отчёт",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/61",
+      "ru": "Земли клана",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/62",
+      "ru": "Предм. зад.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/63",
+      "ru": "Поддержка",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/65",
+      "ru": "Поиск клада",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/66",
+      "ru": "/исп.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/67",
+      "ru": "ОК",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/68",
+      "ru": "Оплачено",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/69",
+      "ru": "Надето",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/70",
+      "ru": "Объединиться",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/71",
+      "ru": "Обмен вещей",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/72",
+      "ru": "Обмен бойцов",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/73",
+      "ru": "Снять облик",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/74",
+      "ru": "[Усиление]",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/76",
+      "ru": "Надето",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/77",
+      "ru": "Предм. зад.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/78",
+      "ru": "Карты закон.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/79",
+      "ru": "Карты закон.",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "pages:config/0",
+      "ru": "Выберите один из трёх режимов цвета экрана.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/1",
+      "ru": "Выберите способ движения курсора в бою.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/2",
+      "ru": "Выберите одну из трёх скоростей курсора.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/3",
+      "ru": "Выберите один из двух способов вывода диалогов.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/4",
+      "ru": "Показывать названия атак во время боя.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/5",
+      "ru": "Показывать полученный в бою опыт.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/6",
+      "ru": "Показывать полученные очки судьи.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/7",
+      "ru": "Показывать вещи, которые нельзя надеть.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/8",
+      "ru": "Назначьте боевую команду на кнопку L.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "pages:config/9",
+      "ru": "Вернуть исходные настройки.[[42]]",
+      "max_width": 176,
+      "max_lines": 3
+    },
+    {
+      "id": "words:battle/745",
+      "ru": "Цвет экрана",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/746",
+      "ru": "Тип курсора",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/747",
+      "ru": "Скор. курсора",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/748",
+      "ru": "Текст",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/749",
+      "ru": "Названия атак",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/750",
+      "ru": "Опыт",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/751",
+      "ru": "Очки судьи",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/752",
+      "ru": "Все вещи",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/753",
+      "ru": "Кнопка L",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/754",
+      "ru": "Сброс",
+      "max_width": 96,
+      "max_lines": 1
+    },
+    {
+      "id": "words:battle/755",
+      "ru": "LCD A",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/756",
+      "ru": "LCD B",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/757",
+      "ru": "ТВ",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/758",
+      "ru": "Тип A",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/759",
+      "ru": "Тип B",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/760",
+      "ru": "Быстро",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/761",
+      "ru": "Средне",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/762",
+      "ru": "Медл.",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/763",
+      "ru": "Медл.",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/764",
+      "ru": "Сразу",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/765",
+      "ru": "Вкл.",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "words:battle/766",
+      "ru": "Выкл.",
+      "max_width": 66,
+      "max_lines": 1,
+      "max_chars": 6
+    },
+    {
+      "id": "fx_text/1/8",
+      "ru": "Выполнить?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/1/29",
+      "ru": "Сбросить настройки?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/2/12",
+      "ru": "Для каждой команды есть справка.[[4F]][[42]]Выберите команду и нажмите SELECT.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/0",
+      "ru": "Показать очередь ходов бойцов.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/1",
+      "ru": "Условия боя и сведения о задании.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/2",
+      "ru": "Проверить законы и применить карты законов.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/3",
+      "ru": "Изменить настройки игры.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/4",
+      "ru": "Покинуть бой и отказаться от задания.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/5",
+      "ru": "Сохранить текущую игру и выйти на титульный экран.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/6",
+      "ru": "Проверить законы этого боя.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/7",
+      "ru": "Переместить бойца. Удары со спины попадают чаще.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/8",
+      "ru": "Выбрать действие бойца.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/9",
+      "ru": "Ждать. Следующий ход наступит раньше.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/10",
+      "ru": "Посмотреть статус бойца.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/11",
+      "ru": "Атаковать оружием или голыми руками.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/12",
+      "ru": "Бросить снежок. Только без камней![[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/13",
+      "ru": "Призвать тотему своей расы. Тратит все очки судьи.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/14",
+      "ru": "Совместная атака союзников с комбо.[[4F]][[42]]Нужно несколько бойцов. Тратит все JP.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/15",
+      "ru": "Изменить снаряжение, способности, профессию.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/16",
+      "ru": "Сведения о клане «[[403]]».[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/17",
+      "ru": "Обмениваться и играть с другом через Game Link.[[4F]][[42]]За хорошие результаты можно получить награду![[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/18",
+      "ru": "Перейти к выбранной области.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/19",
+      "ru": "Сохранить или загрузить игру, изменить настройки.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/20",
+      "ru": "Сохранить текущую игру.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/21",
+      "ru": "Загрузить сохранение и продолжить игру.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/22",
+      "ru": "Выход. Несохранённый прогресс пропадёт.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/23",
+      "ru": "Освободить бойца из тюрьмы за гил.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/24",
+      "ru": "Отбыть срок, чтобы снять наказание.[[4F]][[42]]Досрочно освободить бойца в этом случае нельзя.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/25",
+      "ru": "Вернуться на карту мира.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/29",
+      "ru": "Обмен карт законов. Курсы постоянно меняются.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/30",
+      "ru": "Узнать о тенденциях на рынке карт законов.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/16/31",
+      "ru": "Вернуться на карту мира.[[40]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "fx_text/1/45",
+      "ru": "Повторить урок?\n[[3211]]Да/[[EOS]]Нет[[EOS]][[42]]",
+      "max_width": 192,
+      "max_lines": 2
+    },
+    {
+      "id": "words:refer/22",
+      "ru": "Фамфрит",
+      "max_width": 64,
+      "max_lines": 1
+    },
+    {
+      "id": "words:refer/26",
+      "ru": "Фамфрит",
+      "max_width": 64,
+      "max_lines": 1
+    }
+  ]
+}

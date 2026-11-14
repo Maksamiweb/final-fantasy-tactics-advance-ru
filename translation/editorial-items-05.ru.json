@@ -1,0 +1,131 @@
+{
+  "batch": "ED-B005",
+  "entries": [
+    {
+      "id": "fx_text/21/20",
+      "ru": "Клинок, направляющий потоки силы в теле.[[4F]][[42]]Клинок / 1 рука[[40]][[42]]",
+      "previous_ru": "Клинок помогает силе\nтечь по телу.[[4F]][[42]]Клинок / 1 рука[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/86",
+      "ru": "Нож для серии стремительных ударов.[[4F]][[42]]Нож / 1 рука\nИммун.: замедление[[40]][[42]]",
+      "previous_ru": "Нож для быстрых\nмногократных ударов.[[4F]][[42]]Нож / 1 рука\nИммун.: замедление[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/124",
+      "ru": "Посох, очищающий своего владельца.[[4F]][[42]]Посох / 1 рука[[40]][[42]]",
+      "previous_ru": "Посох очищения.\nОчищает владельца.[[4F]][[42]]Посох / 1 рука[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/163",
+      "ru": "Лук с длинными острыми шипами.[[4F]][[42]]Лук / 2 руки\nДальность: 5 клеток[[40]][[42]]",
+      "previous_ru": "Лук украшен длинными\nзлыми шипами.[[4F]][[42]]Лук / 2 руки\nДальность: 5 клеток[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/199",
+      "ru": "Копьё — сокровище племён бангаа.[[4F]][[42]]Копьё/1 рука\nПробивает 2 клетки[[40]][[42]]",
+      "previous_ru": "Священное сокровище\nплемён бангаа.[[4F]][[42]]Копьё/1 рука\nПробивает 2 клетки[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/289",
+      "ru": "Тяжёлый доспех со стальным нагрудником.[[4F]][[42]]Доспех[[40]][[42]]",
+      "previous_ru": "Тяжёлый доспех со\nстальной грудью.[[4F]][[42]]Доспех[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/21/340",
+      "ru": "Обувь, ускоряющая передвижение.[[4F]][[42]]Обувь[[40]][[42]]",
+      "previous_ru": "Скороходная обувь для\nбыстрого\nпередвижения.[[4F]][[42]]Обувь[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/3",
+      "ru": "Чаша с рунами, поднесённая богу Элде.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:△[[1D06]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Чаша с рунами,\nподнесённая богу\nЭльде.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:△[[1D06]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/55",
+      "ru": "Плотный хлеб, который едят по всему Ивалису.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Упругий хлеб, который\nедят по всему Ивалису.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/56",
+      "ru": "Очень крепкое вино с кусочками мальборо.[[4F]][[42]]Атк.оруж.[[1D03]]:○ Защ:-\nМаг.[[1D0F]]Сила:○ Сопр:-[[40]][[42]]",
+      "previous_ru": "Очень крепкое вино с\nобрезками мальборо.[[4F]][[42]]Атк.оруж.[[1D03]]:○ Защ:-\nМаг.[[1D0F]]Сила:○ Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/82",
+      "ru": "Значок участника сети «Соседи».[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Значок участника\nторговой сети «Сосед».[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/85",
+      "ru": "Меч, искорёженный до неузнаваемости.[[4F]][[42]]Атк.оруж.[[1D03]]:△[[1D06]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Избитый до\nнеузнаваемости меч.[[4F]][[42]]Атк.оруж.[[1D03]]:△[[1D06]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/124",
+      "ru": "Краденые гили, спрятанные в шлюзе.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Краденые гил,\nспрятанные в шлюзе.[[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: source-compared prose edit; existing equipment effects/stat controls and page suffix retained."
+    },
+    {
+      "id": "fx_text/25/53",
+      "ru": "Аппетитный[[1D03]]гратен.[[1D03]]\nДаже[[1D03]]чокобо [[1B02]]не устоят![[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "previous_ru": "Аппетитный[[1D03]] гратен.[[1D03]]\nДаже[[1D03]] чокобо [[1B02]]не устоят![[4F]][[42]]Атк.оруж.[[1D03]]:-[[1D08]]Защ:-\nМаг.[[1D0F]]Сила:-[[1D08]]Сопр:-[[40]][[42]]",
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "revision_note": "ED-B005: account for preserved 1D positioning; separate shifted third status line or remove redundant spaces after explicit pixel steps."
+    }
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "scope": "Explicit non-dialogue exceptions for full s_text coverage; not deletion or translation of source assets",
+  "records": {
+    "s_text/1/171": {
+      "source_sha256": "f2e467ba03d248dcb5a7ad9dc7719c599b5ab688eb26c3026b50c2eba3aef50b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/172": {
+      "source_sha256": "233c9e94299bf1b1808b0e2c314ea75e46b2683530568d36f10f67a3c53fa136",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/173": {
+      "source_sha256": "f1d2d5235f80ae5388890cfad87d6cd69a007d63d56f85d464560b1e888e31fb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/174": {
+      "source_sha256": "fec4e1d040e88f44faf144059816c00873189bc3c5de622835d30c892b3d2f60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/175": {
+      "source_sha256": "e3b08283b198e13f912f92b8a4f13169498967bb09bab06c1b4e813a039a36bb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/176": {
+      "source_sha256": "42ce844ee59d79f8d82766cfda70e18dfa8b3c6f52db1c2f6090dea0aa869237",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/177": {
+      "source_sha256": "c4b58798444413333b5f104c11c105773d9a677bb58af3de9abe710678b76f45",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/178": {
+      "source_sha256": "b8b427d49eb3e00ab3cb43de022614b6e5b2f735f6625f454579004512c10971",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/179": {
+      "source_sha256": "876eb051999109a7b6f2561d598d02933c8c33d3f43f20f8220eec3faffd60af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/180": {
+      "source_sha256": "526d7e427293de3e9794927ee64da29a1db2ec6e86aecfc78cda4b1e164b5b84",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/1/181": {
+      "source_sha256": "76c2f9e45b305950170aee131a49aec6cf17f6e91d12b2491f51bc4991b6a18a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/107": {
+      "source_sha256": "aaad5c99376b7a9de178f27fa4e133ccb6483c3faa3fbb7d38fce865f454d129",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/108": {
+      "source_sha256": "5bf6980a91f8bc5fd3adbb962f9482b12b79c400ef2bd003c00c4027e557bc1b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/109": {
+      "source_sha256": "5abe38171af5cdece062ad77464c1d557f605ed1e72df0ec023f12386379ea11",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/110": {
+      "source_sha256": "8b9b1b97876f7f86bf3cd7ee95475128f0e7c3e5d4d7f4042531ef52ca95e9ca",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/111": {
+      "source_sha256": "6b20bc0e63ce876066861c4ed8cf5a556b4f67120cd8798ac136c20cadd99503",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/112": {
+      "source_sha256": "2ef804af3d520442ae8f790802683ddd1c899fb395bbd80c2d129643ec37b85d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/113": {
+      "source_sha256": "7384f3fe384bd697e36fc3d7234c8302274c70489d31a198da6e090c203e1073",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/114": {
+      "source_sha256": "8b5b0ccdb37594bcc8ad3008e2f4ad1d1601448245dc5981a611d47fd97592e1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/19/115": {
+      "source_sha256": "8420c91caacad8e3e86f7686ad9f748b45ca4163fe03dedad7c4af94e74fb28b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/36/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/40/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/41/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/43/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/54/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/56/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/57/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/58/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/58": {
+      "source_sha256": "ce9c36f130c01932acf3c8237cf1583e23deadababdfeabdee14ac4a34b852c1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/59": {
+      "source_sha256": "edcd6eb2d57f8c5da919ae31dbe355f609a5eef6e336855583469f22f405dd32",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/60": {
+      "source_sha256": "82ca1ec1629fae44207856c1c6759263d737c25f29191fdac046de07fd6aa196",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/61": {
+      "source_sha256": "8d1d56178c1a02e64db662ede20d54868891a8cc9527c5cdc1cf2d3eba253059",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/62": {
+      "source_sha256": "3655b85652280ad5c3743275ebe94d1850f6ba6fc15a241c1df7dd2dc04ffa37",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/63": {
+      "source_sha256": "6fb6ab38927fdad6694c46f9e42e14cb44f62bf9daf5cc886db6eb4fbd749a65",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/64": {
+      "source_sha256": "b4c0e54d9ec44245ed385121add08bb3ad2550e25122e0cdabc5c0bee3a131ef",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/65": {
+      "source_sha256": "bb23081118549b8f923bb1ece005e79aa42865c94c72aa053181668d6acf3aad",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/66": {
+      "source_sha256": "29ea6283f8205b46006066a56a5f4a10c51120e0fb23e16306fd9a44af2daeaf",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/67": {
+      "source_sha256": "a56d1bd8c2b2f50b1fd4b02963c66769e035e60577eb5b30b4ea923db652e3ba",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/68": {
+      "source_sha256": "cb1650c908f6c5134071808fdec13a899f8eb093013296e035bd43c450721451",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/69": {
+      "source_sha256": "e5ada8fd179108ea3e9ef5a0ac7db07d8a85a115ce1b0770deb999b3c4166ad6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/70": {
+      "source_sha256": "4d9067c69dea6ba755b661143667abdd4e2b5ec577fb475b8546440e0bf72528",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/71": {
+      "source_sha256": "77b5786beffa7619c2093369fc9060ebe3aeee2b2a3051baaa2453c248ff7d86",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/72": {
+      "source_sha256": "2c6536d90de2ab7187e480048fd1b77935f8dc42a0d6c73b2dc59803083b8cc9",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/73": {
+      "source_sha256": "4f602170844a6da8824e3e2b832fd346fd6893fa0a3b3e28bd7b70e7e7cdd0f3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/74": {
+      "source_sha256": "3be03b7a529d710d85855b318c662222131801d7441b51916c402f1fe75c4ee6",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/75": {
+      "source_sha256": "5fe96da531c12c6b13d0c1f8957788039301443d776952369cfe64f156de2bb2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/76": {
+      "source_sha256": "aa7e01d93002c7a0003d824eb8419de4e54e707df15f914f11c8be1aa8f505b3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/77": {
+      "source_sha256": "94385eb5b49e4ad703d5510c9b9d9d94c8b3a3cb6a81ffe348fcb3fb8c8cfb1e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/78": {
+      "source_sha256": "5aac3e81147b1a4b98b6f6c19e0288d5f2373e81a9704e795efe56c20186df1a",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/79": {
+      "source_sha256": "ac6e3bce05db5c7f7d4a99fcced1560e1e8f3bfe9cbfa0fcfa92d4afb3cf566b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/80": {
+      "source_sha256": "8eba7946719d165f3cb8c8114ef502e6fe881189f33e38ce775058497f5e9cbd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/81": {
+      "source_sha256": "e86aed0766258c519dcda69bdd435458cbb01b519b14e923224160f1afe1a8f2",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/82": {
+      "source_sha256": "179889655aa8badd6c0df5d56b73cce6b89ceec47f886e56afb42061e66053a7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/83": {
+      "source_sha256": "591ca979034297f2674619bb4a521250a0aa62c1a880f171b7076fc1d96cbc36",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/84": {
+      "source_sha256": "350ad4a058661c4e84ea0a002e7b818f6dfd528783aa5dadaf5756255d6b6fc3",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/85": {
+      "source_sha256": "4b443cc2b7a5c6bcf1d19d5670074d2af4eae99842a4eb4e7a9fcd0ae65272fd",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/86": {
+      "source_sha256": "573d6d8fc6e249d1d3abbee27175db453f2e38e8b71907cf6fc03175f7cd0e0b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/87": {
+      "source_sha256": "5fc897c574783cc0898f8af9ecf9b7c5573b598ccf1e37fc7168ef1aa5b8971d",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/88": {
+      "source_sha256": "9fa1f41b871b4ebe6a0cdb76c75dea783ef2ec952d8064f0e5751e7a87c68a02",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/89": {
+      "source_sha256": "9791a7eb75cdc1e4c5227ac300e252b2f87ac86848caa5e75c624ad67af759fc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/90": {
+      "source_sha256": "57a26c6bc80236363acac5abff1f67d877f8a8f32c83597b169cc6ed6c47fbeb",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/91": {
+      "source_sha256": "e7f2f3a2736b603e80b7bf1bde352fb631613bb76e92304686ea8a8dac5ab16f",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/92": {
+      "source_sha256": "3b038d2f507db04c1a7c98f4b63746a578e38782fce51b015c1de54e74e48782",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/93": {
+      "source_sha256": "330b03d9f2c063bdd664710896f7f1a46f80e4319077161c69436cc783325b23",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/94": {
+      "source_sha256": "ed0224de5e14959be68e78e27bafc11c97fa4b76f8e08c9a38775bc4afe35ed1",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/95": {
+      "source_sha256": "9c6aac50447932bce851fb293899d240dd7f1c8eaa19218dcc8504185d377dbc",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/96": {
+      "source_sha256": "dcbc650013fcc55173e4062186d230a1e4ed479b60e28bbe920af09081e4397e",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/97": {
+      "source_sha256": "dc38d9d245202840608f14f95c01faa9e706c884df7fbc1a57a89c9bf8b7886b",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/98": {
+      "source_sha256": "b96f37d79709af35ee887b8ea66f451a7e949f5532343ae26133d1db4d697a18",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/99": {
+      "source_sha256": "8a9bd82fe33f52ac6a96514b3cc227af7e846ac7695910d810de062d962c4c60",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/100": {
+      "source_sha256": "00191fb7122aa06e79a5333d27325a48ef38d7b31b90360106e1c0f3965beca4",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/101": {
+      "source_sha256": "3e8500b8f7307ee18ec7a6dd729904fdd7e46c3af6b9d150fd20f51a5925c2f7",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/102": {
+      "source_sha256": "f7e7f696acbda557bf5b5ca710f82b60b28a4b26e820c478b9da78bc9b3533ee",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/103": {
+      "source_sha256": "e1715e56017c005e1ed809c1aac90fce73a3a4f4171818f52dfa96e05d587391",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/104": {
+      "source_sha256": "32a846566eca83e9586bd041356af685bd0cbdbcef5896f07947f2d215d147af",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/59/105": {
+      "source_sha256": "cd9dd5dd9db13b9032aa0fa8dfff190b499d789ef78aabfaa126c447c00a6f05",
+      "category": "technical_cut_label",
+      "reason": "Numbered cut label followed by bracketed scene description; not a spoken line. No claim that every label is unreachable."
+    },
+    "s_text/61/2/191": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    },
+    "s_text/61/2/199": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    },
+    "s_text/61/3/191": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    },
+    "s_text/61/3/199": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    },
+    "s_text/61/6/47": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    },
+    "s_text/61/6/55": {
+      "source_sha256": "a6b7933a15713fc5d013996d54749a5dad9980bc783d29b16bfbfbaf45e00e53",
+      "category": "post_40_42_race_tail",
+      "reason": "Moogle race label after initial40/42 terminator pair, not a sentence. Runtime reachability/purpose remains explicitly unverified in E0022."
+    }
+  },
+  "allowed_latin": {
+    "s_text/1/104": [
+      "Final",
+      "Fantasy"
+    ],
+    "s_text/1/126": [
+      "B"
+    ],
+    "s_text/2/42": [
+      "Final",
+      "Fantasy"
+    ],
+    "s_text/5/24": [
+      "Final",
+      "Fantasy"
+    ],
+    "s_text/34/6": [
+      "Final",
+      "Fantasy"
+    ],
+    "s_text/62/33": [
+      "Final",
+      "Fantasy"
+    ]
+  },
+  "latin_policy": "Keep the game title Final Fantasy and the physical B button. No general English whitelist."
+}

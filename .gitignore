@@ -1,0 +1,23 @@
+# Файлы игры и бинарники не публикуются
+*.gba
+*.agb
+*.bin
+*.sav
+*.srm
+*.state
+*.ss[0-9]
+*.bps
+*.ips
+*.ups
+*.xdelta
+*.lzss
+*.a7
+*.4bpp
+*.ttf
+*.otf
+*.exe
+*.dll
+__pycache__/
+work/
+roms/
+build/

@@ -1,0 +1,1235 @@
+{
+  "batch": "UI-B002",
+  "entries": [
+    {
+      "id": "words:content/499",
+      "ru": "Кубок магов",
+      "previous_ru": "Кубок магов",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/500",
+      "ru": "Кубок бойцов",
+      "previous_ru": "Кубок бойцов",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/501",
+      "ru": "Кубок спорта",
+      "previous_ru": "Спортивный кубок",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/502",
+      "ru": "Кубок Элды",
+      "previous_ru": "Кубок Элды",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/503",
+      "ru": "Печать Огмы",
+      "previous_ru": "Печать Огмы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/504",
+      "ru": "Золотой сосуд",
+      "previous_ru": "Золотой сосуд",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/505",
+      "ru": "Медаль магии",
+      "previous_ru": "Медаль магии",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/506",
+      "ru": "Древняя медаль",
+      "previous_ru": "Древняя медаль",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/508",
+      "ru": "Медаль стражи",
+      "previous_ru": "Медаль стражи",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/509",
+      "ru": "Значок дружбы",
+      "previous_ru": "Значок дружбы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/510",
+      "ru": "Герой доблести",
+      "previous_ru": "Герой доблести",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/511",
+      "ru": "Значок",
+      "previous_ru": "Значок",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/512",
+      "ru": "Радугит",
+      "previous_ru": "Радугит",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/513",
+      "ru": "Тройной клык",
+      "previous_ru": "Тройной клык",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/514",
+      "ru": "Кошачьи слёзы",
+      "previous_ru": "Кошачьи слёзы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/515",
+      "ru": "Румянец дамы",
+      "previous_ru": "Румянец дамы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/516",
+      "ru": "Камень грома",
+      "previous_ru": "Камень грома",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/517",
+      "ru": "Камень бури",
+      "previous_ru": "Камень бури",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/518",
+      "ru": "Эстерот",
+      "previous_ru": "Эстерот",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/519",
+      "ru": "Глаз аримана",
+      "previous_ru": "Глаз аримана",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/520",
+      "ru": "Драконий камень",
+      "previous_ru": "Драконий камень",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/521",
+      "ru": "Топаз. браслет",
+      "previous_ru": "Топазовый браслет",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/522",
+      "ru": "Руда зодиака",
+      "previous_ru": "Зодиакальная руда",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/523",
+      "ru": "Сильврил",
+      "previous_ru": "Сильврил",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/524",
+      "ru": "Материт",
+      "previous_ru": "Материт",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/525",
+      "ru": "Листоун",
+      "previous_ru": "Листоун",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/526",
+      "ru": "Адамантит",
+      "previous_ru": "Адамантит",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/527",
+      "ru": "Камень духов",
+      "previous_ru": "Камень духов",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/528",
+      "ru": "Янтарь",
+      "previous_ru": "Янтарь",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/529",
+      "ru": "Адамант. сплав",
+      "previous_ru": "Адамантовый сплав",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/531",
+      "ru": "Круситовый сплав",
+      "previous_ru": "Круситовый сплав",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/532",
+      "ru": "Магнетит",
+      "previous_ru": "Магнетит",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/533",
+      "ru": "Чёрная нить",
+      "previous_ru": "Чёрная нить",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/534",
+      "ru": "Белая нить",
+      "previous_ru": "Белая нить",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/535",
+      "ru": "Кожа чокобо",
+      "previous_ru": "Кожа чокобо",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/536",
+      "ru": "Волшебная ткань",
+      "previous_ru": "Волшебная ткань",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/537",
+      "ru": "Магич. хлопок",
+      "previous_ru": "Волшебный хлопок",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/538",
+      "ru": "Кровавая шаль",
+      "previous_ru": "Кровавая шаль",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/539",
+      "ru": "Крыло аримана",
+      "previous_ru": "Крыло аримана",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/540",
+      "ru": "Крыло феи",
+      "previous_ru": "Крыло феи",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/541",
+      "ru": "Оболочка бомбы",
+      "previous_ru": "Оболочка бомбы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/542",
+      "ru": "Шкура пантеры",
+      "previous_ru": "Шкура пантеры",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/543",
+      "ru": "Тигриная шкура",
+      "previous_ru": "Тигриная шкура",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/544",
+      "ru": "Вяленое мясо",
+      "previous_ru": "Вяленое мясо",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/546",
+      "ru": "Яйцо чокобо",
+      "previous_ru": "Яйцо чокобо",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/547",
+      "ru": "Златошляпка",
+      "previous_ru": "Златошляпка",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/548",
+      "ru": "Живая вода",
+      "previous_ru": "Живая вода",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/549",
+      "ru": "Элдагусто",
+      "previous_ru": "Элдагусто",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/550",
+      "ru": "Сирил. морож.",
+      "previous_ru": "Сирильское мороженое",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/551",
+      "ru": "Хлеб чокобо",
+      "previous_ru": "Хлеб чокобо",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/553",
+      "ru": "Детский хлеб",
+      "previous_ru": "Детский хлеб",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/554",
+      "ru": "Хлеб[[1D05]]взрослых",
+      "previous_ru": "Хлеб[[1D05]]взрослых",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/555",
+      "ru": "Вино мальборо",
+      "previous_ru": "Вино мальборо",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/556",
+      "ru": "Суп Гедегг",
+      "previous_ru": "Суп Гедегг",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/557",
+      "ru": "Древний текст",
+      "previous_ru": "Древний текст",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/558",
+      "ru": "Магич. пергамент",
+      "previous_ru": "Волшебный пергамент",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/559",
+      "ru": "Значок правосуд.",
+      "previous_ru": "Значок правосудия",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/560",
+      "ru": "Значок дружбы",
+      "previous_ru": "Значок дружбы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/561",
+      "ru": "Повесть Рунбы",
+      "previous_ru": "Повесть Рунбы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/562",
+      "ru": "Герой Гаол",
+      "previous_ru": "Герой Гаол",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/563",
+      "ru": "Том Эдаройи",
+      "previous_ru": "Том Эдаройи",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/564",
+      "ru": "Домашняя работа",
+      "previous_ru": "Домашнее задание",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/565",
+      "ru": "Энциклопедия",
+      "previous_ru": "Энциклопедия",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/566",
+      "ru": "Словарь",
+      "previous_ru": "Словарь",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/567",
+      "ru": "Атлас чудовищ",
+      "previous_ru": "Атлас чудовищ",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/568",
+      "ru": "Тайные книги",
+      "previous_ru": "Тайные книги",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/569",
+      "ru": "Альбом рисунков",
+      "previous_ru": "Альбом для рисунков",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/570",
+      "ru": "Плюшевый мишка",
+      "previous_ru": "Плюшевый медведь",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/571",
+      "ru": "Крысиный хвост",
+      "previous_ru": "Крысиный хвост",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/572",
+      "ru": "Кроличий хвост",
+      "previous_ru": "Кроличий хвост",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/573",
+      "ru": "Дерево данбука",
+      "previous_ru": "Древесина данбука",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/574",
+      "ru": "Лунная древесина",
+      "previous_ru": "Лунная древесина",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/575",
+      "ru": "Страдивари",
+      "previous_ru": "Страдивари",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/576",
+      "ru": "Столб часов",
+      "previous_ru": "Столб часов",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/577",
+      "ru": "Перьевая ручка",
+      "previous_ru": "Перьевая ручка",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/578",
+      "ru": "Беруши",
+      "previous_ru": "Беруши",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/579",
+      "ru": "Кристалл",
+      "previous_ru": "Кристалл",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/580",
+      "ru": "Старая статуя",
+      "previous_ru": "Старая статуя",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/581",
+      "ru": "Значок «Соседи»",
+      "previous_ru": "Значок «Соседи»",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/582",
+      "ru": "Трихорд",
+      "previous_ru": "Трихорд",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/583",
+      "ru": "Ржавый меч",
+      "previous_ru": "Ржавый меч",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/584",
+      "ru": "Сломанный меч",
+      "previous_ru": "Сломанный меч",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/585",
+      "ru": "Погнутый меч",
+      "previous_ru": "Погнутый меч",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/586",
+      "ru": "Ржавое копьё",
+      "previous_ru": "Ржавое копьё",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/587",
+      "ru": "Печать огня",
+      "previous_ru": "Печать огня",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/588",
+      "ru": "Печать воды",
+      "previous_ru": "Печать воды",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/589",
+      "ru": "Печать ветра",
+      "previous_ru": "Печать ветра",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/590",
+      "ru": "Печать земли",
+      "previous_ru": "Печать земли",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/591",
+      "ru": "Кеффил разума",
+      "previous_ru": "Кеффил разума",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/592",
+      "ru": "Кеффил тела",
+      "previous_ru": "Кеффил тела",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/593",
+      "ru": "Значок пера",
+      "previous_ru": "Значок пера",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/594",
+      "ru": "Эмблема",
+      "previous_ru": "Эмблема",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/595",
+      "ru": "Искатель союзн.",
+      "previous_ru": "Искатель союзников",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/596",
+      "ru": "Искатель союз. 2",
+      "previous_ru": "Искатель союзников 2",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/597",
+      "ru": "Шкатулка покоя",
+      "previous_ru": "Шкатулка покоя",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/598",
+      "ru": "Шулерские кости",
+      "previous_ru": "Шулерские кости",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/599",
+      "ru": "Змеиный щит",
+      "previous_ru": "Змеиный щит",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/600",
+      "ru": "Верёвка стазиса",
+      "previous_ru": "Верёвка стазиса",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/601",
+      "ru": "Мифрил. кирка",
+      "previous_ru": "Мифриловая кирка",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/602",
+      "ru": "Карав. мускус",
+      "previous_ru": "Караванный мускус",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/603",
+      "ru": "Любовное зелье",
+      "previous_ru": "Любовное зелье",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/604",
+      "ru": "Лампа тонберри",
+      "previous_ru": "Лампа тонберри",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/605",
+      "ru": "Свиток Стилпула",
+      "previous_ru": "Свиток Стилпула",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/606",
+      "ru": "Ваза для цветов",
+      "previous_ru": "Ваза для цветов",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/607",
+      "ru": "Драконья кость",
+      "previous_ru": "Драконья кость",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/608",
+      "ru": "Кость зверя",
+      "previous_ru": "Кость зверя",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/609",
+      "ru": "Череп",
+      "previous_ru": "Череп",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/610",
+      "ru": "Ключ Хелье",
+      "previous_ru": "Ключ Хелье",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/611",
+      "ru": "Часовая шестерня",
+      "previous_ru": "Часовая шестерня",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/612",
+      "ru": "Ружейн. мех.",
+      "previous_ru": "Ружейный механизм",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/613",
+      "ru": "Разбрызгиватель",
+      "previous_ru": "Разбрызгиватель",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/614",
+      "ru": "Шёлковый цветок",
+      "previous_ru": "Шёлковый цветок",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/615",
+      "ru": "Лунный цветок",
+      "previous_ru": "Лунный цветок",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/616",
+      "ru": "Цветок телак",
+      "previous_ru": "Цветок телак",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/617",
+      "ru": "Синяя роза",
+      "previous_ru": "Синяя роза",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/618",
+      "ru": "Белые цветы",
+      "previous_ru": "Белые цветы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/619",
+      "ru": "Кровавое яблоко",
+      "previous_ru": "Кровавое яблоко",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/620",
+      "ru": "Плод магии",
+      "previous_ru": "Плод магии",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/621",
+      "ru": "Плод силы",
+      "previous_ru": "Плод силы",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/622",
+      "ru": "Киноварь",
+      "previous_ru": "Киноварь",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/623",
+      "ru": "Краденые гили",
+      "previous_ru": "Краденые гили",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/624",
+      "ru": "Древние купюры",
+      "previous_ru": "Древние купюры",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    },
+    {
+      "id": "words:content/625",
+      "ru": "Древние монеты",
+      "previous_ru": "Древние монеты",
+      "font_profile": "compact_ui",
+      "max_width": 88,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified",
+      "revision_note": "UI-B002: quest-item list label; conservative 88px screening inherited from equipment shop test. Quest-item windows not runtime verified; full prior form retained in previous_ru."
+    }
+  ]
+}

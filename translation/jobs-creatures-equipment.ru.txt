@@ -1,0 +1,390 @@
+# P03/P04-B001 — рабочие названия. Окна меню и сокращения требуют интеграционной проверки.
+# Пропущены dummy 81,82,123 и записи со специальной версткой 177,202,236,257,306,307,319,342.
+words:content/1|Ариман
+words:content/2|Ледяной флан
+words:content/3|Синий маг
+words:content/4|Красный маг
+words:content/5|Ассасин
+words:content/6|Алхимик
+words:content/7|Муравьиный лев
+words:content/8|Крем
+words:content/9|Вампир
+words:content/10|Пожиратель клинков
+words:content/11|Защитник
+words:content/12|Механик
+words:content/13|Кёрл
+words:content/14|Гладиатор
+words:content/15|Граната
+words:content/16|Чёрный маг
+words:content/17|Иллюзионист
+words:content/18|Гоблин
+words:content/19|Громовой дракон
+words:content/20|Вор
+words:content/21|Элементалист
+words:content/22|Жонглёр
+words:content/23|Стрелок
+words:content/24|Призыватель
+words:content/25|Белый маг
+words:content/26|Снайпер
+words:content/27|Дух
+words:content/28|Мудрец
+words:content/29|Солдат
+words:content/30|Зомби
+words:content/31|Титания
+words:content/32|Боец
+words:content/33|Анимист
+words:content/34|Маг времени
+words:content/35|Оборотень
+words:content/36|Тонберри
+words:content/37|Мастер-тонберри
+words:content/38|Ниндзя
+words:content/39|Паладин
+words:content/40|Храмовник
+words:content/41|Охотник
+words:content/42|Епископ
+words:content/43|Воин
+words:content/44|Костолом
+words:content/45|Фехт.
+words:content/46|Ледяной дракон
+words:content/47|Толстокожий
+words:content/48|Парящий глаз
+words:content/49|Бомба
+words:content/50|Белый монах
+words:content/51|Укрот.
+words:content/52|Рыцарь-мугл
+words:content/53|Мальборо
+words:content/54|Большой мальборо
+words:content/55|Лучник
+words:content/56|Ламия
+words:content/57|Драгун
+words:content/58|Лилит
+words:content/59|Красный колпак
+words:content/60|Огненный змей
+words:content/61|Красная пантера
+words:content/62|Желе
+words:content/63|Искатель рун
+words:content/64|Герметик
+words:content/65|Бисматар
+words:content/66|Ли-Грим
+words:content/67|Тотема
+words:content/68|Верховный судья
+words:content/69|Судья
+words:content/70|Новенький
+words:content/71|Библиотекарь
+words:content/72|Староста
+words:content/73|Физрук
+words:content/74|Диджей
+words:content/75|Медсестра
+words:content/76|Смотритель
+words:content/77|Господин Лесле
+words:content/78|Королева битвы
+words:content/79|Аватар
+words:content/80|Дефс
+words:content/83|Взломщик
+words:content/84|Ящик
+words:content/85|Статуя
+words:content/86|Сфера
+words:content/87|Капо Борзой
+words:content/88|Главарь Борзой
+words:content/89|Фалгабёрд
+words:content/90|Нага
+words:content/91|Тёмный рыцарь
+words:content/92|Святой рыцарь
+words:content/93|Лукави
+words:content/94|Мировой змей
+words:content/95|Главарь Ба
+words:content/96|Мечник
+words:content/97|Инверлилит
+words:content/98|Высший мальборо
+words:content/99|Кузнец
+words:content/100|Оружейник
+words:content/101|Высший кёрл
+words:content/102|Заблудший
+words:content/103|Страж руин
+words:content/104|Жуткий ворон
+words:content/105|Мать бомб
+words:content/106|Красные крылья
+words:content/107|Рунный рыцарь
+words:content/108|Королева ламий
+words:content/109|Адамантойз
+words:content/110|Очу
+words:content/111|Неочу
+words:content/112|Владыка ужаса
+words:content/113|Сородич
+words:content/114|Главарь Хел
+words:content/115|Главарь Гелм
+words:content/116|Главарь Кагл
+words:content/117|Главарь Фес
+words:content/118|Мастер меча
+words:content/119|Мать фланов
+words:content/120|Дьяволборо
+words:content/121|Клан Борзой
+words:content/122|Чиновник
+words:content/124|Короткий меч
+words:content/125|Серебряный меч
+words:content/126|Бастер-меч
+words:content/127|Меч вора
+words:content/128|Меч бури
+words:content/129|Кровавый меч
+words:content/130|Восстановитель
+words:content/131|Витанова
+words:content/132|Мифриловый меч
+words:content/133|Меч победителя
+words:content/134|Луковый меч
+words:content/135|Тиридзирадэн
+words:content/136|Меч Лагласа
+words:content/137|Разящий клинок
+words:content/138|Теневой клинок
+words:content/139|Солнечный клинок
+words:content/140|Клинок Атмоса
+words:content/141|Язык пламени
+words:content/142|Воздушный клинок
+words:content/143|Ледяное клеймо
+words:content/144|Клинок Квигона
+words:content/145|Клинок Огуна
+words:content/146|Жемчужный клинок
+words:content/147|Клинок Параиба
+words:content/148|Клинок Венеры
+words:content/149|Клинок материи
+words:content/150|Мифриловый клинок
+words:content/151|Эбеновый клинок
+words:content/152|Адамантовый клинок
+words:content/153|Красный Айвуир
+words:content/154|Синий Айвуир
+words:content/155|Синяя сабля
+words:content/156|Шамшир
+words:content/157|Водная сабля
+words:content/158|Харпа
+words:content/159|Марганец
+words:content/160|Мифриловая сабля
+words:content/161|Тальвар
+words:content/162|Сабля душ
+words:content/163|Защитник
+words:content/164|Апокалипсис
+words:content/165|Львиное сердце
+words:content/166|Рагнарок
+words:content/167|Лоэнгрин
+words:content/168|Спаси королеву
+words:content/169|Великий меч
+words:content/170|Экскалибур
+words:content/171|Мифриловый палаш
+words:content/172|Экскалибур II
+words:content/173|Награрок
+words:content/174|Последовательность
+words:content/175|Баронг
+words:content/176|Древний меч
+words:content/178|Твёрдая грань
+words:content/179|Мститель
+words:content/180|Занкплюс
+words:content/181|Меч мастера
+words:content/182|Долг
+words:content/183|Ледяная призма
+words:content/184|Крушитель чар
+words:content/185|Меч Самсона
+words:content/186|Фальшион
+words:content/187|Хищник
+words:content/188|Стрибог
+words:content/189|Меч Эль Сида
+words:content/190|Клеймор
+words:content/191|Ваджра
+words:content/192|Табариз
+words:content/193|Ромфея
+words:content/194|Звериный меч
+words:content/195|Затмение
+words:content/196|Эстреледж
+words:content/197|Складной нож
+words:content/198|Крис
+words:content/199|Кукри
+words:content/200|Кард
+words:content/201|Скрамасакс
+words:content/203|Джамбия
+words:content/204|Зорлин
+words:content/205|Мечелом
+words:content/206|Орихалк
+words:content/207|Чинкуэда
+words:content/208|Мифриловый нож
+words:content/209|Тонберрийский нож
+words:content/210|Топотун
+words:content/211|Жало
+words:content/212|Эсток
+words:content/213|Флорет
+words:content/214|Скарлетт
+words:content/215|Фламберг
+words:content/216|Серебряная рапира
+words:content/217|Флисса джинна
+words:content/218|Жуайёз
+words:content/219|Сокрушитель магов
+words:content/220|Колишемард
+words:content/221|Гупти Ага
+words:content/222|Маду
+words:content/223|Рапира-призма
+words:content/224|Мифриловая рапира
+words:content/225|Последнее письмо
+words:content/226|Диаболик
+words:content/227|Роковая женщина
+words:content/228|Воздушная дыра
+words:content/229|Нож ниндзя
+words:content/230|Мурасамэ
+words:content/231|Асура
+words:content/232|Осафунэ
+words:content/233|Ловец лепестков
+words:content/234|Котэцу
+words:content/235|Кикуитимондзи
+words:content/237|Носада
+words:content/238|Масамунэ
+words:content/239|Дзанмато
+words:content/240|Мифриловая шпага
+words:content/241|Масамунэ 100
+words:content/242|Угольный огонь
+words:content/243|Шёлковая луна
+words:content/244|Белый посох
+words:content/245|Посох защиты
+words:content/246|Посох судьи
+words:content/247|Посох лечения
+words:content/248|Чистый посох
+words:content/249|Посох благодати
+words:content/250|Змеиный посох
+words:content/251|Весенний посох
+words:content/252|Гранатовый посох
+words:content/253|Посох ободрения
+words:content/254|Посох нирваны
+words:content/255|Мифриловый посох
+words:content/256|Посох силы
+words:content/258|Жезл
+words:content/259|Огненное колесо
+words:content/260|Громовой жезл
+words:content/261|Снежный жезл
+words:content/262|Земляной жезл
+words:content/263|Жезл мощи
+words:content/264|Пламенный жезл
+words:content/265|Жезл Тора
+words:content/266|Морозный жезл
+words:content/267|Жезл звёздной пыли
+words:content/268|Жезл принцессы
+words:content/269|Мифриловый жезл
+words:content/270|Жезл еретика
+words:content/271|Дерзай знать
+words:content/272|Боевая булава
+words:content/273|Булава энергии
+words:content/274|Булава друида
+words:content/275|Посох мудреца
+words:content/276|Моргенштерн
+words:content/277|Мандрагора
+words:content/278|Посох жизни
+words:content/279|Булава лотоса
+words:content/280|Хвост скорпиона
+words:content/281|Булава Зевса
+words:content/282|Мифриловая булава
+words:content/283|Палка кактуса
+words:content/284|Вечерняя звезда
+words:content/285|Длинный лук
+words:content/286|Угольный лук
+words:content/287|Шипастый лук
+words:content/288|Гвоздевой лук
+words:content/289|Серебряный лук
+words:content/290|Лук Артемиды
+words:content/291|Лук Ёити
+words:content/292|Прицельный лук
+words:content/293|Лук Персея
+words:content/294|Мифриловый лук
+words:content/295|Лук полумесяца
+words:content/296|Мальборо-лук
+words:content/297|Лук ветров
+words:content/298|Лук следопыта
+words:content/299|Краникен
+words:content/300|Двойной лук
+words:content/301|Охотничий лук
+words:content/302|Волшебный лук
+words:content/303|Лук Аида
+words:content/304|Лук Ники
+words:content/305|Лук мастера
+words:content/308|Мифриловый выстрел
+words:content/309|Лук Мардука
+words:content/310|Лук Гастры
+words:content/311|Арбалет
+words:content/312|Дротик
+words:content/313|Лавовое копьё
+words:content/314|Га Болг
+words:content/315|Ледяное копьё
+words:content/316|Протазан
+words:content/317|Копьё Каина
+words:content/318|Трезубец
+words:content/320|Мифриловое копьё
+words:content/321|Копьё Одина
+words:content/322|Звериное копьё
+words:content/323|Шип бангаа
+words:content/324|Колокол демона
+words:content/325|Стеклянный колокол
+words:content/326|Боевой горн
+words:content/327|Раковина
+words:content/328|Колокол земли
+words:content/329|Чёрная кена
+words:content/330|Флейта сатира
+words:content/331|Арфа феи
+words:content/332|Флейта Аона
+words:content/333|Лечебный звон
+words:content/334|Кровавые струны
+words:content/335|Мифриловый колокол
+words:content/336|Тёмная скрипка
+words:content/337|Злые кастаньеты
+words:content/338|Твёрдые кастеты
+words:content/339|Восход
+words:content/340|Болезнь
+words:content/341|Когти грёз
+words:content/343|Кошачьи когти
+words:content/344|Выживший
+words:content/345|Белые клыки
+words:content/346|Длань бога
+words:content/347|Тигриные клыки
+words:content/348|Когти смерти
+words:content/349|Мифриловые когти
+words:content/350|Масляный взрыв
+words:content/351|Волшебные руки
+words:content/352|Душа гоблина
+words:content/353|Душа флана
+words:content/354|Душа бомбы
+words:content/355|Душа дракона
+words:content/356|Душа ламии
+words:content/357|Душа жука
+words:content/358|Душа пантеры
+words:content/359|Душа мальборо
+words:content/360|Душа глаза
+words:content/361|Мифриловая душа
+words:content/362|Душа ужаса
+words:content/363|Душа лукави
+words:content/364|Пистолет Айот
+words:content/365|Серебряная пушка
+words:content/366|Пистолет бунта
+words:content/367|Винтовка хаоса
+words:content/368|Потерянный ствол
+words:content/369|Миротворец
+words:content/370|Пистолет Джиот
+words:content/371|Длинный ствол
+words:content/372|Чужак
+words:content/373|Мифриловый пистолет
+words:content/374|Сковывающий выстрел
+words:content/375|Зовущий пистолет
+words:content/376|Бронзовый щит
+words:content/377|Круглый щит
+words:content/378|Опаловый щит
+words:content/379|Ледяной щит
+words:content/380|Пламенный щит
+words:content/381|Эгида
+words:content/382|Щит Гэндзи
+words:content/383|Священный щит
+words:content/384|Щит Сидзин
+words:content/385|Щит чокобо
+words:content/386|Ла Серафика
+words:content/387|Щит грёз
+words:content/388|Бронзовый шлем
+words:content/389|Железный шлем
+words:content/390|Опаловый шлем
+words:content/391|Крестовый шлем
+words:content/392|Алмазный шлем
+words:content/393|Шлем Гэндзи
+words:content/394|Парадный шлем
+words:content/395|Маска Хання
+words:content/396|Шлем бангаа
+words:content/397|Качуша
+words:content/398|Заколка
+words:content/399|Лента

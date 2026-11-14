@@ -1,0 +1,1433 @@
+{
+  "batch": "ALL-DISPATCH-REPORTS-01",
+  "entries": [
+    {
+      "id": "fx_text/11/0",
+      "ru": "[[4600]][[[41C]]] —\nбольшой успех! Нам\nдали премию![[56]][[42]]",
+      "source_sha256": "1e786fb937657d2f2732616da0f3ed370eeb03c0d85fe63aebad23f56313486d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/1",
+      "ru": "Ура!\n[[4600]][[[41C]]]\nвыполнено![[56]][[42]]",
+      "source_sha256": "5fefa22ae6fc3f8bf9683a31f51f4b13645ab46a6f7c0de842efa353b74af69b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/2",
+      "ru": "[[4600]][[[41C]]]\nпрошло хорошо.\nВперёд, к следующему![[56]][[42]]",
+      "source_sha256": "850e004e4bf8b99be99fe50a7555ec60012a5870313fb6de1dd600d11b4cef3b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/3",
+      "ru": "Всё прошло хорошо!\nТак держать![[56]][[42]]",
+      "source_sha256": "4da9f25f1c9ebf79b55fd80c70aa2fcb8152a4153cca79503c458fb0887bbc6f",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/4",
+      "ru": "[[4600]][[[41C]]] —\nпровал! Мы слишком\nуверены в себе?[[56]][[42]]",
+      "source_sha256": "614965b03a8adfd72fe113a9916883f4c16eed4bf81edc8e1b934367b97d7fab",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/5",
+      "ru": "[[4600]][[[41C]]] —\nпровал... Нужно\nсобраться![[56]][[42]]",
+      "source_sha256": "0918d314ebbd055edf1359213c487ab357dc913e6b0940e8d0ba0fd3118cbbd0",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/6",
+      "ru": "[[4600]][[[41C]]] —\nпровал. В другой раз\nсправимся лучше.[[56]][[42]]",
+      "source_sha256": "058c33e6089538ba7d9d10d86243abc6bfa9cb1c33cb2afd1d02408a69f62f67",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/7",
+      "ru": "Ну и полный провал.[[56]][[42]]",
+      "source_sha256": "3a16103d3feb8eb6b990fda8084d39325f9f299036441cfa2ea80c645732a1ba",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/8",
+      "ru": "На связи [[40C]]!\nПремия за\n[[4600]][[[41C]]]![[56]][[42]]",
+      "source_sha256": "dc38bd73d5ff6103f0a6b6deeed38e44ba08ef38beb6e4151d1fc073cd94df6f",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/9",
+      "ru": "На связи [[40C]]!\n[[4600]][[[41C]]] —\nуспех![[56]][[42]]",
+      "source_sha256": "eab25a63540c64605db0145ea70dae6ed6254e39190b35b7035219d059071e95",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/10",
+      "ru": "На связи [[40C]]!\n[[4600]][[[41C]]]\nвыполнено![[56]][[42]]",
+      "source_sha256": "8ca6ab33afd4d5835c13a33edb394368c16171247c4c533a7517dd4ad4d618a8",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/11",
+      "ru": "На связи [[40C]].\nЕдва удалось\nсправиться...[[56]][[42]]",
+      "source_sha256": "2f40bd8a1ae4c2220f97519b0b25e8914a050e11a9b9e479fd52ba642c5378d2",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/12",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]] —\nпровал...[[56]][[42]]",
+      "source_sha256": "9d3166abde7b997ddc07ab0eab441dda0977e1b516763a6bb28308597bb2909e",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/13",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]]\nпрошло неважно.[[56]][[42]]",
+      "source_sha256": "e6d86b3b0b4ac91c7a9925b0cce5cc3ccdc7bd70e7990fac81154028c61abadd",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/14",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]]\nОтстой! Прости![[56]][[42]]",
+      "source_sha256": "51218a59f020311597004225e8112246d9f1958bddd3cb0f9daa06f22ba5cb90",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/15",
+      "ru": "На связи [[40C]].\nПрости, вышла осечка.[[56]][[42]]",
+      "source_sha256": "a5bfa6eb3fb2638a503825a01181e3517f5982963fa7bb2ba1dc527a48f4289a",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/16",
+      "ru": "Ссвязь: [[40C]]!\n[[4600]][[[41C]]] —\nусспех![[56]][[42]]",
+      "source_sha256": "76b44a90c86b86d16f28be1c4c477d64cc57bfa84d611661741befdf7c422cd4",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/17",
+      "ru": "Ссвязь: [[40C]].\n[[4600]][[[41C]]] —\nникаких проблем.[[56]][[42]]",
+      "source_sha256": "e00e3427aeae5ec68f54cbfbf7d217c2ecebfdd8034b2402edd281827655f6dd",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/18",
+      "ru": "Ссвязь: [[40C]]!\n[[4600]][[[41C]]] —\nблесстящая победа![[56]][[42]]",
+      "source_sha256": "4c83fe96baf4166bd483835be49fdf6cb45182f4e13966f9fba0a81325cd4edf",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/19",
+      "ru": "Ссвязь: [[40C]].\nНикаких проблем.[[56]][[42]]",
+      "source_sha256": "cb2c17e8e265d52fcea896738b20edfe6d039cda32a44b833f5027c4053d6456",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/20",
+      "ru": "Ссвязь: [[40C]]...\n[[4600]][[[41C]]] —\nпровал.[[56]][[42]]",
+      "source_sha256": "cc740102e9c8e63f15986d00666b18963af2d5dcc8c05eaec05469f7f2785328",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/21",
+      "ru": "Ссвязь: [[40C]]...\n[[4600]][[[41C]]] —\nпровал! Смирись![[56]][[42]]",
+      "source_sha256": "94ba191d649527458d4d6443286fcaed42156bf2b7534cd577842bb30a405f35",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/22",
+      "ru": "Ссвязь: [[40C]]...\n[[4600]][[[41C]]] —\nпока провал.[[56]][[42]]",
+      "source_sha256": "eafcf4f1b04be8f785d0aaaaa3c3069956e3665c08b81c3264df687eed670975",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/23",
+      "ru": "Ссвязь: [[40C]].\nПоражение. Ссмеешь\nжаловаться?[[56]][[42]]",
+      "source_sha256": "a11a2a719213d933df45f1036e0000bdb263b3f778ddfb85fa1ed0d5b48ecff6",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/24",
+      "ru": "На связи [[40C]].\nПремия за\n[[4600]][[[41C]]].[[56]][[42]]",
+      "source_sha256": "3bc8ca77a20951806123adedeb6bbd886acea363dfca406eaf2144ad90c1b492",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/25",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]] —\nуспех.[[56]][[42]]",
+      "source_sha256": "d71f69f43e308aed7d10888004ec733aed4c1972ac750bc54a570056b0fc78fd",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/26",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]]\nвыполнено умело.[[56]][[42]]",
+      "source_sha256": "c55f201b8ad0506953162f27d19edcdc3fa3b8f18ace70331ef4496d72706ef2",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/27",
+      "ru": "На связи [[40C]].\nПобеда далась нелегко.[[56]][[42]]",
+      "source_sha256": "d857bb645a528c3cfd5d200fce797dd7d0376e88e3974087688864e03a677a4c",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/28",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]]\nПровал. Простите.[[56]][[42]]",
+      "source_sha256": "a9a489ce46ae3286efaf74ded6a53b94aff21a020e92f69eb87524e4021ff6bf",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/29",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]] —\nэто... провал.[[56]][[42]]",
+      "source_sha256": "5acac0ff76871adfd500b097c4ba75f309dbb26362ebaf13b892780bbe2b63b3",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/30",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]]\nпрошло плохо.[[56]][[42]]",
+      "source_sha256": "491c11d5e55e822b10537c9ea554f86cc327328c4c49b759535be33579132f1d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/31",
+      "ru": "На связи [[40C]].\nПрошу прощения.\nПобеды нет.[[56]][[42]]",
+      "source_sha256": "ce72559f19bb035aecf0a3d7f4c8ed6723ab3c56201d336da8ba8b90ed9c762e",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/32",
+      "ru": "На связи [[40C]]!\n[[4600]][[[41C]]] —\nтриумф![[56]][[42]]",
+      "source_sha256": "8bf3d90c7e866f1860b6dd0438f4e8dcc617e3d2d868908a0cec18fc55f58e26",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/33",
+      "ru": "На связи [[40C]].\n[[4600]][[[41C]]] —\nслишком легко.[[56]][[42]]",
+      "source_sha256": "56636b3b4c30bb385548f99b927c39cc59e8edfa0efcc98233cb8b94bc9a0f95",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/34",
+      "ru": "На связи [[40C]]!\n[[4600]][[[41C]]]\nСлишком быстро![[56]][[42]]",
+      "source_sha256": "68ac4fed53d047c737c3942dabab0803a895a5e186e5479e32947e651a7ee13d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/35",
+      "ru": "На связи [[40C]].\nВсё хорошо, к\nсчастью...[[56]][[42]]",
+      "source_sha256": "2aa7d25c96174fbc92f4dc8e60e8758f4fc5ca042abc6ec803c48d1ad93e8d10",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/36",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]]\nпрошло неважно.[[56]][[42]]",
+      "source_sha256": "f958886d31435184b7f7204b1bac16d79b03946988d1a50022641ea9ea155566",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/37",
+      "ru": "На связи [[40C]]...\n[[4600]][[[41C]]] —\nэ-э, плохо.[[56]][[42]]",
+      "source_sha256": "47befb736e8d1e766274abbf124ee6ee1603ddb859152f4205b977c6411797c6",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/39",
+      "ru": "На связи [[40C]].\nПрости, прости!\nПолная неудача.[[56]][[42]]",
+      "source_sha256": "746b27771bae11bdd73938c302be5c2fd17cadfbe3b378e15865fb78caabe5a0",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/40",
+      "ru": "[[101]][[40C]], купо!\n[[4600]][[[41C]]] —\nкупо-успех![[56]][[42]]",
+      "source_sha256": "4ba60b1c9dea4c7c40d70d6bbc6b41ec7316cae6c25c818288ce0fcfabb1a34b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/41",
+      "ru": "[[101]][[40C]], купо!\n[[4600]][[[41C]]]\nготово, купо![[56]][[42]]",
+      "source_sha256": "afb7f4cf8c94a06efe6f027861a98578444cb676663e3ba8b268c665a9f6c1f3",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/42",
+      "ru": "[[103]][[40C]], купо.\n[[4600]][[[41C]]] —\nлегко![[56]][[42]]",
+      "source_sha256": "d6b3061064c9b23804b0874e5a6fc548161563a44238ec43949151e9f5ebe092",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/43",
+      "ru": "[[103]][[40C]], купо. Всё\nхорошо.[[56]][[42]]",
+      "source_sha256": "9be707c8d08e0b795a924ae5da3622daf5d8130a13f6d250e12a4c0a0a594bac",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/44",
+      "ru": "[[104]][[40C]], купо...\n[[4600]][[[41C]]] —\nпровал...[[56]][[42]]",
+      "source_sha256": "ee4dbd826b3a48f1af74cc6a17587c8c7d97f4e20c9c73821a3ae6aa6ebe2a3b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/45",
+      "ru": "[[104]][[40C]], купо...\n[[4600]][[[41C]]] —\nслишком трудно, купо.[[56]][[42]]",
+      "source_sha256": "d7f155b7e75a6446938aa0dd7a9cde7d46a6ee0c09001363340e043c26805623",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/46",
+      "ru": "[[104]][[40C]], купо...\n[[4600]][[[41C]]] —\nэ-э... не купо.[[56]][[42]]",
+      "source_sha256": "23374b5fb260905a8cf68e014afafe10fa87d5af9ac1464184879fb25b22d01f",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/47",
+      "ru": "[[104]][[40C]], купо.\nЧестно? Полный позор,\nкупо.[[56]][[42]]",
+      "source_sha256": "21b82fe644e694174db4525289f1f2dc6c72dce035b665752304e9fd648c2f60",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/48",
+      "ru": "[[510A]][[1D04]]на [[1D04]]связи.[[1D04]][[1D04]][[1D04]]\n[[4600]][[[41C]]]\nПо-моему, успех![[56]][[42]]",
+      "source_sha256": "5625ffc1bc5701cc299f9b42b45d0a759ea04a9a09d4fb5e0e723671ecfee925",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/49",
+      "ru": "На связи [[510A]].\n[[4600]][[[41C]]] —\nникаких проблем![[56]][[42]]",
+      "source_sha256": "690e47a748be4c94461d62fb46c10a2f70c069a50c83e1a3974081ccfe5bcb51",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/50",
+      "ru": "На связи [[510A]]...\n[[4600]][[[41C]]]\nВсё прошло хорошо.[[56]][[42]]",
+      "source_sha256": "e79a3dab8174b744bd7e2461d1eca731bfeb164fb909fbdf822b5216f8a9a7d1",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/51",
+      "ru": "На связи [[510A]]. Со\nмной во [[1D03]]главе [[1D03]]не[[1B01]]че[[1D03]]го\n[[1D03]]бояться, верно?[[56]][[42]]",
+      "source_sha256": "f35ddac0c159f872ad5776f0c4fb63053d7504a661c457963953b77a957b2882",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/52",
+      "ru": "На связи [[510A]]. Э-э...\n[[4600]][[[41C]]] —\nпровал. Прости![[56]][[42]]",
+      "source_sha256": "96a374cc646bb0b762ec6c1e143c8fce231bd50efcbd97e7a334a29a6ad344b3",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/53",
+      "ru": "На связи [[510A]].\n[[4600]][[[41C]]]\nПрости, всё плохо.[[56]][[42]]",
+      "source_sha256": "19219f26b05bdd88c089d8a296f5e2d0f6ab38aebf3bebaf6f6994332e3886d7",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/54",
+      "ru": "На связи [[510A]]. Устал.\n[[4600]][[[41C]]] —\nпровал. Прости.[[56]][[42]]",
+      "source_sha256": "2e68049a4e6437d1ec0cb1f44cdc75089e601eaf2880ca6681c2f685f621f9b5",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/55",
+      "ru": "[[510A]]: прости!\nПровал... Я [[1D04]]думал, [[1D04]]что\n[[1D04]]всё [[1D04]]выйдет![[56]][[42]]",
+      "source_sha256": "d2be5cc326a93122be74580d8554f8d318eff9999d03f90848bae39b10fd7ec3",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/56",
+      "ru": "Докладывает [[5109]]\nСуэйн. Премия за[[1D03]]\n[[4600]][[[41C]]]![[56]][[42]]",
+      "source_sha256": "18ce60c1d52c3177821d5bc6a0e07ba7984606f737b4aec0ca97d3f16781df33",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/57",
+      "ru": "[[5109]] Суэйн.\n[[4600]][[[41C]]]\nУспех.[[56]][[42]]",
+      "source_sha256": "30325556da0e1fd1e5d0a85ff73d2f244706aef30c074c4a6a72058a8f9af161",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/58",
+      "ru": "[[5109]] Суэйн.\n[[4600]][[[41C]]]\nБез помех.[[56]][[42]]",
+      "source_sha256": "e8d67c5dc6b97d57179166ee9dd692495d9cdaf3c70a76350b3ef03a0e12fcbe",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/59",
+      "ru": "[[5109]] Суэйн: задание\nвыполнено.\nВозвращаюсь в клан.[[56]][[42]]",
+      "source_sha256": "c752517081f0bfd683109133a74e6057c03e4aa8551e4e21f51bf61e69aa665e",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/60",
+      "ru": "[[5109]] Суэйн.\n[[4600]][[[41C]]]\nПровал. Простите.[[56]][[42]]",
+      "source_sha256": "1df9e1ffb3507178805f624415f672ca6db94e9458606c3f4f900e702625cde8",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/61",
+      "ru": "[[5109]] Суэйн:\n[[4600]][[[41C]]]\nНе[[1D04]]то[[1D04]]мы[[1D04]]все[[1D04]]ждали.[[1D04]][[56]][[42]]",
+      "source_sha256": "2b994a6e8d2bb056a61069e9ce5be770f2b9e3852ff1e950261eb3794ee6a39d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/62",
+      "ru": "[[5109]] Суэйн.\n[[4600]][[[41C]]]\nПровал.[[1D02]] Вина[[1D03]]...[[1B01]].[[1B01]].[[1D03]]моя.[[56]][[42]]",
+      "source_sha256": "0ff47a661fc0631f87d02f6f4938a9db501fe50a6dbbd6f993ad7702d87bc844",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/63",
+      "ru": "[[5109]] Суэйн: проиграл.\nНо[[1D04]]я[[1D04]]верю[[1D04]]в[[1D04]]новый бой![[1D04]][[56]][[42]]",
+      "source_sha256": "cb8805a6fff9f0ca0a0af161e1451e341b6b0f32247c6ab25e7813561dca997f",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/65",
+      "ru": "Фух, тяжело пришлось!\nНо [[4600]][[[41C]]]\nготово![[56]][[42]]",
+      "source_sha256": "d5897ceac46c846c10083f9fd48877e199d73edb3c3c53b8e47e8aded9a50499",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/66",
+      "ru": "[[4600]][[[41C]]][[1D03]] —\nуспех. Хорош [[1D04]]наш\n[[1D04]]клан, [[1D04]]да?[[56]][[42]]",
+      "source_sha256": "c947caff9ee68528f25331801166dbfaaba72910ac6c9616abd2477a2d67d4c4",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/67",
+      "ru": "На связи [[5104]]. Трудно,\nно я как-то\nсправилась.[[56]][[42]]",
+      "source_sha256": "ca6bdc3fdd2283598c8fb5d96be4dd1fff25b211b9dde40f50dcebe6b958cb30",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/68",
+      "ru": "Прости, прости!\n[[4600]][[[41C]]] —\nполный провал...[[56]][[42]]",
+      "source_sha256": "043c91f398138435626dffba840b553089a32725c76c36ee287f1e26d5c9791b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/69",
+      "ru": "Как так вышло?\n[[4600]][[[41C]]]\nНу[[1D03]]как [[1D03]]же [[1D03]]так?[[1D03]][[1D03]][[56]][[42]]",
+      "source_sha256": "a3a880bb72d1d137e2103a8a67df73ba51c0c0adc226cf8a1a7db7c9e70f2c4b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/70",
+      "ru": "[[4600]][[[41C]]][[1D03]]\nПровал. Прости...\n[[1D04]]Ты [[1D04]]ведь [[1D04]]верил [[1D04]]мне.[[56]][[42]]",
+      "source_sha256": "db022424f5e164f2fa2c807cfe1a044e3714bd647d5324becc58fd34e07440c9",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/71",
+      "ru": "Э-э... Я всё испортила.\nПрости. Правда,\nпрости![[56]][[42]]",
+      "source_sha256": "0c49b5e9c6c7428dcb5fdd6f2d06f38584f80534381f7f9fbfb05c7bf302529f",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/72",
+      "ru": "[[510C]][[1D03]]вернулась![[1D03]][[1D03]][[1D03]]\n[[4600]][[[41C]]][[1D03]]\nУспех! Дали премию![[56]][[42]]",
+      "source_sha256": "691a7758180268eddb242600ad3418ba03c5bbd835afe79a2d4e3e6ba753d74d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/73",
+      "ru": "[[510C]] с докладом.\n[[4600]][[[41C]]]\nПро[[1B01]]шло [[1D03]]без [[1D03]]помех.[[1D03]][[1D03]][[56]][[42]]",
+      "source_sha256": "05e1925e21e89d8b1cb46130f277c8dc045401155f5eef76f3d41abda33d3714",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/74",
+      "ru": "[[510C]] с докладом.\n[[4600]][[[41C]]][[1D04]] —\nуспех. Это всё![[56]][[42]]",
+      "source_sha256": "8cd68916f79296ba79efeb70df81a9926e346d297e6afbed46d540843b5cc9e9",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/75",
+      "ru": "На связи [[510C]]. Успех!\nВозвращаюсь в клан.[[56]][[42]]",
+      "source_sha256": "aacc62f148737d8ff0b07eb7eb1eabf5c46c55c1b1876e42cd6b04b9a81e406d",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/76",
+      "ru": "[[510C]][[1D02]]с[[1D02]]дурной[[1D02]]вестью.[[1D02]]\n[[4600]][[[41C]]][[1D03]]\nПровал.[[56]][[42]]",
+      "source_sha256": "65b268f63611d068699d997a95693ca643815ea9f2d47e3a6a5a24a37dddafb8",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/77",
+      "ru": "На связи [[510C]].\n[[4600]][[[41C]]]\nВсё[[1D03]]плохо.[[1D03]] Вот[[1D03]] и[[1D03]] всё.[[1D03]][[56]][[42]]",
+      "source_sha256": "7217844ccd8667b92d47da156e9facfbacd934cc0ca2c58f1e282322a8f137e1",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/78",
+      "ru": "...На связи [[510C]].\n[[4600]][[[41C]]][[1D03]]\nПровал. Прости...[[56]][[42]]",
+      "source_sha256": "36bd6a26d8ca66689acb2298596e3d3470c688052642a50aeb04d952be066cd8",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/79",
+      "ru": "На связи [[510C]]. Буду\nкратка: я оплошала.\nПрости.[[56]][[42]]",
+      "source_sha256": "4e2888f459f055bac0b87ede9850cdbb6ae651ed44fddeba185f6d4b6ab1ca00",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/80",
+      "ru": "Отчёт:\n[[4600]][[[41C]]][[1D03]] —\nблестящий успех![[56]][[42]]",
+      "source_sha256": "2a05167c98443220e99674ecfc1c774423af52eaca0083ef3605edc44dbcddc2",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/82",
+      "ru": "[[5106]] с докладом.\n[[4600]][[[41C]]]\nПро[[1B01]]шло [[1D03]]без [[1D03]]помех.[[1D03]][[1D03]][[56]][[42]]",
+      "source_sha256": "5813b4458b0abb6028f71aba6b145bf2c1bc96d064f2a2c0cd335329b37019ce",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/83",
+      "ru": "[[5106]] с докладом.\n[[4600]][[[41C]]]\nПро[[1B01]]шло [[1D03]]без [[1D03]]помех.[[1D03]][[1D03]][[56]][[42]]",
+      "source_sha256": "5813b4458b0abb6028f71aba6b145bf2c1bc96d064f2a2c0cd335329b37019ce",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/84",
+      "ru": "Прошу прощения.\nКажется, я провалил\n[[4600]][[[41C]]]...[[56]][[42]]",
+      "source_sha256": "f88af9c7ea1941998c6f87d017b64a50fe60d940e0228f6682c07f898c5f7683",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/86",
+      "ru": "Тяжело говорить, но я\nпровалил\n[[4600]][[[41C]]].[[56]][[42]]",
+      "source_sha256": "caed3105b52312e6247df6e9a147acb3c8c2197dbf0c0296baf4beae74ea4433",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    },
+    {
+      "id": "fx_text/11/87",
+      "ru": "Бой прошёл плохо.\nПришлось отступить.\nПрости.[[56]][[42]]",
+      "source_sha256": "17e8c2a71181110fa93706f7bf53d5937ec793a9f9858c2e70b546982d878b4b",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 3,
+      "layout_profile": "dialogue",
+      "dynamic_widths": {
+        "040C": 81,
+        "041C": 104,
+        "4600": 16
+      },
+      "max_player_name_width": 81,
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true
+    }
+  ]
+}

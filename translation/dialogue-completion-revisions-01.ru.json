@@ -1,0 +1,113 @@
+{
+  "batch": "DIALOGUE-COMPLETE-01",
+  "entries": [
+    {
+      "id": "s_text/60/2",
+      "ru": "...?\n[[5108]]?\n[[5108]]![[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/61/3/54",
+      "ru": "[[102]]Т-тёмный герцог?\nКупопо! Надо[[1D04]] —[[1D04]]\nзначит,[[1D04]] надо,[[1D04]] купо.[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/61/9/14",
+      "ru": "[[101]]Победа, купо!\nБорзой[[1D04]] и[[1D04]] Красные\nкрылья[[1D04]] пали, купо![[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/36/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/40/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/41/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/43/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/54/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/56/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/57/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/58/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    },
+    {
+      "id": "s_text/59/57",
+      "ru": "Ритц, послушай... Ты\nещё не хочешь\nвернуться домой?..[[4F]][[42]]Нет, неважно. Пока!\n(Мьют, Ритц...\n[[1D10]]Мы ещё сразимся?..)[[40]][[42]]",
+      "resolve_fixed_references": true,
+      "measure_control_offsets": true,
+      "max_width": 156,
+      "max_lines": 3,
+      "status": "full_dialogue_static_layout_revision"
+    }
+  ]
+}
