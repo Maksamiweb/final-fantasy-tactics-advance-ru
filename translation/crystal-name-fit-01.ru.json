@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "id": "words:refer/20",
+      "ru": "Кристалл",
+      "source_sha256": "f614689f84c0769ad22390c9fa34665696a353ad8b0d65641f67a74fa8227831",
+      "runtime_verified": false,
+      "max_width": 156,
+      "max_lines": 1,
+      "layout_profile": "single_line_unverified"
+    }
+  ]
+}

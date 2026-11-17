@@ -3,7 +3,7 @@
   "authored_translated_records": 9611,
   "percent": 59.35,
   "story_draft_records": 3096,
-  "last_built_release": "audit-1.23",
+  "last_built_release": "audit-1.25",
   "last_built_records": 9611,
   "unbuilt_draft_records": 0,
   "counting_policy": "Уникальные идентификаторы авторских переводов; каталог включает повторы и служебные записи. Это процент чернового текста, не редакторской или игровой готовности.",
@@ -147,7 +147,9 @@
     "translation/menu-card-fit-01.ru.json",
     "translation/help-window-fit-01.ru.json",
     "translation/item-fit-01.ru.json",
-    "translation/quest-description-fit-01.ru.json"
+    "translation/quest-description-fit-01.ru.json",
+    "translation/crystal-name-fit-01.ru.json",
+    "translation/battle-target-name-fit-01.ru.json"
   ],
   "content_name_records": 744,
   "content_meaningful_name_records": 744,
@@ -261,7 +263,7 @@
     "translation/editorial-revisions-03.ru.json"
   ],
   "last_built_graphics_labels": 12,
-  "pending_existing_id_revisions": 4048,
+  "pending_existing_id_revisions": 4059,
   "latest_ui_fix": {
     "batch": "UI-B001 + ED-B004",
     "status": "private_candidate_verified_not_published",
@@ -388,26 +390,26 @@
     "native_all_scenes_verified": false
   },
   "latest_text_snapshot": {
-    "path": "work\\quest-fit\\prepared.json",
-    "sha256": "ee426d85d0a329623620650a81c0ecdaeb873d2c1489638e15de4880771d6000",
+    "path": "work\\target-fit\\prepared.json",
+    "sha256": "dea697cd9b2d9ee2885f0f3916080f8da097941835b62a0b33a2a00a62a3b873",
     "records": 9611,
     "built_into_rom": true,
-    "release": "audit-1.23",
-    "published_snapshot": "translation/ru-audit-1.23.json"
+    "release": "audit-1.25",
+    "published_snapshot": "translation/ru-audit-1.25.json"
   },
   "latest_audit_release": {
-    "release": "audit-1.23",
-    "rom": "../FFTA-USA-RU-audit-1.23.gba",
-    "bps": "patches/ffta-usa-ru-audit-1.23.bps",
-    "sha256": "6563567062787426aaf5fe657d5db5e27b520fa32a8fa4df562c9e823518c6d3",
+    "release": "audit-1.25",
+    "rom": "../FFTA-USA-RU-audit-1.25.gba",
+    "bps": "patches/ffta-usa-ru-audit-1.25.bps",
+    "sha256": "1c0fb9c8c762ab0514051ec29bb9061ac2b548cb7528fa0c35681e9fcd973803",
     "full_game_audit_completed": false,
-    "reviewed_descriptions": 376,
-    "empty_entries": 135,
-    "adjusted_records": 156,
+    "adjusted_records": 10,
+    "reviewed_names": 826,
+    "max_measured_width": 92,
+    "vba_next_crystal_attack_verified": true,
     "unit_tests_passed": 118,
     "independent_flips_exact": true,
-    "all_quest_windows_runtime_verified": false,
-    "report": "reports/audit-1.23-release.json"
+    "report": "reports/audit-1.25-release.json"
   },
   "pending_revision_baseline": "Overlay files retained relative to frozen ru.json/0.9; all currently included in audit-1. Pending lists are not unbuilt content."
 }
