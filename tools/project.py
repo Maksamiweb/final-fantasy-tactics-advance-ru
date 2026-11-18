@@ -246,7 +246,7 @@ def fixed_name_widths(entries,reverse,widths):
     return result
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('command',choices=['extract','build']);p.add_argument('--rom',type=Path,required=True);p.add_argument('--upstream',type=Path,required=True);p.add_argument('--catalog',type=Path);p.add_argument('--translation',type=Path);p.add_argument('--font',type=Path);p.add_argument('--out',type=Path,required=True);p.add_argument('--private-rom',type=Path);p.add_argument('--status-graphics',type=Path,help='Pinned native-tested status LZSS stream, optional');p.add_argument('--ui-heading-graphics',type=Path,help='Authored UI A7 heading archive, optional');p.add_argument('--mission-graphics',type=Path,help='Private mission RANK/PAGE LZSS stream, optional');p.add_argument('--roster-graphics',type=Path,help='Private roster hint LZSS stream, optional');p.add_argument('--calendar-graphics',type=Path,help='Authored month A7 archive, optional');p.add_argument('--world-hud-graphics',type=Path,help='Private treasury/day LZSS stream, optional');p.add_argument('--world-button-graphics',type=Path,help='Private world LAW/Info LZSS stream, optional');p.add_argument('--battle-popup-graphics',type=Path,help='Private floating combat A7 archive, optional');p.add_argument('--equipment-button-graphics',type=Path,help='Private equipment button LZSS stream, optional');p.add_argument('--ability-type-graphics',type=Path,help='Private ability type A7 archive, optional');p.add_argument('--law-panel-graphics',type=Path,help='Private duplicate law heading LZSS stream, optional');p.add_argument('--map-location-graphics',type=Path,help='Authored30-place A7 archive and native layout tables, optional');p.add_argument('--battle-goal-graphics',type=Path,help='Private battle objective archive/header directory');p.add_argument('--battle-result-graphics',type=Path,help='Authored battle/mission result archive directory');p.add_argument('--save-counter-graphics',type=Path,help='Private save-slot completed-mission LZSS');p.add_argument('--banner-font',type=Path,help='Pinned local bold italic font for battle captions');p.add_argument('--map-alert-graphics',type=Path,help='Private Engage and Mission caption streams');p.add_argument('--title-menu-graphics',type=Path,help='Authored raw title-screen menu OBJ labels');p.add_argument('--title-credit-graphics',type=Path,help='Private BG title credits graphics/map');p.add_argument('--title-heading-font',type=Path,help='Local serif font for Russian edition caption');p.add_argument('--title-credit-font',type=Path,help='Local upright font for larger translation credit');p.add_argument('--ready-caption-graphics',type=Path,help='Private160x24 Russian Get Ready caption');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('command',choices=['extract','build']);p.add_argument('--rom',type=Path,required=True);p.add_argument('--upstream',type=Path,required=True);p.add_argument('--catalog',type=Path);p.add_argument('--translation',type=Path);p.add_argument('--font',type=Path);p.add_argument('--out',type=Path,required=True);p.add_argument('--private-rom',type=Path);p.add_argument('--status-graphics',type=Path,help='Pinned native-tested status LZSS stream, optional');p.add_argument('--ui-heading-graphics',type=Path,help='Authored UI A7 heading archive, optional');p.add_argument('--mission-graphics',type=Path,help='Private mission RANK/PAGE LZSS stream, optional');p.add_argument('--roster-graphics',type=Path,help='Private roster hint LZSS stream, optional');p.add_argument('--calendar-graphics',type=Path,help='Authored month A7 archive, optional');p.add_argument('--world-hud-graphics',type=Path,help='Private treasury/day LZSS stream, optional');p.add_argument('--world-button-graphics',type=Path,help='Private world LAW/Info LZSS stream, optional');p.add_argument('--battle-popup-graphics',type=Path,help='Private floating combat A7 archive, optional');p.add_argument('--equipment-button-graphics',type=Path,help='Private equipment button LZSS stream, optional');p.add_argument('--ability-type-graphics',type=Path,help='Private ability type A7 archive, optional');p.add_argument('--law-panel-graphics',type=Path,help='Private duplicate law heading LZSS stream, optional');p.add_argument('--map-location-graphics',type=Path,help='Authored30-place A7 archive and native layout tables, optional');p.add_argument('--battle-goal-graphics',type=Path,help='Private battle objective archive/header directory');p.add_argument('--battle-result-graphics',type=Path,help='Authored battle/mission result archive directory');p.add_argument('--save-counter-graphics',type=Path,help='Private save-slot completed-mission LZSS');p.add_argument('--banner-font',type=Path,help='Pinned local bold italic font for battle captions');p.add_argument('--map-alert-graphics',type=Path,help='Private Engage and Mission caption streams');p.add_argument('--title-menu-graphics',type=Path,help='Authored raw title-screen menu OBJ labels');p.add_argument('--title-credit-graphics',type=Path,help='Private BG title credits graphics/map');p.add_argument('--title-heading-font',type=Path,help='Local serif font for Russian edition caption');p.add_argument('--title-credit-font',type=Path,help='Local upright font for larger translation credit');p.add_argument('--ready-caption-graphics',type=Path,help='Private160x24 Russian Get Ready caption');p.add_argument('--word-layout',type=Path,help='Build report fixing word addresses and reserved byte lengths');a=p.parse_args()
     s,raw,root,charset=load(a.rom,a.upstream);items=records(s,root)
     if a.command=='extract':
         catalog={k:{'source':text(v['obj'].tokens,charset),'source_sha256':semantic_hash(v['obj'].tokens),'offset':hex(v['obj'].real_offset),'tokens':v['obj'].tokens} for k,v in items.items()}
@@ -320,6 +320,11 @@ def main():
             tokens[ident]=shared_lines[key];affected_aliases.append(ident)
     # An append-only plan retains all source bytes; only explicitly inventoried pointers change.
     writes={};append=[];tail=len(raw);relocations=[]
+    word_slots={}
+    if a.word_layout:
+        baseline=json.loads(a.word_layout.read_text(encoding='utf8'))
+        word_slots={entry['id']:entry for entry in baseline['relocations'] if entry.get('kind')=='word'}
+        assert all(entry['kind']=='word' for entry in word_slots.values())
     def push(item,n=None):
         nonlocal tail
         if n is None:n=len(item)
@@ -343,7 +348,16 @@ def main():
     for ident,data in encoded.items():
         item=items[ident]
         if item['line'] is None:
-            align(2);at=push(data);put(item['parent'].real_offset+item['index']*4,struct.pack('<I',at+0x8000000));relocations.append({'id':ident,'new_offset':hex(at),'bytes':len(data),'kind':'word'})
+            align(2)
+            reserved=len(data)
+            if word_slots:
+                slot=word_slots[ident]
+                assert tail==int(slot['new_offset'],16),ident+' stable word address changed'
+                reserved=slot['bytes']
+                assert len(data)<=reserved,ident+' exceeds reserved word slot'
+            at=push(data+bytes(reserved-len(data)))
+            put(item['parent'].real_offset+item['index']*4,struct.pack('<I',at+0x8000000))
+            relocations.append({'id':ident,'new_offset':hex(at),'bytes':len(data),'reserved_bytes':reserved,'kind':'word'})
         else:pages[item['parent'].real_offset][ident]=data
     for changes in pages.values():
         first=items[next(iter(changes))];page=first['parent'];align();base=tail
