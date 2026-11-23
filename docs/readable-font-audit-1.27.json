@@ -1,0 +1,14 @@
+{
+  "version": "audit-1.27",
+  "changed_range": [
+    "0x1063380",
+    "0x1067b80"
+  ],
+  "bytes_changed": 2184,
+  "outside_font_unchanged": true,
+  "widths_and_text_addresses_unchanged": true,
+  "bps_roundtrip": true,
+  "rom_sha1": "036659be47c98cff28cc6fe4d2f0fe45f40c1f62",
+  "rom_sha256": "5fa7a4ff38506c6e35539286475ae84b46f67c18465fec68b43212402638a43c",
+  "patch_sha256": "0b5aec4ee773ef0692cb64657176b54f18c4b6248e1cbc60ffa493f07c504b9d"
+}
